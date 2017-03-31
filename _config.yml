@@ -40,6 +40,10 @@ prose:
         field:
           element: "text"
           label: "title"
+      - name: "newid"
+        field:
+          element: "hidden"
+          value: "CURRENT_DATETIME"          
       - name: "publish"
         field:
           element: "text"
