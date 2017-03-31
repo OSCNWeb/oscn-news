@@ -76,3 +76,9 @@ prose:
               value: "aoc"
             - name: "Supreme Court"
               value: "supreme"
+    _posts/carousel:
+      - name: "carousel_expire"
+        field:
+          element: "text"
+          label: "Carousel Expiration"
+          value: "CURRENT_DATETIME"
