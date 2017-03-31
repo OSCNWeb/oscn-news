@@ -67,4 +67,8 @@ prose:
           element: "multiselect"
           label: "Category"
           help: ""
-          options: {"name":"AOC", "value":"aoc"},{"name":"Suprme", "value":"supreme"}
+          options:
+            - name: "AOC"
+              value: "aoc"
+            - name: "Supreme Court"
+              value: "supreme"
