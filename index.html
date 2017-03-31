@@ -1,0 +1,7 @@
+---
+layout: default
+permalink: test.csv
+---
+"title","date","categories","content"
+{% for n in site.posts %}"{{n.title}}","{{n.date}}","{{n.categories}}","{{n.content | smartify }}"
+{% endfor %}
