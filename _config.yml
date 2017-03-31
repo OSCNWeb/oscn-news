@@ -62,9 +62,3 @@ prose:
           label: "Featured Item"
           help: ""
           value: 0
-      - name: "category"
-        field:
-          element: "multiselect"
-          label: "Category"
-          help: ""
-          options: {"name":"AOC", "value":"aoc"},{"name":"Suprme", "value":"supreme"}
