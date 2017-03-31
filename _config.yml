@@ -49,4 +49,22 @@ prose:
         field:
           element: "text"
           label: "Expiration Date"
-          value: "CURRENT_DATETIME"          
+          value: "CURRENT_DATETIME"
+      - name: "system"
+        field:
+          element: "checkbox"
+          label: "System Message"
+          help: "currently not used"
+          value: "false"          
+      - name: "feature"
+        field:
+          element: "number"
+          label: "Featured Item"
+          help: ""
+          value: 0          
+      - name: "category"
+        field:
+          element: "multiselect"
+          label: "Category"
+          help: ""
+          options: {"name":"AOC", "value":"aoc"},{"name":"Suprme", "value":"supreme"}
