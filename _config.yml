@@ -36,10 +36,17 @@ exclude:
 prose:
   metadata:
     _posts:
-      - name: "Date"
+      - name: "title"
         field:
           element: "text"
-          label: "Posting Date"
+          label: "title"
+      - name: "publish"
+        field:
+          element: "text"
+          label: "Published Date"
           value: "CURRENT_DATETIME"
-  
-  
+      - name: "expire"
+        field:
+          element: "text"
+          label: "Expiration Date"
+          value: "CURRENT_DATETIME"          
