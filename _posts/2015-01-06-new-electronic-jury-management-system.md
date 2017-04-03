@@ -10,7 +10,7 @@ news: true
 carousel: true
 link: 
 carousel_expire: 
-carousel_content: '<img src='/assets/img/carousel/jms-carousel.jpg' alt='New electronic jury management system. Making it easier and faster for jurors and the district courts.' />'
+carousel_content: <img src='/assets/img/carousel/jms-carousel.jpg' alt='New electronic jury management system. Making it easier and faster for jurors and the district courts.' />
 layout: default
 ---
 <p><i>The Oklahoma Supreme Court's new electronic Jury Management System is making it easier, and faster for jurors and the District Courts of Oklahoma. It's also producing cost savings.</i></p><p>The Supreme Court of Oklahoma continues the successful installation of its new statewide electronic jury management system. The system was recently installed in fourteen additional district courts, bringing the total to thirty district courts now using the system to mail summonses to potential jurors and check-in prospective jurors.</p><p>On May 15, 2014, Cleveland County became the first district court to use the new jury management system. Rhonda Hall, Cleveland County Court Clerk, used the system to generate approximately 583 summonses that were mailed to prospective jurors. This system allows summonses to be mailed from a central automated mailing service, thereby saving costs on postage and staff time previously needed to print and mail summonses from individual counties. <i>"The automated mailing service has saved Cleveland County time and money. This system checks all addresses against the National Change of Address database which reduces the number of summonses that were returned undeliverable,"</i> said Rhonda Hall, Cleveland County Court Clerk.</p>
