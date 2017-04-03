@@ -76,7 +76,64 @@ prose:
               value: "aoc"
             - name: "Supreme Court"
               value: "supreme"
+      - name: "news"
+        field:
+          element: "hidden"
+          value: 1
+      - name: "carousel"
+        field:
+          element: "hidden"
+          value: false
     _posts/carousel:
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
+      - name: "newsid"
+        field:
+          element: "hidden"
+          value: "CURRENT_DATETIME"          
+      - name: "publish"
+        field:
+          element: "text"
+          label: "Published Date"
+          value: "CURRENT_DATETIME"
+      - name: "expire"
+        field:
+          element: "text"
+          label: "Expiration Date"
+          value: "CURRENT_DATETIME"
+      - name: "system"
+        field:
+          element: "checkbox"
+          label: "System Message"
+          help: "currently not used"
+          value: false
+      - name: "feature"
+        field:
+          element: "number"
+          label: "Featured Item"
+          help: ""
+          value: 0
+      - name: "category"
+        field:
+          element: "multiselect"
+          label: "Category"
+          help: ""
+          options:
+            - name: "AOC"
+              value: "aoc"
+            - name: "Supreme Court"
+              value: "supreme"
+      - name: "news"
+        field:
+          element: "checkbox"
+          label: "Show in news feed"
+          value: true
+      - name: "carousel"
+        field:
+          element: "hidden"
+          value: true
       - name: "carousel_expire"
         field:
           element: "text"
