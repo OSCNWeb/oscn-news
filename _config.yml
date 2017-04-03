@@ -84,6 +84,8 @@ prose:
         field:
           element: "hidden"
           value: false
+prose:
+  metadata:
     _posts/carousel:
       - name: "title"
         field:
