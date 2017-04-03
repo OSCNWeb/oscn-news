@@ -43,7 +43,7 @@ prose:
       - name: "newsid"
         field:
           element: "hidden"
-          value: "CURRENT_DATETIME"          
+          value: "CURRENT_DATETIME"
       - name: "publish"
         field:
           element: "text"
@@ -92,7 +92,7 @@ prose:
       - name: "newsid"
         field:
           element: "hidden"
-          value: "CURRENT_DATETIME"          
+          value: "CURRENT_DATETIME"
       - name: "publish"
         field:
           element: "text"
