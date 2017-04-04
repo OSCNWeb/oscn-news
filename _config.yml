@@ -27,6 +27,7 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 encoding: utf-8
+excerpt_separator: ""
 
 gems:
   - jekyll-feed

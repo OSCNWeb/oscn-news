@@ -1,12 +1,12 @@
 ---
 title: 'Supreme Court Swearing-in Ceremony 2015'
 newsid: 99
-publish: 
-expire: 
+publish: 2015-05-04 12:00 -0500
+expire: 2016-03-08 12:00 -0500
 system: 
 feature: 
 category: 
-news: false
+news: true
 carousel: true
 link: /pages/swearing-in-ceremony
 carousel_expire: 2016-03-08 12:00 -0500

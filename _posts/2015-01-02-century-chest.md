@@ -1,12 +1,12 @@
 ---
 title: 'Century Chest'
 newsid: 16
-publish: 
-expire: 
+publish: 2015-01-02 12:00 -0500
+expire: 2016-03-08 12:00 -0500
 system: 
 feature: 
 category: 
-news: false
+news: true
 carousel: true
 link: /pages/century-letter
 carousel_expire: 2016-03-08 12:00 -0500

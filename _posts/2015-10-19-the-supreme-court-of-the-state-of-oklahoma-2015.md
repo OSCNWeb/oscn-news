@@ -1,12 +1,12 @@
 ---
 title: 'The Supreme Court of the State of Oklahoma - 2015'
 newsid: 100
-publish: 
+publish: 2015-10-19 12:00 -0500
 expire: 
 system: 
 feature: 
 category: 
-news: false
+news: true
 carousel: true
 link: http://www.oscn.net/static/osc-ojs-brochure-online.pdf
 carousel_expire: 
