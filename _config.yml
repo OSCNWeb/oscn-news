@@ -36,6 +36,10 @@ exclude:
 prose:
   metadata:
     _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "posts"
       - name: "title"
         field:
           element: "text"
@@ -85,6 +89,10 @@ prose:
             - name: "Supreme Court"
               value: "supreme"
     _posts/carousel:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "carousel"    
       - name: "title"
         field:
           element: "text"
