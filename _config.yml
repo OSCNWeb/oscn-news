@@ -138,7 +138,7 @@ prose:
         field:
           element: "checkbox"
           label: "Show in news feed"
-          value: true
+          value: false
       - name: "carousel"
         field:
           element: "hidden"
