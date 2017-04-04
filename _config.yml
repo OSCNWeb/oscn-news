@@ -83,7 +83,7 @@ prose:
       - name: "carousel"
         field:
           element: "hidden"
-          value: false
+          value: 'false'
     _posts/carousel:
       - name: "title"
         field:
