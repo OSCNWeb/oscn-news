@@ -123,7 +123,7 @@ prose:
           element: "number"
           label: "Featured Item"
           help: ""
-          value: 0
+          value: 
       - name: "category"
         field:
           element: "multiselect"
@@ -143,6 +143,18 @@ prose:
         field:
           element: "hidden"
           value: true
+      - name: "carousel_content"
+        field:
+          element: "text"
+          label: "Slide"
+          help: "HTML - image for the slide"
+          value: "" 
+      - name: "link"
+        field:
+          element: "text"
+          label: "Link"
+          help: "URL the slide should link to"
+          value: ""          
       - name: "carousel_expire"
         field:
           element: "text"
