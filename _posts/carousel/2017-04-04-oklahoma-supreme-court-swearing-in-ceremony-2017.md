@@ -11,4 +11,5 @@ published: true
 title: Oklahoma Supreme Court Swearing-In Ceremony 2017
 carousel_content: <img src="www.oscn.net/assets/img/carousel/swearing-in-2017.jpg"/>
 carousel_expire: '2017-04-04 15:37 -0500'
+link: 'http://www.oscn.net/pages/swearing-in-ceremony-2017'
 ---
