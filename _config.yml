@@ -76,7 +76,7 @@ prose:
               value: "aoc"
             - name: "Supreme Court"
               value: "supreme"
-      - name: "carousel"
+      - name: "carouselj"
         field:
           element: "hidden"
           value: true
