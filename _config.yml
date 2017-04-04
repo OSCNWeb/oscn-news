@@ -76,14 +76,14 @@ prose:
               value: "aoc"
             - name: "Supreme Court"
               value: "supreme"
-      - name: "news"
-        field:
-          element: "hidden"
-          value: true
       - name: "carousel"
         field:
           element: "hidden"
           value: false
+      - name: "news"
+        field:
+          element: "hidden"
+          value: true
 
     _posts/carousel:
       - name: "title"
