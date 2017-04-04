@@ -11,6 +11,6 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: 
-layout: default
+layout: post
 ---
 <p>Retired District Judge, Glenn Dale Carter, 78, passed away Monday February 9, 2015 in Shawnee, Oklahoma. Services will be held on Friday, February 13, 2015 at 2:00 p.m. at the First Christian Church in Shawnee. Judge Carter served Pottawatomie County for over 30 years, first as Associate District Judge and then as District Judge. His contributions to juvenile justice and the judiciary continue today.</p>

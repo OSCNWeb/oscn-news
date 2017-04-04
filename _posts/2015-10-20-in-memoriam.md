@@ -11,7 +11,7 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: 
-layout: default
+layout: post
 ---
 <p style="text-align: center;"><img style="width: 200px;" src="http://www.oscn.net/images/news/judgecrewson.jpg" alt="Judge Tom Crewson"/></p>
 <p>The Honorable Thomas S. Crewson passed away at age 83 on October 14, 2015. Judge Crewson was a member of the Oklahoma Bar Association for over 50 years, serving as an attorney in private practice, a municipal court judge for the City of Tulsa, a Tulsa County juvenile court referee, a state District Court judge, and Chief Judge of the Tulsa County Juvenile Court where he presided for 14 years before retiring in 2002. He was an active member of the Juvenile Justice Oversight and Advisory Committee, which advises the Oklahoma Supreme Court about issues affecting children in the state courts. </p>

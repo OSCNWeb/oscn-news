@@ -11,7 +11,7 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: 
-layout: default
+layout: post
 ---
 <p><strong>ETHIC COMMISSION - FINANCIAL DISCLOSURE STATEMENTS</strong><br>
 <strong>Electronic Filing System is Now Available</strong></p>

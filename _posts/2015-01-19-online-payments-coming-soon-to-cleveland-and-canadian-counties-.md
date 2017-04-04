@@ -11,7 +11,7 @@ carousel: true
 link: 
 carousel_expire: 2015-01-25 12:00 -0500
 carousel_content: <img src='/assets/img/carousel/epayments-coming-soon.jpg' alt='Coming soon to cleveland and canadian counties, online payments' />
-layout: default
+layout: post
 ---
 <p>The Supreme Court of Oklahoma will soon release its new web-based e-Payments system on www.oscn.net. In the near future, paying outstanding court costs and fines will become more convenient in selected district courts.</p>
  <!--more-->

@@ -11,6 +11,6 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: 
-layout: default
+layout: post
 ---
 The Judicial Nominating Commission is seeking applicants for judicial vacancies in Comanche County and Okfuskee County.  Please see the <a href="http://www.oscn.net/jnc/about" target="_blank">Judicial Nominating Commission</a> web page for the application, instructions and additional information.

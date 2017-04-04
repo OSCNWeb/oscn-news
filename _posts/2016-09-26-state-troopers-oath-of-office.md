@@ -11,7 +11,7 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: 
-layout: default
+layout: post
 ---
 <p style="text-align: center;"><img src="//www.oscn.net/images/news/justice-reif.jpg" alt=""/></p>
 	<p>John Reif, Chief Justice of the Oklahoma Supreme Court, had the honor of administering the oath of office to new state troopers earlier this summer.</p>

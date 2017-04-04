@@ -11,7 +11,7 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: 
-layout: default
+layout: post
 ---
 <p>The Oklahoma Supreme Court has appointed two new members to the Judicial Ethics Advisory Panel (JEAP). Edward Cunningham and Jerry Salyer joined the Judicial Ethics Advisory Panel, effective July 1, 2015, bringing the total membership to five.</p>
 <p>The Panel now includes:</p>

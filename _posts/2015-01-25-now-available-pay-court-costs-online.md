@@ -11,7 +11,7 @@ carousel: true
 link: 
 carousel_expire: 2015-04-27 12:00 -0500
 carousel_content: <img src='/assets/img/carousel/epayments.jpg' alt='Now Available!  Pay Court Costs Online' />
-layout: default
+layout: post
 ---
 <p><i>Our new e-Payments system allows the public to make secure online payments on cases and payment plans with outstanding balances in <u>Canadian County and Cleveland County.</u></i></p>
 <p>The Supreme Court of Oklahoma has launched its new e-Payments system.  The public can now make secure online payments on cases and payment plans with outstanding balances in <u>select</u> District Courts of Oklahoma.   e-Payments is available now for Cleveland County and Canadian County only, but the Supreme Court of Oklahoma will expand  e-Payments to other district courts in the near future.</p>

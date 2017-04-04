@@ -11,7 +11,7 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: 
-layout: default
+layout: post
 ---
 <img src="http://www.oscn.net/images/news/esm-vol-02.jpg" alt="" style="float: right; margin: 0 0 8px 8px; width: 200px;"/>
 <p>Over 120 community volunteers from around the state attended the 22nd annual Early Settlement Volunteer Mediator Conference on Friday, October 21, 2016, on the campus of Rose State College in Midwest City. The conference theme was "Helping People Work Together" and is best stated in this syllogism: "In order for people to work together, first they must think together. In order for people to think together, first they must talk together."</p>

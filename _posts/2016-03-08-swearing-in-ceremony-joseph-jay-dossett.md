@@ -11,7 +11,7 @@ carousel: true
 link: 
 carousel_expire: 2016-03-14 12:00 -0500
 carousel_content: <img src="http://www.oscn.net/images/news/dosset-swearing-in.jpg" alt="Senator elect, J.J. Dossett being sworn into office. Collage of photos from ceremony"/>
-layout: default
+layout: post
 ---
 <div style="text-align: center;">
 	<img src="http://www.oscn.net/images/news/dosset-senator.jpg" alt="John Reif, Chief Justice of the Oklahoma Supreme Court poses with Senator elect, J.J. Dossett"/>

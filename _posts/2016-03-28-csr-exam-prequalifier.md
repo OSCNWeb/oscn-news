@@ -11,7 +11,7 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: 
-layout: default
+layout: post
 ---
 <p>The CSR Board of Examiners will be offering students an opportunity to take a pre-qualifier. This is in addition to the tests offered at the Oklahoma College of Court Reporting.</p>
 <p><strong>Date:</strong> Wednesday, April 13, 2016</p>

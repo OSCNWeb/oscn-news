@@ -11,7 +11,7 @@ carousel: true
 link: 
 carousel_expire: 2015-05-29 12:00 -0500
 carousel_content: <img src='/assets/img/carousel/epayments-tulsa.jpg' alt='Tulsa county online with e-payments' />
-layout: default
+layout: post
 ---
 <p>On Friday, April 10th, the Supreme Court of Oklahoma released its e-Payments system in Tulsa County. This is the third successful release of this popular online payment system customized for select district courts. "<em>We had citizens making payments within just a few hours after the e-Payments system was released in our office. I believe this type of response proves the public has been waiting for the opportunity to pay court costs online.</em>" said Sally Howe Smith, Tulsa County District Court Clerk.</p>
  <!--more-->

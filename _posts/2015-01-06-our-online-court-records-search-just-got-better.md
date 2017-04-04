@@ -11,7 +11,7 @@ carousel: true
 link: 
 carousel_expire: 2015-04-27 12:00 -0500
 carousel_content: <img src='/assets/img/carousel/case-search-carousel.jpg' alt='Our online case search just got better! Five counties added to case (docket) search on oscn.' />
-layout: default
+layout: post
 ---
 <p><i>The Supreme Court of Oklahoma's website, www.oscn.net, now offers online access to case information in five additional district courts.  Search millions of court records all in one place for free!</i></p><p>The Supreme Court of Oklahoma recently expanded its case record search to include five additional district courts: <i>Beaver, Lincoln, McCurtain, Noble, and Pottawatomie counties</i>.  The Supreme Court's website, www.oscn.net, is one of the leading state court websites to provide case information and related documents to the public for free.  For over sixteen years, www.oscn.net has hosted millions of records for the Appellate Courts and thirteen of Oklahoma's district courts, including the state's two most populous counties (Oklahoma County and Tulsa County).</p>
  <!--more-->

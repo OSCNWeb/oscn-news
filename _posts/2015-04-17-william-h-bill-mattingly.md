@@ -11,7 +11,7 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: 
-layout: default
+layout: post
 ---
 <p>William H. “Bill” Mattingly, age 84, Pawhuska, retired Associate District Judge of Osage County, and practicing attorney in Pawhuska, died on April 15, 2015 in the Jane Phillips Medical Center, Bartlesville, Oklahoma.  A lifelong resident of Pawhuska, he was born June 20, 1930, the son of the late Judge e. H. Mattingly and Opal Lee Mattingly.  He is survived by his wife, Stanlee Ann, and his son, David Redcorn Mattingly.</p>
 <p>The funeral service will be held at St. Thomas Episcopal Church, 817 Leahy, Pawhuska, at 10:00 AM on Monday, April 20, 2015, under the direction of McCartney’s Johnson Funeral Home of Pawhuska.  (918-287-2297)</p>

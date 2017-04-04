@@ -11,7 +11,7 @@ carousel: true
 link: 
 carousel_expire: 2016-07-23 12:00 -0500
 carousel_content: <img src="http://www.oscn.net/images/news/77-county-case-search-carousel.jpg" alt="77 counties on case search"/>
-layout: default
+layout: post
 ---
 <p>Cimarron County was recently added to the Oklahoma Supreme Court's website, OSCN.net, making it the 77th district court available for case record searches.  With the addition of Cimarron County, the public now has a free and a convenient way to perform district court case searches statewide, as well as the appellate courts.</p>
 <p>This searchable online database was designed and developed by the MIS Division of the Administrative Office of Courts (AOC). This technology does not replace the two case management systems used by the district courts to file cases and documents.  Instead it provides the public a centralized location to search court records and view related documents online.</p>

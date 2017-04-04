@@ -11,7 +11,7 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: 
-layout: default
+layout: post
 ---
 <p style="text-align: center;">The Oklahoma Supreme Court<br>
 is accepting applications<br>

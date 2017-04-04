@@ -11,7 +11,7 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: 
-layout: default
+layout: post
 ---
 <p>Case No. 113,394</p>
 <p>DONNA J. ROGERS and FAB STEEL,<br/>

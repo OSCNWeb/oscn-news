@@ -11,6 +11,6 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: 
-layout: default
+layout: post
 ---
 <p>On Monday, April 27, 2015 at 5:30p.m., the OSCN staff will upgrade the backend services of www.oscn.net.   During this time, <a href="http://www.oscn.net" target="_blank">www.oscn.net</a> will be unavailable.  Services are planned to be restored by 11:00p.m. Monday night.</p>

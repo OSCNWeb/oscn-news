@@ -11,7 +11,7 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: 
-layout: default
+layout: post
 ---
 <img style="float: left; height: 225px; margin-right: 5px; margin-bottom: 5px;" src="http://www.oscn.net/images/news/donalddeason.jpg" />
 <p>Oklahoma County District Judge Donald L. Deason died suddenly Thursday, July 28, 2016. Judge Deason began his public service as a prosecutor in Oklahoma County. He was appointed Special Judge in Oklahoma County on July 1, 1999, and then appointed by Governor Brad Henry as District Judge on April 18, 2005. Judge Deason was currently assigned to the Criminal Felony Trial Docket. He was Presiding Judge for the 3rd Judicial Administrative District encompassing Oklahoma and Canadian Counties and Presiding Judge of the State Multi-County Grand Jury.</p>

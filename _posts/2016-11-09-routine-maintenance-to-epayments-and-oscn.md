@@ -11,6 +11,6 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: 
-layout: default
+layout: post
 ---
 <p>On Thursday, November 10th, at 5:00 p.m., OSCN and ePayments will be down for maintenance.  All services are scheduled to be restored by 11:59 p.m. Thursday night November 10th.  We apologize for any inconvenience.</p><p>Thank you.</p>

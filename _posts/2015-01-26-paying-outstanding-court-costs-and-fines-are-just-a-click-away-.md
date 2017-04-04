@@ -11,7 +11,7 @@ carousel: true
 link: 
 carousel_expire: 2015-04-27 12:00 -0500
 carousel_content: <img src='/assets/img/carousel/epayments-carousel.jpg' alt='' />
-layout: default
+layout: post
 ---
 <p>The Supreme Court of Oklahoma has launched its new E-Payments system in Cleveland County and Canadian County. The E-Payments system will allow citizens the convenience of paying outstanding court costs and fines online.</p>
  <!--more-->

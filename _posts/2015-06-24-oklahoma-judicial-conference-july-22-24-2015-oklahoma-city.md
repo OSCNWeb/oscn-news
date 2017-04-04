@@ -11,7 +11,7 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: 
-layout: default
+layout: post
 ---
 <p>To all members of the Oklahoma Judicial Conference:</p>
 <p>The Supreme Court of Oklahoma and the Oklahoma Judicial Conference Executive Board 

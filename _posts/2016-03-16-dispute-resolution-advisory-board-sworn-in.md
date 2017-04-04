@@ -11,7 +11,7 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: 
-layout: default
+layout: post
 ---
 <p>The Dispute Resolution Advisory Board met on Friday, February 19, 2016, for their regular meeting and to be sworn in by Douglas Combs, Vice Chief Justice of the Oklahoma Supreme Court.  
 </p>

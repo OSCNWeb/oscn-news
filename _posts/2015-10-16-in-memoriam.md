@@ -11,7 +11,7 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: 
-layout: default
+layout: post
 ---
 	<p style="text-align: center;">
 		<img style="width: 300px;" src="http://www.oscn.net/assets/img/judgegarret.jpg" />

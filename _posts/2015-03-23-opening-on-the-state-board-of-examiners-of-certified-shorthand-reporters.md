@@ -11,7 +11,7 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: 
-layout: default
+layout: post
 ---
 <p>The Oklahoma State Board of Examiners of Certified Shorthand Reporters is accepting applications for a board member whose term will begin July 1, 2015. Applications are due no later than April 25, 2015. For more information about service on the CSR Board and how to apply, please see the full article.</p>
  <!--more-->

@@ -11,7 +11,7 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: 
-layout: default
+layout: post
 ---
 <img style="float: left; margin: 0 10px 10px 0;" src="http://www.oscn.net/images/news/owens-charles.jpg" alt="">
 <p>Retired Judge Charles L. Owens passed away on Tuesday, May 24, 2016 with his wife of 59 years Edythe by his side. He was born and raised in Tulsa and graduated from Booker T. Washington High School.  He earned a bachelor's degree in business administration and a minor in economics from Lincoln University in Jefferson City, MO.  After serving in the U.S. Army he returned to Tulsa and became a police officer, while attending the Tulsa University College of Law.  In 1960 he became one of the first African American to earn a Juris Doctorate from TU.</p>

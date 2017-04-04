@@ -11,7 +11,7 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: 
-layout: default
+layout: post
 ---
 <p>Case No. 111,489</p>
 <p>STEPHENS PRODUCTION<br>

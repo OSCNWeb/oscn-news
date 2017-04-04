@@ -11,7 +11,7 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: 
-layout: default
+layout: post
 ---
 <p><a href="http://www.oscn.net/static/constitutional-convention-cle.pdf" target="_blank">The Oklahoma Constitutional Convention</a></p>
 <p>Oklahoma Judicial Center

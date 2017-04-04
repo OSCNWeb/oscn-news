@@ -11,7 +11,7 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: 
-layout: default
+layout: post
 ---
 <div style="float: left;"><img src="http://www.oscn.net/images/news/judgeechols.jpg" alt="Judge Echols"></div>
 <p>Judge M. Eileen Echols passed away on Thursday, June 30, 2016. Memorial services are at 10:00 am on Wednesday, July 6, at Southern Hills Baptist Church (Vondel L. Smith &amp; Son at South Lakes, Oklahoma City).</p>

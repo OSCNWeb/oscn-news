@@ -11,7 +11,7 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: 
-layout: default
+layout: post
 ---
 <p>The annual meeting of the Oklahoma Judges' Association (OJA) will convene at 4:30 p.m., following the conclusion of the afternoon session of the Oklahoma Judicial Conference, on Thursday, July 23, 2015, at the Embassy Suites Hotel in Oklahoma City (downtown/medical center hotel and conference center).</p>
 <p>Agenda for OJA Meeting:</p>

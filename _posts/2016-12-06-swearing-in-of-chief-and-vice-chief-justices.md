@@ -11,7 +11,7 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: 
-layout: default
+layout: post
 ---
 <div style="text-align: center;">
 <p><strong>The Supreme Court</strong><br>

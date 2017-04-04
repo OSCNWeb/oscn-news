@@ -11,7 +11,7 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: 
-layout: default
+layout: post
 ---
 <p><strong>Position:</strong> Administrative Director of the Courts</p>
 <p><strong>Location:</strong> Judicial Center, Oklahoma City</p>

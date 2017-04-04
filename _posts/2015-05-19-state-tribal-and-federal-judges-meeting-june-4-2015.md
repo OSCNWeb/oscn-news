@@ -11,7 +11,7 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: 
-layout: default
+layout: post
 ---
 <p>All State Judicial Officers, including those on Active Retired Status, whose
 schedules will permit them to do so, may attend the State, Tribal and Federal Judges

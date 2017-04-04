@@ -11,7 +11,7 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: 
-layout: default
+layout: post
 ---
 <p>Case No. 114,160</p>
 <p>OKMULGEE COUNTY FAMILY<br>

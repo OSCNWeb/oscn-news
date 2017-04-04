@@ -11,7 +11,7 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: 
-layout: default
+layout: post
 ---
 <img src="http://www.oscn.net/images/judges/id/johnjacobsen.jpg" alt="Portrait of Judge John Jacobsen" style="width: 200px; float: left; margin: 0 10px 10px 0;" />
 <p>Special Judge John Jacobsen passed away the morning of December 25, 2016 at the age of 58.  Judge Jacobsen was appointed by the Oklahoma County District Judges and took the bench on August 15, 2011, serving his entire judicial career as a Juvenile Court Judge. He received his undergraduate degree in English from Brigham Young University in 1983 and his Juris Doctorate from Oklahoma City University School of Law in 1986.</p>

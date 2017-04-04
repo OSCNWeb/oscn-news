@@ -11,6 +11,6 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: 
-layout: default
+layout: post
 ---
 <p>Lee Slater, Executive Director of the Oklahoma Ethics Commission, has prepared an informational article regarding new changes at the Ethics Commission as they affect the Judiciary. The article, <a class="pdf-link" href="http://www.oscn.net/static/news/application-of-ethics-rules-to-judicial-officers-2015.pdf" target="_blank">Application of Rules of the Oklahoma Ethics Commission to Judicial Officers</a>, is now available on OSCN.</p>

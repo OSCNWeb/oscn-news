@@ -11,6 +11,6 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: 
-layout: default
+layout: post
 ---
 On Sunday, July 17, 2016 at 9:00 a.m. CST, the OSCN staff will be updating the OSCN servers. During this time, Court Records maybe unavailable. Services are scheduled to be restored by 12:00 p.m. CST, on Sunday, July 17, 2016. We apologize for any inconvenience.

@@ -11,7 +11,7 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: 
-layout: default
+layout: post
 ---
 <p>The Oklahoma State Board of Examiners of Certified Shorthand Reporters is accepting applications for a new board member whose term will begin July 1, 2016. </p>
 <p>The State Board of Examiners of Certified Shorthand Reporters consists of five members, all of whom must be certified shorthand reporters. The members must be persons who have been, for at least five years prior to their appointment to the Board, residents of this state and certified shorthand reporters. All members are appointed by the Chief Justice of the Supreme Court and serve in staggered terms, each for a period of five years. </p>
