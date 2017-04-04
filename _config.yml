@@ -66,6 +66,14 @@ prose:
           label: "Featured Item"
           help: ""
           value: 0
+      - name: "carousel"
+        field:
+          element: "hidden"
+          value: false
+      - name: "news"
+        field:
+          element: "hidden"
+          value: true
       - name: "category"
         field:
           element: "multiselect"
@@ -76,15 +84,6 @@ prose:
               value: "aoc"
             - name: "Supreme Court"
               value: "supreme"
-      - name: "carouselj"
-        field:
-          element: "hidden"
-          value: false
-      - name: "news"
-        field:
-          element: "hidden"
-          value: true
-
     _posts/carousel:
       - name: "title"
         field:
