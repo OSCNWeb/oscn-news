@@ -80,6 +80,10 @@ prose:
         field:
           element: "hidden"
           value: true
+      - name: "carousel"
+        field:
+          element: "hidden"
+          value: false
 
     _posts/carousel:
       - name: "title"
