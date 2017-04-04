@@ -79,7 +79,7 @@ prose:
       - name: "news"
         field:
           element: "hidden"
-          value: 1
+          value: true
       - name: "carousel"
         field:
           element: "hidden"
