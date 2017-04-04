@@ -1,5 +1,5 @@
 ---
-title: 'Notice of Oral Argument Case No. 11489'
+title: ''Notice of Oral Argument Case No. 11489''
 newsid: 93
 publish: 2015-04-27 02:00 -0500
 expire: 2015-05-09 02:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: false
 link: 
 carousel_expire: 
-carousel_content: 
+carousel_content: ''''
 layout: post
 ---
 <p>Case No. 111,489</p>

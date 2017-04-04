@@ -1,5 +1,5 @@
 ---
-title: 'Women in Law Section of the Oklahoma Bar Announces Awards'
+title: ''Women in Law Section of the Oklahoma Bar Announces Awards''
 newsid: 134
 publish: 2015-09-14 12:00 -0500
 expire: 2015-09-18 05:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: false
 link: 
 carousel_expire: 
-carousel_content: 
+carousel_content: ''''
 layout: post
 ---
 <p>The five recipients of the 2015 Mona Salyer Lambird Spotlight Award are:</p>

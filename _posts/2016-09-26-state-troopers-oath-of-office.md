@@ -1,5 +1,5 @@
 ---
-title: 'State Troopers - Oath of Office'
+title: ''State Troopers - Oath of Office''
 newsid: 201
 publish: 2016-09-26 12:00 -0500
 expire: 2016-10-26 12:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: false
 link: 
 carousel_expire: 
-carousel_content: 
+carousel_content: ''''
 layout: post
 ---
 <p style="text-align: center;"><img src="//www.oscn.net/images/news/justice-reif.jpg" alt=""/></p>

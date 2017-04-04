@@ -1,5 +1,5 @@
 ---
-title: 'IN MEMORIAM: Judge Thomas Bartheld'
+title: ''IN MEMORIAM: Judge Thomas Bartheld''
 newsid: 212
 publish: 2016-11-14 12:00 -0500
 expire: 2016-11-20 12:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: false
 link: 
 carousel_expire: 
-carousel_content: 
+carousel_content: ''''
 layout: post
 ---
 <img src="http://www.oscn.net/images/news/judge-bartheld.jpg" alt="" style="float: right; margin: 0 0 8px 8px; width: 200px;"/>

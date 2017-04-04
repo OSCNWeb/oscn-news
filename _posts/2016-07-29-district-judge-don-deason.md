@@ -1,5 +1,5 @@
 ---
-title: 'District Judge Don Deason'
+title: ''District Judge Don Deason''
 newsid: 194
 publish: 2016-07-29 12:00 -0500
 expire: 2016-08-05 12:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: false
 link: 
 carousel_expire: 
-carousel_content: 
+carousel_content: ''''
 layout: post
 ---
 <img style="float: left; height: 225px; margin-right: 5px; margin-bottom: 5px;" src="http://www.oscn.net/images/news/donalddeason.jpg" />

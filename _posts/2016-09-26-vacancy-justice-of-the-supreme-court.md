@@ -1,5 +1,5 @@
 ---
-title: 'Vacancy - Justice of the Supreme Court'
+title: ''Vacancy - Justice of the Supreme Court''
 newsid: 204
 publish: 2016-09-26 12:00 -0500
 expire: 2016-11-14 12:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: false
 link: 
 carousel_expire: 
-carousel_content: 
+carousel_content: ''''
 layout: post
 ---
 <div class="vacant">

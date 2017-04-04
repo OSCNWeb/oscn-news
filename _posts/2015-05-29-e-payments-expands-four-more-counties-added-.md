@@ -1,5 +1,5 @@
 ---
-title: 'e-Payments Expands – Four More Counties Added!'
+title: ''e-Payments Expands – Four More Counties Added!''
 newsid: 110
 publish: 2015-05-29 12:00 -0500
 expire: 2015-06-04 12:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: true
 link: 
 carousel_expire: 2015-06-04 12:00 -0500
-carousel_content: <img src='/assets/img/carousel/epayments-garfield-logan-oklahoma-payne.jpg' alt='ePayments now available in Garfield, Logan, Oklahoma and Payne Counties' />
+carousel_content: ''<img src=''/assets/img/carousel/epayments-garfield-logan-oklahoma-payne.jpg'' alt=''ePayments now available in Garfield, Logan, Oklahoma and Payne Counties'' />''
 layout: post
 ---
 <p><em>−The Supreme Court expands its popular online payment system to include Oklahoma County, the most populous county in the state, as well as, Garfield, Logan, and Payne Counties.</em></p><p>The Oklahoma Supreme Court has expanded its e-Payments system to include four additional counties - Garfield, Logan, Oklahoma, and Payne Counties, bringing the total to seven district courts that accept online payments for outstanding court costs.</p>

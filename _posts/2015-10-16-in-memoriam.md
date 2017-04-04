@@ -1,5 +1,5 @@
 ---
-title: 'In Memoriam'
+title: ''In Memoriam''
 newsid: 140
 publish: 2015-10-16 12:00 -0500
 expire: 2015-10-19 12:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: false
 link: 
 carousel_expire: 
-carousel_content: 
+carousel_content: ''''
 layout: post
 ---
 	<p style="text-align: center;">

@@ -1,5 +1,5 @@
 ---
-title: 'Paying outstanding court costs and fines are just a click away!'
+title: ''Paying outstanding court costs and fines are just a click away!''
 newsid: 5
 publish: 2015-01-26 12:00 -0500
 expire: 2015-04-27 12:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: true
 link: 
 carousel_expire: 2015-04-27 12:00 -0500
-carousel_content: <img src='/assets/img/carousel/epayments-carousel.jpg' alt='' />
+carousel_content: ''<img src=''/assets/img/carousel/epayments-carousel.jpg'' alt='''' />''
 layout: post
 ---
 <p>The Supreme Court of Oklahoma has launched its new E-Payments system in Cleveland County and Canadian County. The E-Payments system will allow citizens the convenience of paying outstanding court costs and fines online.</p>

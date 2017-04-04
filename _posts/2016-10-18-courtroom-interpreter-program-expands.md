@@ -1,5 +1,5 @@
 ---
-title: 'Courtroom Interpreter Program Expands'
+title: ''Courtroom Interpreter Program Expands''
 newsid: 205
 publish: 2016-10-18 12:00 -0500
 expire: 2016-11-05 12:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: false
 link: 
 carousel_expire: 
-carousel_content: 
+carousel_content: ''''
 layout: post
 ---
 <p>The Oklahoma Certified Courtroom Interpreter registry continues to expand with the addition of Courtroom Interpreters certified in Spanish and Chinese Mandarin. Likewise, the registry of Registered Courtroom Interpreters has grown, adding the languages of German, Persian Farsi, and Portuguese to the already substantial list of Spanish Courtroom Interpreters.</p>

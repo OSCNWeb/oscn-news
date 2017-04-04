@@ -1,5 +1,5 @@
 ---
-title: 'New Interpreters Pass the Spring Written Exams'
+title: ''New Interpreters Pass the Spring Written Exams''
 newsid: 185
 publish: 2016-05-18 12:00 -0500
 expire: 2016-06-01 12:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: false
 link: 
 carousel_expire: 
-carousel_content: 
+carousel_content: ''''
 layout: post
 ---
 <p>The Oklahoma Supreme Court and State Board of Examiners of Certified Courtroom Interpreters recently held their Spring orientation training and testing where 5 additional interpreters became eligible for enrollment as a Registered Courtroom Interpreter for the Oklahoma courts.  These Registered Interpreters have completed a highly focused two-day training, and have been tested for proficiency in both English and in the foreign language.</p>

@@ -1,5 +1,5 @@
 ---
-title: 'Retirement Reception - Judge Richard G. Van Dyck'
+title: ''Retirement Reception - Judge Richard G. Van Dyck''
 newsid: 202
 publish: 2016-09-26 12:00 -0500
 expire: 2016-09-30 12:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: false
 link: 
 carousel_expire: 
-carousel_content: 
+carousel_content: ''''
 layout: post
 ---
 <p>The public is invited to a gathering to honor District Judge Richard G. Van Dyck and to celebrate his 30 years of service to the citizens of the State of Oklahoma.</p>

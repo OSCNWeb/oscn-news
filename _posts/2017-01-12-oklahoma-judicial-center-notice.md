@@ -1,5 +1,5 @@
 ---
-title: 'Oklahoma Judicial Center Notice'
+title: ''Oklahoma Judicial Center Notice''
 newsid: 223
 publish: 2017-01-12 12:00 -0500
 expire: 2017-01-14 12:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: true
 link: 
 carousel_expire: 2017-01-14 12:00 -0500
-carousel_content: <img src='/assets/img/carousel/weather-closing-01-13-2017.jpg' alt='' />
+carousel_content: ''<img src=''/assets/img/carousel/weather-closing-01-13-2017.jpg'' alt='''' />''
 layout: post
 ---
 <p>Please be advised that the Oklahoma Judicial Center (including the Clerk of the Appellate Courts Office) will be closed today, Friday, January 13, 2017, due to inclement weather.</p>

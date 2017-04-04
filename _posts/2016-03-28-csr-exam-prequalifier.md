@@ -1,5 +1,5 @@
 ---
-title: 'CSR Exam Prequalifier'
+title: ''CSR Exam Prequalifier''
 newsid: 173
 publish: 2016-03-28 12:00 -0500
 expire: 2016-04-14 12:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: false
 link: 
 carousel_expire: 
-carousel_content: 
+carousel_content: ''''
 layout: post
 ---
 <p>The CSR Board of Examiners will be offering students an opportunity to take a pre-qualifier. This is in addition to the tests offered at the Oklahoma College of Court Reporting.</p>

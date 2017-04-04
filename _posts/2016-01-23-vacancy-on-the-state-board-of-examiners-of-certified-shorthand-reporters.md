@@ -1,5 +1,5 @@
 ---
-title: 'Vacancy on the State Board of Examiners of Certified Shorthand Reporters'
+title: ''Vacancy on the State Board of Examiners of Certified Shorthand Reporters''
 newsid: 163
 publish: 2016-01-23 12:00 -0500
 expire: 2016-03-15 05:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: false
 link: 
 carousel_expire: 
-carousel_content: 
+carousel_content: ''''
 layout: post
 ---
 <p>The Oklahoma State Board of Examiners of Certified Shorthand Reporters is accepting applications for a new board member whose term will begin July 1, 2016. </p>

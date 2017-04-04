@@ -1,5 +1,5 @@
 ---
-title: 'Wyrick Named New Supreme Court Justice'
+title: ''Wyrick Named New Supreme Court Justice''
 newsid: 226
 publish: 2017-02-10 12:00 -0500
 expire: 2017-06-10 12:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: false
 link: 
 carousel_expire: 
-carousel_content: 
+carousel_content: ''''
 layout: post
 ---
 <div style="text-align: center;"><img src="http://www.oscn.net/images/news/justice-swearing-in.jpg" alt="" style="width: 400px; margin: 0 auto;" /></div>

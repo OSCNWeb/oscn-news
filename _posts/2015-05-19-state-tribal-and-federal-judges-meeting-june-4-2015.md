@@ -1,5 +1,5 @@
 ---
-title: 'State, Tribal and Federal Judges Meeting - June 4, 2015'
+title: ''State, Tribal and Federal Judges Meeting - June 4, 2015''
 newsid: 108
 publish: 2015-05-19 12:00 -0500
 expire: 2015-06-04 01:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: false
 link: 
 carousel_expire: 
-carousel_content: 
+carousel_content: ''''
 layout: post
 ---
 <p>All State Judicial Officers, including those on Active Retired Status, whose

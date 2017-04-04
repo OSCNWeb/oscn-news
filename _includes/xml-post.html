@@ -1,0 +1,10 @@
+<NewsItem>
+	<title>{{item.title}}</title>
+    <newsitem>{%if item.news == true%}1{%else%}0{%endif%}</newsitem>
+    <carouselitem>{%if item.carousel == true%}1{%else%}0{%endif%}</carouselitem>
+    <newsid>{{item.newsid}}</newsid>
+    <content>{{item.content | xml_escape}}</content>
+    <news_publish>{{item.publish | date: "%Y%m%d"}}</news_publish>
+    <news_expire>{{item.expire | date: "%Y%m%d"}}</news_expire>
+    <initial_publish>{{item.publish | date: "%Y%m%d"}}</initial_publish>	
+</NewsItem>

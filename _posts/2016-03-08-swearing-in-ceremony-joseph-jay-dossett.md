@@ -1,5 +1,5 @@
 ---
-title: 'Swearing-in Ceremony - Joseph Jay Dossett'
+title: ''Swearing-in Ceremony - Joseph Jay Dossett''
 newsid: 169
 publish: 2016-03-08 12:00 -0500
 expire: 2016-03-08 12:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: true
 link: 
 carousel_expire: 2016-03-14 12:00 -0500
-carousel_content: <img src="http://www.oscn.net/images/news/dosset-swearing-in.jpg" alt="Senator elect, J.J. Dossett being sworn into office. Collage of photos from ceremony"/>
+carousel_content: ''<img src=""http://www.oscn.net/images/news/dosset-swearing-in.jpg"" alt=""Senator elect, J.J. Dossett being sworn into office. Collage of photos from ceremony""/>''
 layout: post
 ---
 <div style="text-align: center;">

@@ -1,5 +1,5 @@
 ---
-title: 'e-Payments Expands - Five More Counties Added!'
+title: ''e-Payments Expands - Five More Counties Added!''
 newsid: 113
 publish: 2015-06-17 12:00 -0500
 expire: 2015-07-01 12:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: true
 link: 
 carousel_expire: 2015-07-01 12:00 -0500
-carousel_content: <img src='/assets/img/carousel/epayments-adair-ellis-pushmataha-rogermills-rogers.jpg' alt='ePayments now available in Ellis and Roger Mills Counties' />
+carousel_content: ''<img src=''/assets/img/carousel/epayments-adair-ellis-pushmataha-rogermills-rogers.jpg'' alt=''ePayments now available in Ellis and Roger Mills Counties'' />''
 layout: post
 ---
 <p><em>- The Supreme Court expands its popular online payment system to include Adair, Ellis, Pushmataha, Roger Mills and Rogers Counties.</em></p><p>The Oklahoma Supreme Court has expanded its e-Payments system to include 5 additional counties - Adair, Ellis, Pushmataha, Roger Mills and Rogers Counties, bringing the total to twelve district courts that accept online payments for outstanding court costs.</p>

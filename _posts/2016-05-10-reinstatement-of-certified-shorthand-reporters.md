@@ -1,5 +1,5 @@
 ---
-title: 'Reinstatement of Certified Shorthand Reporters'
+title: ''Reinstatement of Certified Shorthand Reporters''
 newsid: 183
 publish: 2016-05-10 12:00 -0500
 expire: 2016-06-10 12:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: false
 link: 
 carousel_expire: 
-carousel_content: 
+carousel_content: ''''
 layout: post
 ---
 <p>Pursuant to <a href="http://www.oscn.net/images/news/SCAD2016-0037.pdf" target="_blank">SCAD 2016-37</a>, the Supreme Court has ordered the certificate of the court reporters named below be reinstated from the suspension earlier imposed.</p>

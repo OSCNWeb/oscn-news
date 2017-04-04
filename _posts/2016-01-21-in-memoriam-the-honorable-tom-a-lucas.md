@@ -1,5 +1,5 @@
 ---
-title: 'In Memoriam - The Honorable Tom A. Lucas'
+title: ''In Memoriam - The Honorable Tom A. Lucas''
 newsid: 161
 publish: 2016-01-21 12:00 -0500
 expire: 2016-01-28 12:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: false
 link: 
 carousel_expire: 
-carousel_content: 
+carousel_content: ''''
 layout: post
 ---
 <img src="http://www.oscn.net/images/judges/id/tomlucas.jpg" style="float: left; margin: 0 10px 10px 0;" />

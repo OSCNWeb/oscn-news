@@ -1,5 +1,5 @@
 ---
-title: 'Notice Re: Interest on Judgments'
+title: ''Notice Re: Interest on Judgments''
 newsid: 155
 publish: 2016-01-05 12:00 -0500
 expire: 2016-01-19 12:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: false
 link: 
 carousel_expire: 
-carousel_content: 
+carousel_content: ''''
 layout: post
 ---
 <p><strong>2016 Interest Rates:</strong>  In accordance with 12 O.S. 2013 Supp. §727.1 (I), the postjudgment interest rate to be charged on judgments for calendar year 2016 shall be 5.50 percent.  Also, the prejudgment interest rate for calendar year 2016 shall be 0.06 percent (applicable to actions filed on or after January 1, 2010).  These interest rates will be in effect from January 1, 2016, through December 31, 2016.</p>

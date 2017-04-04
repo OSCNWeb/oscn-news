@@ -1,5 +1,5 @@
 ---
-title: 'Courtroom Interpreter Suspensions'
+title: ''Courtroom Interpreter Suspensions''
 newsid: 168
 publish: 2016-03-02 12:00 -0500
 expire: 2016-04-15 12:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: false
 link: 
 carousel_expire: 
-carousel_content: 
+carousel_content: ''''
 layout: post
 ---
 <p>Pursuant to <a href="http://www.oscn.net/applications/oscn/DeliverDocument.asp?CiteID=477446" target="_blank">Supreme Court Administrative Directive 2016-14</a>, the Supreme Court has suspended the credential of each of the registered interpreters named below, effective <u>February 15, 2016</u>.</p>

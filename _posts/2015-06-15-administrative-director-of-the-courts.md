@@ -1,5 +1,5 @@
 ---
-title: 'Administrative Director of the Courts'
+title: ''Administrative Director of the Courts''
 newsid: 115
 publish: 2015-06-15 12:00 -0500
 expire: 2015-07-15 05:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: false
 link: 
 carousel_expire: 
-carousel_content: 
+carousel_content: ''''
 layout: post
 ---
 <p><strong>Position:</strong> Administrative Director of the Courts</p>

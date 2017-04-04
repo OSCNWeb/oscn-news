@@ -1,5 +1,5 @@
 ---
-title: 'LAW DAY 2015: The Magna Carta and Beyond'
+title: ''LAW DAY 2015: The Magna Carta and Beyond''
 newsid: 87
 publish: 2015-04-27 01:00 -0500
 expire: 2015-05-11 12:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: true
 link: 
 carousel_expire: 2015-05-11 12:00 -0500
-carousel_content: <img src='/assets/img/carousel/magna-carta.jpg' alt=' Oklahoma Law Day 2015' />
+carousel_content: ''<img src=''/assets/img/carousel/magna-carta.jpg'' alt='' Oklahoma Law Day 2015'' />''
 layout: post
 ---
 <p>The Oklahoma Bar Association's annual Law Day observance and activities are underway. "Law Day ... is a reminder and a celebration of the role the rule of law plays in our country. The checks and balances among the branches found in our Constitution are a direct extension of Magna Carta's core tenet that leaders ... are subject to the same laws and consequences as the public. Law Day should also make us pause and reflect on the progress still to be made towards true equality for all under the law."</p>
