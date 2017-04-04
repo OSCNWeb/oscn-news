@@ -2,7 +2,7 @@
 news: true
 carousel: 'false'
 newsid: '2017-04-04 14:05 -0500'
-layout: posts
+layout: post
 publish: '2017-04-04 14:05 -0500'
 expire: '2017-06-04 14:05 -0500'
 system: false
