@@ -2,7 +2,7 @@
 	<title>{{item.title}}</title>
     <newsitem>{%if item.news == true%}1{%else%}0{%endif%}</newsitem>
     <carouselitem>{%if item.carousel == true%}1{%else%}0{%endif%}</carouselitem>
-    <newsid>{{item.newsid}}</newsid>
+    <newsid>{%assign length = item.newsid | size %}{% if length > 8%}{{item.newsid | remove: "-" | remove: " " | remove: ":" | slice: 2,10 }}{%else%}{{item.newsid}}{%endif%}</newsid>
     <slide>{{item.carousel_content | xml_escape}}</slide>
     <summary>{{item.excerpt | xml_escape}}</summary>
     <content>{%if item.content contains '<!--more-->'%}{{item.content | split:'<!--more-->' | last | xml_escape}}{%else%}{{item.content | xml_escape}}{%endif%}</content>
