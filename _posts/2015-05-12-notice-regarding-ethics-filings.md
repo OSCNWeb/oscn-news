@@ -1,5 +1,5 @@
 ---
-title: ''Notice Regarding Ethics Filings''
+title: 'Notice Regarding Ethics Filings'
 newsid: 104
 publish: 2015-05-12 12:00 -0500
 expire: 2015-05-18 05:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: false
 link: 
 carousel_expire: 
-carousel_content: ''''
+carousel_content: ''
 layout: post
 ---
 <p><strong>ETHIC COMMISSION - FINANCIAL DISCLOSURE STATEMENTS</strong><br>

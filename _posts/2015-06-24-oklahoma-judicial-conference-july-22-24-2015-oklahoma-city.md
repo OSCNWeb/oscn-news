@@ -1,5 +1,5 @@
 ---
-title: ''Oklahoma Judicial Conference, July 22 - 24, 2015, Oklahoma City ''
+title: 'Oklahoma Judicial Conference, July 22 - 24, 2015, Oklahoma City '
 newsid: 123
 publish: 2015-06-24 12:00 -0500
 expire: 2015-07-24 05:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: false
 link: 
 carousel_expire: 
-carousel_content: ''''
+carousel_content: ''
 layout: post
 ---
 <p>To all members of the Oklahoma Judicial Conference:</p>

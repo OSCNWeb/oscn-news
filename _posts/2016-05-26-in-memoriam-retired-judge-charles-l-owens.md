@@ -1,5 +1,5 @@
 ---
-title: ''In Memoriam: Retired Judge Charles L. Owens''
+title: 'In Memoriam: Retired Judge Charles L. Owens'
 newsid: 187
 publish: 2016-05-26 12:00 -0500
 expire: 2016-06-10 12:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: false
 link: 
 carousel_expire: 
-carousel_content: ''''
+carousel_content: ''
 layout: post
 ---
 <img style="float: left; margin: 0 10px 10px 0;" src="http://www.oscn.net/images/news/owens-charles.jpg" alt="">

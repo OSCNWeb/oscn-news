@@ -1,5 +1,5 @@
 ---
-title: ''Swearing-In of Chief and Vice-Chief Justices''
+title: 'Swearing-In of Chief and Vice-Chief Justices'
 newsid: 218
 publish: 2016-12-06 12:00 -0500
 expire: 2016-12-20 12:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: false
 link: 
 carousel_expire: 
-carousel_content: ''''
+carousel_content: ''
 layout: post
 ---
 <div style="text-align: center;">

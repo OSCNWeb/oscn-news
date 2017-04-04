@@ -1,5 +1,5 @@
 ---
-title: ''In Memoriam: Judge John Jacobsen''
+title: 'In Memoriam: Judge John Jacobsen'
 newsid: 219
 publish: 2016-12-28 12:00 -0500
 expire: 2017-01-08 12:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: false
 link: 
 carousel_expire: 
-carousel_content: ''''
+carousel_content: ''
 layout: post
 ---
 <img src="http://www.oscn.net/images/judges/id/johnjacobsen.jpg" alt="Portrait of Judge John Jacobsen" style="width: 200px; float: left; margin: 0 10px 10px 0;" />

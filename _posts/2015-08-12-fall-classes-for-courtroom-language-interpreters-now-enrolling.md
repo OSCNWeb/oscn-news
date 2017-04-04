@@ -1,5 +1,5 @@
 ---
-title: ''Fall Classes for Courtroom Language Interpreters - Now Enrolling''
+title: 'Fall Classes for Courtroom Language Interpreters - Now Enrolling'
 newsid: 131
 publish: 2015-08-12 12:00 -0500
 expire: 2015-10-07 12:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: false
 link: 
 carousel_expire: 
-carousel_content: ''''
+carousel_content: ''
 layout: post
 ---
 <p>Registration is now open. Oklahoma Courtroom Interpreter training classes and testing will be held on the following dates:</p>

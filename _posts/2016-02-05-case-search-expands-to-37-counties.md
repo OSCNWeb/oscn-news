@@ -1,5 +1,5 @@
 ---
-title: ''Case Search Expands to 37 Counties''
+title: 'Case Search Expands to 37 Counties'
 newsid: 164
 publish: 2016-02-05 12:00 -0500
 expire: 2016-03-14 12:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: true
 link: 
 carousel_expire: 2016-03-14 12:00 -0500
-carousel_content: ''<img src=''/assets/img/carousel/37-county-case-search-carousel.jpg'' alt=''Case Search Expands to 37 Counties'' />''
+carousel_content: '<img src=''/assets/img/carousel/37-county-case-search-carousel.jpg'' alt=''Case Search Expands to 37 Counties'' />'
 layout: post
 ---
 <p>During the month of January, 2016, the Oklahoma Supreme Court added 12 additional district courts to its online case search. With this expansion, visitors to the OSCN website now have the capability to search public records in 37 District Courts and in the Appellate Courts. This free service provides the public a convenient way to search for court records by case number, name, date of birth, and other identifiers. Search results are fast, and case information is available almost immediately after being processed by the court clerk's office. In addition to online case information, site visitors may view court-related documents online; however, document availability will vary by district court.</p>

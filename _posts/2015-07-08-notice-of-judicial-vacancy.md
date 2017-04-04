@@ -1,5 +1,5 @@
 ---
-title: ''Notice of Judicial Vacancy''
+title: 'Notice of Judicial Vacancy'
 newsid: 121
 publish: 2015-07-08 12:00 -0500
 expire: 2015-08-07 12:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: false
 link: 
 carousel_expire: 
-carousel_content: ''''
+carousel_content: ''
 layout: post
 ---
 <p>The Judicial Nominating Commission seeks applicants to fill the following judicial office:</p>

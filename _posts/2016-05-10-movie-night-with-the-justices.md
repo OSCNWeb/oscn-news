@@ -1,5 +1,5 @@
 ---
-title: ''Movie Night With the Justices''
+title: 'Movie Night With the Justices'
 newsid: 180
 publish: 2016-05-10 12:00 -0500
 expire: 2016-06-15 12:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: false
 link: 
 carousel_expire: 
-carousel_content: ''''
+carousel_content: ''
 layout: post
 ---
 <h4>Movie: Woman In Gold</h4>

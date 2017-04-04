@@ -1,5 +1,5 @@
 ---
-title: ''Dispute Resolution Advisory Board Sworn In''
+title: 'Dispute Resolution Advisory Board Sworn In'
 newsid: 171
 publish: 2016-03-16 12:00 -0500
 expire: 2016-03-30 12:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: false
 link: 
 carousel_expire: 
-carousel_content: ''''
+carousel_content: ''
 layout: post
 ---
 <p>The Dispute Resolution Advisory Board met on Friday, February 19, 2016, for their regular meeting and to be sworn in by Douglas Combs, Vice Chief Justice of the Oklahoma Supreme Court.  

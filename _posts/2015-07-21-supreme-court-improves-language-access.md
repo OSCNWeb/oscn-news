@@ -1,5 +1,5 @@
 ---
-title: ''SUPREME COURT IMPROVES LANGUAGE ACCESS''
+title: 'SUPREME COURT IMPROVES LANGUAGE ACCESS'
 newsid: 126
 publish: 2015-07-21 12:00 -0500
 expire: 2015-08-01 12:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: false
 link: 
 carousel_expire: 
-carousel_content: ''''
+carousel_content: ''
 layout: post
 ---
 		<style>

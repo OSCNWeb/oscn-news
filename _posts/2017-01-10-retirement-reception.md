@@ -1,5 +1,5 @@
 ---
-title: ''Retirement Reception''
+title: 'Retirement Reception'
 newsid: 222
 publish: 2017-01-10 12:00 -0500
 expire: 2017-01-20 12:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: false
 link: 
 carousel_expire: 
-carousel_content: ''''
+carousel_content: ''
 layout: post
 ---
 <div style="text-align: center;">

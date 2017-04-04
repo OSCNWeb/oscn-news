@@ -1,5 +1,5 @@
 ---
-title: ''Travel Reimbursement Rate Notice''
+title: 'Travel Reimbursement Rate Notice'
 newsid: 27
 publish: 2015-01-05 12:00 -0500
 expire: 2015-01-12 12:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: false
 link: 
 carousel_expire: 
-carousel_content: ''''
+carousel_content: ''
 layout: post
 ---
 <p>The Internal Revenue Service has announced an increase in the mileage reimbursement rate for 2015. Effective January 1, 2015, the rate will increase to $0.575 cents per mile. The new rate is for travel <u>incurred on and after January 1, 2015.</u><br>

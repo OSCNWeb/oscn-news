@@ -1,5 +1,5 @@
 ---
-title: ''IN MEMORIAM: Judge Thomas McCann Bartheld''
+title: 'IN MEMORIAM: Judge Thomas McCann Bartheld'
 newsid: 208
 publish: 2016-11-07 12:00 -0500
 expire: 2016-11-14 12:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: false
 link: 
 carousel_expire: 
-carousel_content: ''''
+carousel_content: ''
 layout: post
 ---
 <p>Judge Thomas McCann Bartheld passed away last weekend. His obituary is available at the <a href="http://www.tulsaworld.com/obituaries/localobituaries/judge-thomas-mccann-bartheld/article_c3c5c932-bdf4-553e-b1bb-f6e0626a8350.html" target="_blank">Tulsa World</a>.</p>

@@ -1,5 +1,5 @@
 ---
-title: ''In Memoriam''
+title: 'In Memoriam'
 newsid: 189
 publish: 2016-07-05 12:00 -0500
 expire: 2016-07-15 12:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: false
 link: 
 carousel_expire: 
-carousel_content: ''''
+carousel_content: ''
 layout: post
 ---
 <div style="float: left;"><img src="http://www.oscn.net/images/news/judgeechols.jpg" alt="Judge Echols"></div>

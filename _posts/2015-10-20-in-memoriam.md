@@ -1,5 +1,5 @@
 ---
-title: ''In Memoriam''
+title: 'In Memoriam'
 newsid: 142
 publish: 2015-10-20 12:00 -0500
 expire: 2015-10-23 03:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: false
 link: 
 carousel_expire: 
-carousel_content: ''''
+carousel_content: ''
 layout: post
 ---
 <p style="text-align: center;"><img style="width: 200px;" src="http://www.oscn.net/images/news/judgecrewson.jpg" alt="Judge Tom Crewson"/></p>

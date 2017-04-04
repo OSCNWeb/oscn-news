@@ -1,5 +1,5 @@
 ---
-title: ''New Interpreters Pass the Fall Written Exams''
+title: 'New Interpreters Pass the Fall Written Exams'
 newsid: 156
 publish: 2016-01-05 12:00 -0500
 expire: 2016-04-20 05:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: false
 link: 
 carousel_expire: 
-carousel_content: ''''
+carousel_content: ''
 layout: post
 ---
 <p>The Oklahoma Supreme Court and State Board of Examiners of Certified Courtroom Interpreters held another round of training and testing this Fall gaining an additional 13 Registered Courtroom Interpreters for Oklahoma courts.  These Registered Interpreters have completed a highly focused two-day training and have been tested for proficiency in both English and in the foreign language.</p>

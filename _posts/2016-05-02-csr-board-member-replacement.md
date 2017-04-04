@@ -1,5 +1,5 @@
 ---
-title: ''CSR Board Member Replacement''
+title: 'CSR Board Member Replacement'
 newsid: 178
 publish: 2016-05-02 12:00 -0500
 expire: 2016-05-12 05:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: false
 link: 
 carousel_expire: 
-carousel_content: ''''
+carousel_content: ''
 layout: post
 ---
 <p>The Oklahoma State Board of Examiners of Certified Shorthand Reporters is now accepting applications for a new board member to replace an existing board member. The new board member’s term would begin July 1, 2016, and end June 30, 2018.</p>

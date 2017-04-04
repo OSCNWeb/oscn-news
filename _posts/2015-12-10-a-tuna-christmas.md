@@ -1,5 +1,5 @@
 ---
-title: ''A Tuna Christmas''
+title: 'A Tuna Christmas'
 newsid: 144
 publish: 2015-12-10 12:00 -0500
 expire: 2015-12-13 12:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: false
 link: 
 carousel_expire: 
-carousel_content: ''''
+carousel_content: ''
 layout: post
 ---
 <style>

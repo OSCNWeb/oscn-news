@@ -1,5 +1,5 @@
 ---
-title: ''Holiday Closing - December and January''
+title: 'Holiday Closing - December and January'
 newsid: 153
 publish: 2015-12-22 12:00 -0500
 expire: 2016-01-02 12:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: false
 link: 
 carousel_expire: 
-carousel_content: ''''
+carousel_content: ''
 layout: post
 ---
 <p>The Office of the Clerk of the Supreme Court and Other Appellate Courts will be closed on Thursday, December 24, and Friday, December 25, 2015.</p>

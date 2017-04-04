@@ -1,5 +1,5 @@
 ---
-title: ''Clerk of the Appellate Courts closed on Veterans'''' Day''
+title: 'Clerk of the Appellate Courts closed on Veterans'' Day'
 newsid: 147
 publish: 2015-11-10 12:00 -0500
 expire: 2015-11-12 12:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: false
 link: 
 carousel_expire: 
-carousel_content: ''''
+carousel_content: ''
 layout: post
 ---
 <p>The Clerk of the Appellate Courts' office and the Judicial Center in Oklahoma City will be closed on Veterans' Day, Wednesday, November 11, 2015. All filing dates falling on November 11, 2015 will be extended to November 12, 2015.</p>

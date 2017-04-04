@@ -1,5 +1,5 @@
 ---
-title: ''Notice of Oral Argument''
+title: 'Notice of Oral Argument'
 newsid: 42
 publish: 2015-02-20 12:00 -0500
 expire: 2015-03-11 09:45 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: false
 link: 
 carousel_expire: 
-carousel_content: ''''
+carousel_content: ''
 layout: post
 ---
 <p>OKLAHOMA CORRECTIONS<br>

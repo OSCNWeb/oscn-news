@@ -1,5 +1,5 @@
 ---
-title: ''Oral Examination for Certified Courtroom Interpreters''
+title: 'Oral Examination for Certified Courtroom Interpreters'
 newsid: 157
 publish: 2016-01-05 12:00 -0500
 expire: 2016-01-20 05:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: false
 link: 
 carousel_expire: 
-carousel_content: ''''
+carousel_content: ''
 layout: post
 ---
 <p>Enrollment is now open for the Oral Examination for Certified Courtroom Interpreters.   Once an interpreter has become a Registered Courtroom Interpreter in Oklahoma, (s)he is then eligible to take the oral examination to become a Certified Courtroom Interpreter.   Certification indicates the highest skill level for a court interpreter and is the generally recognized standard in most state court systems.  The 2016 Oral Examinations will be offered during three consecutive weeks - February 24 &amp; 25, March 2 &amp; 3, and March 9 &amp; 10.  You must be an Oklahoma Registered Courtroom Interpreter to be eligible to sit for the oral exam.</p>

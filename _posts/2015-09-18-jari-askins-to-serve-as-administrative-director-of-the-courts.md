@@ -1,5 +1,5 @@
 ---
-title: ''Jari Askins to Serve as Administrative Director of the Courts''
+title: 'Jari Askins to Serve as Administrative Director of the Courts'
 newsid: 135
 publish: 2015-09-18 12:00 -0500
 expire: 2015-10-10 12:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: false
 link: 
 carousel_expire: 
-carousel_content: ''''
+carousel_content: ''
 layout: post
 ---
 	<span style="width: 200px; display: block; float: left; margin-right: 8px; line-height: 11px; text-align: center;">

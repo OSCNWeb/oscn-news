@@ -1,5 +1,5 @@
 ---
-title: ''The 29th Annual Sovereignty Symposium''
+title: 'The 29th Annual Sovereignty Symposium'
 newsid: 186
 publish: 2016-05-18 12:00 -0500
 expire: 2016-06-09 12:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: false
 link: 
 carousel_expire: 
-carousel_content: ''''
+carousel_content: ''
 layout: post
 ---
 <p>Join us for the 29th annual Sovereignty Symposium, June 8th &amp; 9th, 2016, at the historic Skirvin Hilton Hotel in Oklahoma City.</p>

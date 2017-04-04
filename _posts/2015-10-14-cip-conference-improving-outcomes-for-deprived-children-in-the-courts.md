@@ -1,5 +1,5 @@
 ---
-title: ''CIP Conference: Improving Outcomes For Deprived Children In The Courts''
+title: 'CIP Conference: Improving Outcomes For Deprived Children In The Courts'
 newsid: 138
 publish: 2015-10-14 12:00 -0500
 expire: 2015-11-04 12:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: false
 link: 
 carousel_expire: 
-carousel_content: ''''
+carousel_content: ''
 layout: post
 ---
 <style>

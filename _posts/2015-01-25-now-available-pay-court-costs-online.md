@@ -1,5 +1,5 @@
 ---
-title: ''Now Available!  Pay Court Costs Online''
+title: 'Now Available!  Pay Court Costs Online'
 newsid: 29
 publish: 2015-01-25 12:00 -0500
 expire: 2015-04-27 12:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: true
 link: 
 carousel_expire: 2015-04-27 12:00 -0500
-carousel_content: ''<img src=''/assets/img/carousel/epayments.jpg'' alt=''Now Available!  Pay Court Costs Online'' />''
+carousel_content: '<img src=''/assets/img/carousel/epayments.jpg'' alt=''Now Available!  Pay Court Costs Online'' />'
 layout: post
 ---
 <p><i>Our new e-Payments system allows the public to make secure online payments on cases and payment plans with outstanding balances in <u>Canadian County and Cleveland County.</u></i></p>

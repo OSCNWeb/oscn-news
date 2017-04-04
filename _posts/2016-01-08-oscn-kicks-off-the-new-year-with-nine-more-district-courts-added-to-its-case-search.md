@@ -1,5 +1,5 @@
 ---
-title: ''OSCN Kicks off the New Year with Nine more District Courts added to its Case Search''
+title: 'OSCN Kicks off the New Year with Nine more District Courts added to its Case Search'
 newsid: 159
 publish: 2016-01-08 07:30 -0500
 expire: 2016-02-01 12:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: false
 link: 
 carousel_expire: 
-carousel_content: ''''
+carousel_content: ''
 layout: post
 ---
 <p>On January 7, 2016, the Oklahoma Supreme Court added nine additional district courts to its online case search. With this addition, visitors to the OSCN website now have the capability to search public records in 34 district  courts and in the Appellate Court. This free service provides the public a  convenient way to search for court records by case number, name, date of birth,  and other identifiers. Search results are fast, and case information is  available almost immediately after being processed by the court clerk's office. In addition to online case information, site visitors may view court-related documents online; however, documents availability will vary by district court.</p>

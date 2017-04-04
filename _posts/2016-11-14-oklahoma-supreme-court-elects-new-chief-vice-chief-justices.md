@@ -1,5 +1,5 @@
 ---
-title: ''Oklahoma Supreme Court Elects New Chief, Vice Chief Justices''
+title: 'Oklahoma Supreme Court Elects New Chief, Vice Chief Justices'
 newsid: 213
 publish: 2016-11-14 12:00 -0500
 expire: 2016-12-02 12:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: false
 link: 
 carousel_expire: 
-carousel_content: ''''
+carousel_content: ''
 layout: post
 ---
 <p>The Oklahoma Supreme Court today elected new leadership for the next two years, Chief Justice John Reif announced Monday, November 14. The Oklahoma Constitution requires the Court every two years to select from its members a Chief Justice and a Vice Chief Justice.</p>

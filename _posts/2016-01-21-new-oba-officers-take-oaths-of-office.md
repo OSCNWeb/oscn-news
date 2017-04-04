@@ -1,5 +1,5 @@
 ---
-title: ''New OBA Officers Take Oaths of Office''
+title: 'New OBA Officers Take Oaths of Office'
 newsid: 162
 publish: 2016-01-21 12:00 -0500
 expire: 2016-02-21 12:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: false
 link: 
 carousel_expire: 
-carousel_content: ''''
+carousel_content: ''
 layout: post
 ---
 <p>On Friday, January 15, 2016, the Oklahoma Supreme Court met at the State Capitol, second floor Supreme Court Ceremonial Courtroom, to swear in the President and President-Elect of the Oklahoma Bar Association and the new members of the OBA Board of Governors. Justice Douglas Combs, Vice Chief Justice of the Oklahoma Supreme Court, administered the oath of office to Garvin A. Isaacs, President of the Oklahoma Bar Association, and Linda S. Thomas, President-Elect.</p>

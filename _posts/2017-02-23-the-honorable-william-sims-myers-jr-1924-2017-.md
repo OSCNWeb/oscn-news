@@ -1,5 +1,5 @@
 ---
-title: ''The Honorable William Sims Myers, Jr. (1924 - 2017)''
+title: 'The Honorable William Sims Myers, Jr. (1924 - 2017)'
 newsid: 227
 publish: 2017-02-23 12:00 -0500
 expire: 2017-03-01 12:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: false
 link: 
 carousel_expire: 
-carousel_content: ''''
+carousel_content: ''
 layout: post
 ---
 <img style="float: left; height: 250px; margin-right: 5px; margin-bottom: 0px;" src="http://www.oscn.net/images/news/judge-myers.jpg" />

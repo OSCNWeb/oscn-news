@@ -1,5 +1,5 @@
 ---
-title: ''First Educational Conference: An Overwhelming Success!''
+title: 'First Educational Conference: An Overwhelming Success!'
 newsid: 206
 publish: 2016-10-27 12:00 -0500
 expire: 2016-11-27 12:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: false
 link: 
 carousel_expire: 
-carousel_content: ''''
+carousel_content: ''
 layout: post
 ---
 <img alt='photo of a crowded audience' src="http://www.oscn.net/images/news/cip-education-taskforce-event-002.jpg" style="width: 351px; height: auto; float: right; margin-left: 8px; margin-bottom: 8px;" />

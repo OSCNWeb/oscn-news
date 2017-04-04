@@ -1,5 +1,5 @@
 ---
-title: ''OSCN Case Search Continues to Grow''
+title: 'OSCN Case Search Continues to Grow'
 newsid: 174
 publish: 2016-04-12 12:00 -0500
 expire: 2016-04-14 12:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: true
 link: 
 carousel_expire: 2016-04-14 12:00 -0500
-carousel_content: ''<img src=""http://www.oscn.net/images/news/57-county-case-search-carousel.jpg"" alt=""Our Online Case Search Continues to Grow""/>''
+carousel_content: '<img src=""http://www.oscn.net/images/news/57-county-case-search-carousel.jpg"" alt=""Our Online Case Search Continues to Grow""/>'
 layout: post
 ---
 <p>The Oklahoma Supreme Court's website, OSCN.net, recently added 12 additional district courts to its case search, bringing the total to 57.  The goal of the OSCN Statewide Case Search Project is to integrate all 77 district courts' data into OSCN's searchable online database.  This online database does not replace the two case management systems used by the district courts to file cases and pleadings; instead, it provides a centralized location for the public to search court records and view related documents.</p>

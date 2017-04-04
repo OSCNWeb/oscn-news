@@ -1,5 +1,5 @@
 ---
-title: ''Judge Carlos J. Chappelle Dedication''
+title: 'Judge Carlos J. Chappelle Dedication'
 newsid: 190
 publish: 2016-07-06 12:00 -0500
 expire: 2016-07-09 12:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: false
 link: 
 carousel_expire: 
-carousel_content: ''''
+carousel_content: ''
 layout: post
 ---
 <div style="text-align: center;">

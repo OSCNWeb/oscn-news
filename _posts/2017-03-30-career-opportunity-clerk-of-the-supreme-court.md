@@ -1,5 +1,5 @@
 ---
-title: ''Career Opportunity: Clerk of the Supreme Court''
+title: 'Career Opportunity: Clerk of the Supreme Court'
 newsid: 229
 publish: 2017-03-30 12:00 -0500
 expire: 2017-07-30 12:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: false
 link: 
 carousel_expire: 
-carousel_content: ''''
+carousel_content: ''
 layout: post
 ---
 <p style="text-align: center;">The Oklahoma Supreme Court<br>

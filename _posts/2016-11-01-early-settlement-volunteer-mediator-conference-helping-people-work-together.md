@@ -1,5 +1,5 @@
 ---
-title: ''Early Settlement Volunteer Mediator Conference: Helping People Work Together ''
+title: 'Early Settlement Volunteer Mediator Conference: Helping People Work Together '
 newsid: 207
 publish: 2016-11-01 12:00 -0500
 expire: 2016-11-30 12:00 -0500
@@ -10,7 +10,7 @@ news: true
 carousel: false
 link: 
 carousel_expire: 
-carousel_content: ''''
+carousel_content: ''
 layout: post
 ---
 <img src="http://www.oscn.net/images/news/esm-vol-02.jpg" alt="" style="float: right; margin: 0 0 8px 8px; width: 200px;"/>
