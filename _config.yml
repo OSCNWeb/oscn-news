@@ -70,10 +70,10 @@ prose:
           label: "Featured Item"
           help: ""
           value: 0
-      - name: "test"
+      - name: "carousel"
         field:
           element: "hidden"
-          value: true
+          value: 'false'
       - name: "news"
         field:
           element: "hidden"
