@@ -1,5 +1,5 @@
 ---
-title: 'Movie night - &quot;LOVE ACTUALLY&quot;'
+title: 'Movie night - "LOVE ACTUALLY"'
 newsid: 3
 publish: 2014-12-25 12:00 -0500
 expire: 2014-12-25 12:00 -0500
