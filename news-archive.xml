@@ -1,5 +1,0 @@
----
----
-<News>
-{% for item in site.posts %}{%include xml-post.html%}{% endfor %}
-</News>
