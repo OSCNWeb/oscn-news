@@ -11,7 +11,7 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: ''
-layout: post
+layout: news
 ---
 <img src="http://www.oscn.net/images/judges/id/tomlucas.jpg" style="float: left; margin: 0 10px 10px 0;" />
 <p><i>--Prepared by The Hon. William Hetherington, Jr., Judge, Oklahoma Court of Civil Appeals</i></p><p>

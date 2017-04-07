@@ -11,7 +11,7 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: ''
-layout: post
+layout: news
 ---
 <img src="http://www.oscn.net/images/news/judge-bartheld.jpg" alt="" style="float: right; margin: 0 0 8px 8px; width: 200px;"/>
 <p>Tom Bartheld passed away November 4, 2016, after an extended illness. During that time, he was blessed by the love and support of his children, Mac and Jacquelyn, and his seven grandchildren.  As Tom wished, his friends and family have celebrated his life, with services held on November 8.</p>

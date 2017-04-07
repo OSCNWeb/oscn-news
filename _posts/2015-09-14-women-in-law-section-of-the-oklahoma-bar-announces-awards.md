@@ -11,7 +11,7 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: ''
-layout: post
+layout: news
 ---
 <p>The five recipients of the 2015 Mona Salyer Lambird Spotlight Award are:</p>
 <p>

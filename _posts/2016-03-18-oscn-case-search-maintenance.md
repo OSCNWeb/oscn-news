@@ -11,6 +11,6 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: ''
-layout: post
+layout: news
 ---
 <p>The Case Search section of OSCN will be unavailable on Saturday between the hours of 10AM and 12PM for scheduled maintenance.</p>

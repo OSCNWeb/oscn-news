@@ -11,5 +11,5 @@ carousel: true
 link: /pages/swearing-in-ceremony-2017
 carousel_expire: 
 carousel_content: '<img src=''/assets/img/carousel/swearing-in-2017.jpg'' alt='''' />'
-layout: post
+layout: news
 ---

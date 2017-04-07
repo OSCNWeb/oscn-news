@@ -11,7 +11,7 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: ''
-layout: post
+layout: news
 ---
 <img style="float: left; height: 250px; margin-right: 5px; margin-bottom: 0px;" src="http://www.oscn.net/images/news/judge-myers.jpg" />
 <p>William S. Myers Jr. was born in Tulsa, Oklahoma on February 6, 1924 and passed away in Oklahoma City, Oklahoma on the 18th day of February, 2017.</p>

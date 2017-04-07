@@ -11,7 +11,7 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: ''
-layout: post
+layout: news
 ---
 <img style="float: left; margin: 0 10px 10px 0;" src="http://www.oscn.net/images/news/judge-mcdanel.jpg" alt="" />
 <p>The Honorable Mike McDanel passed away at the age of 72 on February 21, 2016.  McDanel was a member of the Oklahoma Bar Association for over 40 years, serving as an attorney in private practice, a Special Judge, a District Court Judge, and assistant district attorney in Cleveland County.  

@@ -11,7 +11,7 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: ''
-layout: post
+layout: news
 ---
 <p>The Oklahoma Supreme Court has re-created and established a judicial ethics advisory panel to serve as an advisory committee for judges seeking advisory opinions concerning compliance with the Code of Judicial Conduct.</p>
 <p>In an <a href="http://www.oscn.net/static/news/SCAD2015-0054.pdf" target="_blank">administrative order issued June 22, 2015</a>, the Court set forth rules and guidelines for requesting and issuing advisory opinions. Requests for advisory opinions will be accepted only from presently elected or appointed Justices or Judges, active retired judges or retired judges, or any bona fide candidate for judicial office. A request for a judicial ethics advisory opinion should be directed to the Clerk of the Appellate Courts.</p>

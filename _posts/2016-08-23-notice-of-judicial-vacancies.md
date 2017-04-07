@@ -11,6 +11,6 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: ''
-layout: post
+layout: news
 ---
 <p>Several new District Judge vacancies have been posted on the webpage for the Oklahoma Judicial Nominating Commission. Please see the <a href="/jnc/about" target="_blank">JNC webpage</a> for full information, the application and instructions.</p>

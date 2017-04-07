@@ -11,7 +11,7 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: ''
-layout: post
+layout: news
 ---
 <p>Join us for the 29th annual Sovereignty Symposium, June 8th &amp; 9th, 2016, at the historic Skirvin Hilton Hotel in Oklahoma City.</p>
 <p>The Sovereignty Symposium was established to provide a forum in which ideas concerning common legal issues can be exchanged in a scholarly, non-adversarial environment. The Supreme Court espouses no view on any of the issues, and the position taken by the participants are not endorsed by the Supreme Court of Oklahoma.</p>

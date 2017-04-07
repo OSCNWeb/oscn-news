@@ -11,7 +11,7 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: ''
-layout: post
+layout: news
 ---
 	<span style="width: 200px; display: block; float: left; margin-right: 8px; line-height: 11px; text-align: center;">
 		<img alt="Portrait of Jari Askins" src="/images/news/jariaskins.jpg" />

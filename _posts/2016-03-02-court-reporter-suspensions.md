@@ -11,7 +11,7 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: ''
-layout: post
+layout: news
 ---
 <p>Pursuant to <a href="http://www.oscn.net/applications/oscn/DeliverDocument.asp?CiteID=477445" target="_blank">Supreme Court Administrative Directive 2016-13</a>, the Supreme Court has ordered the certificate of each of the court reporters named below suspended effective February 15, 2016. </p>
 <table style="font-size: 12px; width: 500px;">

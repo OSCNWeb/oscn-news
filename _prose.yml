@@ -4,7 +4,7 @@ prose:
       - name: "layout"
         field:
           element: "hidden"
-          value: "post"
+          value: "news"
       - name: "title"
         field:
           element: "text"

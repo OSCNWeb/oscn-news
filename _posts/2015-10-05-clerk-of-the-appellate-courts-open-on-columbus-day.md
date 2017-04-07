@@ -11,6 +11,6 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: ''
-layout: post
+layout: news
 ---
 <p>The office of the Clerk of the Appellate Courts and the Judicial Center in Oklahoma City will be open during regular business hours on Columbus Day, Monday, October 12, 2015. </p>

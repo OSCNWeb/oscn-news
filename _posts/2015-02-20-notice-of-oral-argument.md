@@ -11,7 +11,7 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: ''
-layout: post
+layout: news
 ---
 <p>OKLAHOMA CORRECTIONS<br>
 PROFESSIONALS ASSOCIATION,<br>

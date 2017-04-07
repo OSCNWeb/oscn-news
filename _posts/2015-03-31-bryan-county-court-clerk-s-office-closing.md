@@ -11,6 +11,6 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: ''
-layout: post
+layout: news
 ---
 <p><img alt="" src="/news/img/bryan-county-courthouse.png" align="left" /> The Bryan County Court Clerk's Office will be closed on Wednesday April 1, 2015 and Thursday April 2, 2015 because the office is moving to a new space in the Bryan County Courthouse.  The office will also be closed on Friday, April 3, 2015 for Good Friday.  Any filing deadlines may be extended upon approval of District Judge Mark R. Campbell.</p>

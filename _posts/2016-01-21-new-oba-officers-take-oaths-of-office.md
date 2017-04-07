@@ -11,7 +11,7 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: ''
-layout: post
+layout: news
 ---
 <p>On Friday, January 15, 2016, the Oklahoma Supreme Court met at the State Capitol, second floor Supreme Court Ceremonial Courtroom, to swear in the President and President-Elect of the Oklahoma Bar Association and the new members of the OBA Board of Governors. Justice Douglas Combs, Vice Chief Justice of the Oklahoma Supreme Court, administered the oath of office to Garvin A. Isaacs, President of the Oklahoma Bar Association, and Linda S. Thomas, President-Elect.</p>
 <div style="width: 100%; max-width: 800px; margin: auto; text-align: center;">

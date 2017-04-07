@@ -11,6 +11,6 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: ''
-layout: post
+layout: news
 ---
 The Clerk of the Appellate Courts' office and the Judicial Center in Oklahoma City will be closed on Thursday, November 26, and Friday, November 27, 2015, for the Thanksgiving Holidays.

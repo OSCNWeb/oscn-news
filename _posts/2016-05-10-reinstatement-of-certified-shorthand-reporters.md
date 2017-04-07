@@ -11,7 +11,7 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: ''
-layout: post
+layout: news
 ---
 <p>Pursuant to <a href="http://www.oscn.net/images/news/SCAD2016-0037.pdf" target="_blank">SCAD 2016-37</a>, the Supreme Court has ordered the certificate of the court reporters named below be reinstated from the suspension earlier imposed.</p>
 <table>

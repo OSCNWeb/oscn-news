@@ -11,7 +11,7 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: ''
-layout: post
+layout: news
 ---
 <h4>Movie: Woman In Gold</h4>
 <p>The film is based on the true story of the late Maria Altmann, an elderly Jewish

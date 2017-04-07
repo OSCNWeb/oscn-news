@@ -11,7 +11,7 @@ carousel: true
 link: 
 carousel_expire: 2016-04-12 12:00 -0500
 carousel_content: '<img src=""http://www.oscn.net/images/news/45-county-case-search-carousel.jpg"" alt=""""/>'
-layout: post
+layout: news
 ---
 <p>
 The Oklahoma Supreme Court’s website, OSCN.net, expanded its case record search to include eight additional district courts (Craig, Delaware, Harper, Mayes, Ottawa, Texas, Washita, and Woods Counties) bringing the total to 45.  The OSCN Statewide case search project is an extensive effort by the MIS Division of the Administrative Office of the Courts (AOC) to integrate all 77 district courts' data into OSCN's searchable online database. This online database does not replace the two case management systems used by the district courts to file cases and pleadings; instead, it provides a centralized location for the public to search court records and view related documents.

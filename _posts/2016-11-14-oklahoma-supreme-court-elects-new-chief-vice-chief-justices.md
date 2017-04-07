@@ -11,7 +11,7 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: ''
-layout: post
+layout: news
 ---
 <p>The Oklahoma Supreme Court today elected new leadership for the next two years, Chief Justice John Reif announced Monday, November 14. The Oklahoma Constitution requires the Court every two years to select from its members a Chief Justice and a Vice Chief Justice.</p>
 <p>Douglas L. Combs was elected to the office of Chief Justice.  Combs, the current Vice Chief Justice, has been a member of the Oklahoma Supreme Court since 2010.  A native of Shawnee, he received his Juris Doctorate degree from Oklahoma City University School of Law. </p>

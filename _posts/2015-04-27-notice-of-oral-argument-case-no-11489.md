@@ -11,7 +11,7 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: ''
-layout: post
+layout: news
 ---
 <p>Case No. 111,489</p>
 <p>STEPHENS PRODUCTION<br>

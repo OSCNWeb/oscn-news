@@ -11,7 +11,7 @@ carousel: true
 link: 
 carousel_expire: 2015-05-11 12:00 -0500
 carousel_content: '<img src=''/assets/img/carousel/magna-carta.jpg'' alt='' Oklahoma Law Day 2015'' />'
-layout: post
+layout: news
 ---
 <p>The Oklahoma Bar Association's annual Law Day observance and activities are underway. "Law Day ... is a reminder and a celebration of the role the rule of law plays in our country. The checks and balances among the branches found in our Constitution are a direct extension of Magna Carta's core tenet that leaders ... are subject to the same laws and consequences as the public. Law Day should also make us pause and reflect on the progress still to be made towards true equality for all under the law."</p>
 <p>To learn more about Law Day and to see a message about Law Day 2015 from Chief Justice John Reif, follow the link to the full article.</p>

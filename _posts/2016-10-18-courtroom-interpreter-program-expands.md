@@ -11,7 +11,7 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: ''
-layout: post
+layout: news
 ---
 <p>The Oklahoma Certified Courtroom Interpreter registry continues to expand with the addition of Courtroom Interpreters certified in Spanish and Chinese Mandarin. Likewise, the registry of Registered Courtroom Interpreters has grown, adding the languages of German, Persian Farsi, and Portuguese to the already substantial list of Spanish Courtroom Interpreters.</p>
 <p>In order to have attained their credentialed status, Registered and Certified interpreters have:</p>

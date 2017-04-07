@@ -11,7 +11,7 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: ''
-layout: post
+layout: news
 ---
 <p>Due to severe weather conditions on Friday, April 29, the deadlines for submitting judicial applications for the following judicial offices have been extended to Monday, May 2, at 5:00 p.m.</p>
 <p>Comanche County District Judge, District 5, Office 3<br>

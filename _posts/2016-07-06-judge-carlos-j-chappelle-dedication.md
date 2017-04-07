@@ -11,7 +11,7 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: ''
-layout: post
+layout: news
 ---
 <div style="text-align: center;">
 <p style="float: left; margin: 0 5px 5px 0; max-width: 500px;"><img src="http://www.oscn.net/images/judges/CarlosChappelle.jpg" alt="Judge Chappelle"></p>

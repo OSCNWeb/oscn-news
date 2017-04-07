@@ -11,7 +11,7 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: ''
-layout: post
+layout: news
 ---
 <p>Pursuant to <a href="http://www.oscn.net/images/news/SCAD2016-0036.pdf" target="_blank">SCAD 2016-36</a>, the Supreme Court has ordered the revocation of the certificate of each of the court reporters named below effective <u>April 15, 2016</u>.</p>
 <table>

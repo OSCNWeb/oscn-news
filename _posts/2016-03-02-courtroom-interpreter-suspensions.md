@@ -11,7 +11,7 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: ''
-layout: post
+layout: news
 ---
 <p>Pursuant to <a href="http://www.oscn.net/applications/oscn/DeliverDocument.asp?CiteID=477446" target="_blank">Supreme Court Administrative Directive 2016-14</a>, the Supreme Court has suspended the credential of each of the registered interpreters named below, effective <u>February 15, 2016</u>.</p>
 <table style="font-size: 12px; width: 400px;">

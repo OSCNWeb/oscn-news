@@ -11,7 +11,7 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: ''
-layout: post
+layout: news
 ---
 <p>Registration is now open. Oklahoma Courtroom Interpreter training classes and testing will be held on the following dates:</p>
 <p><strong>Oklahoma City</strong> - September 23, 24, and 25<br>

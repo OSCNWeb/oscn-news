@@ -11,6 +11,6 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: ''
-layout: post
+layout: news
 ---
 <p>On Thursday, Janurary 19th, at 4:30 p.m., the ePayments system will be down for upgrades.  All services are scheduled to be restored by 6:30 p.m. Thursday, Janurary 19th.  We apologize for any inconvenience.</p>

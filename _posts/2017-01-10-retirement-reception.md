@@ -11,7 +11,7 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: ''
-layout: post
+layout: news
 ---
 <div style="text-align: center;">
 <p><strong>Retirement Reception for District Judge Mark R. Smith</strong><br>

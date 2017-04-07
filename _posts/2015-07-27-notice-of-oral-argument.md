@@ -11,7 +11,7 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: ''
-layout: post
+layout: news
 ---
 <div style=""><p>Case No. 113,811</p>
 <p>DAMIEN LEQUINT SMITH,  

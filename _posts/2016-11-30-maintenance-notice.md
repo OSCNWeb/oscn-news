@@ -11,7 +11,7 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: ''
-layout: post
+layout: news
 ---
 <p>On Wednesday, November 30th, at 5:30 p.m., the ePayments system will be down for upgrade.  All services are scheduled to be restored by 9:00 p.m. Wednesday night November 30th.  We apologize for any inconvenience.</p>
 <p>Thank you.</p>

@@ -11,7 +11,7 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: ''
-layout: post
+layout: news
 ---
 <p>Judge Thomas McCann Bartheld passed away last weekend. His obituary is available at the <a href="http://www.tulsaworld.com/obituaries/localobituaries/judge-thomas-mccann-bartheld/article_c3c5c932-bdf4-553e-b1bb-f6e0626a8350.html" target="_blank">Tulsa World</a>.</p>
 <p>Judge Bartheld’s  family will receive friends during visiting hours from 6:30 to 8:00 p.m. on Monday, November 7, 2016, at Brumley-Mills Funeral Home.</p>

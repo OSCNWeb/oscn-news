@@ -11,7 +11,7 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: ''
-layout: post
+layout: news
 ---
 <p>The Judicial Nominating Commission seeks applicants to fill the following judicial office:</p>
 <p><strong>District Judge</strong><br>

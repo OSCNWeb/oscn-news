@@ -11,7 +11,7 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: ''
-layout: post
+layout: news
 ---
 <p>The Office of the Clerk of the Supreme Court and Other Appellate Courts will be closed on Thursday, December 24, and Friday, December 25, 2015.</p>
 <p>The Office of the Clerk of the Supreme Court and Other Appellate Courts will be also be closed on Friday, January 1, 2016, but will be OPEN for regular business hours on Thursday, December 31, 2015.</p>

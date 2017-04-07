@@ -11,7 +11,7 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: ''
-layout: post
+layout: news
 ---
 <img alt='photo of a crowded audience' src="http://www.oscn.net/images/news/cip-education-taskforce-event-002.jpg" style="width: 351px; height: auto; float: right; margin-left: 8px; margin-bottom: 8px;" />
 <p>The Education Subcommittee of the Oklahoma Children's Court Improvement Program (CIP) hosted the first Enhancing Educational Success for Children and Youth in Care Conference on October 12 &amp; 13, 2016. The conference was the first of its kind in Oklahoma City and Tulsa.  The CIP Education Committee hopes to make it an annual event. </p>

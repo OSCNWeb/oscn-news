@@ -11,7 +11,7 @@ carousel: true
 link: 
 carousel_expire: 2016-06-23 12:00 -0500
 carousel_content: '<img src=""http://www.oscn.net/images/news/76-county-case-search-carousel.jpg"" alt=""76 counties on case search""/>'
-layout: post
+layout: news
 ---
 <p>For over sixteen years, the Oklahoma Supreme Court’s website, OSCN.net, has provided case record searches for millions of records in the Appellate Courts and thirteen of Oklahoma’s District Courts, including the state’s two most populous counties, Oklahoma and Tulsa Counties.  However, recently the site expanded its case search to include eight additional Oklahoma District Courts.  This means the public may now perform free case record searches in the Appellate Courts and <strong>76 District Courts</strong>! </p>
 <p>This searchable online database was designed and developed by the MIS Division of the Administrative Office of Courts (AOC).  This technology does not replace the two case management systems used by the district courts to file cases and pleadings, instead it provides the public a centralized location to search court records and view related documents.</p>

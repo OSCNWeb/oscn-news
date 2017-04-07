@@ -11,7 +11,7 @@ carousel: false
 link: 
 carousel_expire: 
 carousel_content: ''
-layout: post
+layout: news
 ---
 <p>Case No. 113,362</p>
 <p>IN THE MATTER OF THE<br>
