@@ -6,7 +6,7 @@ expire:
 system: 
 feature: 
 category: 
-news: true
+news: false
 carousel: true
 link: /pages/swearing-in-ceremony-2017
 carousel_expire: 
