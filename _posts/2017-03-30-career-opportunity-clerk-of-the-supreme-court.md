@@ -15,7 +15,7 @@ carousel_expire: null
 <p style="text-align: center;">The Oklahoma Supreme Court<br>
 is accepting applications<br>
 for the position of<br>
-<strong>Clerk of the Supreme Court<strong></p>
+<strong>Clerk of the Supreme Court</strong></p>
 
 Applicants must be licensed to practice law within the State of Oklahoma.
 The Clerk of the Supreme Court is also the clerk for the Courts of
