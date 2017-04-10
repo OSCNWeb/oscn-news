@@ -13,11 +13,11 @@ prose:
         field:
           element: "hidden"
           value: "CURRENT_DATETIME"
-      - name: "published"
+       - name: "published"
         field:
           element: "checkbox"
           label: "Published"
-          value: "true"          
+          value: true
       - name: "publish"
         field:
           element: "text"
@@ -75,7 +75,7 @@ prose:
         field:
           element: "checkbox"
           label: "Published"
-          value: "true"          
+          value: true
       - name: "publish"
         field:
           element: "text"
