@@ -8,7 +8,6 @@ title: 'Career Opportunity: Clerk of the Supreme Court'
 publish: '2017-03-30 12:00 -0500'
 expire: '2017-07-30 12:00 -0500'
 system: false
-feature: 0
 link: null
 carousel_expire: null
 ---
