@@ -10,7 +10,7 @@ system: false
 title: 'In Memoriam: Tony Massad'
 excerpt_separator: <!--more-->
 ---
-### A Champion for the Judiciary has Passed Away.
+**A Champion for the Judiciary has Passed Away.**
 
 Tony Massad of Frederick, Oklahoma, passed away this weekend at the age of 88. Tony was a champion for the judiciary and its independence for his entire life. Tony was a state Senator who was instrumental in bringing about court reform after the Supreme Court scandal of the mid 1960s. Tony dedicated the rest of his life to supporting an independent judiciary, retention of Judges and Justices and the Judicial Nominating Commission selection process. Services for Mr. Massad will be at 11:00 a.m. Wednesday, April 12th at the First Christian Church of Frederick, Oklahoma. The entire judiciary of Oklahoma owes a great debt of gratitude for Tony's lifetime support of the third branch of government.
 
