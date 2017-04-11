@@ -1,7 +1,7 @@
 ---
 news: true
 carousel: 'false'
-published: false
+published: true
 newsid: '2017-04-11 08:40 -0500'
 layout: news
 publish: '2017-04-11 08:40 -0500'
