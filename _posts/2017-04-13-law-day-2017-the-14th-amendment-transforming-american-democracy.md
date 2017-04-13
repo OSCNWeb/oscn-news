@@ -5,7 +5,7 @@ published: true
 newsid: '2017-04-13 11:01 -0500'
 layout: news
 publish: '2017-04-13 11:01 -0500'
-expire: '2017-04-14 11:01 -0500'
+expire: '2017-06-14 11:01 -0500'
 system: false
 title: 'Law Day 2017 - "The 14th Amendment: Transforming American Democracy"'
 ---
