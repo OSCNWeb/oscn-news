@@ -9,7 +9,7 @@ category: mis
 news: true
 carousel: true
 link: 
-carousel_expire: 
+carousel_expire: 2015-02-01 12:00 -0500
 carousel_content: '<img src=''/assets/img/carousel/jms-carousel.jpg'' alt=''New electronic jury management system. Making it easier and faster for jurors and the district courts.'' />'
 layout: news
 ---
