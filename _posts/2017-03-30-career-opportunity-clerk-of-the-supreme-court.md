@@ -6,7 +6,7 @@ newsid: 229
 layout: news
 title: 'Career Opportunity: Clerk of the Supreme Court'
 publish: '2017-03-30 12:00 -0500'
-expire: '2017-07-30 12:00 -0500'
+expire: '2017-04-25 12:00 -0500'
 system: false
 link: null
 carousel_expire: null
