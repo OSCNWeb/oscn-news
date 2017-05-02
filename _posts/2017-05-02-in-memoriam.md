@@ -16,3 +16,5 @@ Retired Judge Jon Tom Staton passed away Tuesday, April 25, 2017, at age 84.
 A memorial service was held April 27, 2017, at Quail Springs Baptist Church.
 
 His obituary is available online at [smithandkernke.com](http://www.smithandkernke.com/obituary/Jon-Tom-Staton/Edmond-OK/1723709)
+
+<p style="clear: both;"></p>
