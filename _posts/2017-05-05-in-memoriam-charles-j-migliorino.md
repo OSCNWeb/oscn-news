@@ -16,6 +16,8 @@ Charles Joseph Migliorino was born and raised in the Bronx, New York.  Upon grad
 
 Charles finished his education at Southeastern State University, in Durant, with a Bachelor’s degree in Social Studies and a Master’s degree in Special Education.
 
+<!--MORE-->
+
 On October 18, 1968, he married Alice Angel.  Charles and Alice have been together for 50 years, with 48 years of marriage.  Charles and Alice have two children, Nicholas and Beth, and six grandchildren.  Charles was devoted to his family, children and grandchildren.    
 
 Charles taught at Ardmore High School for ten years with his best friend, Senator Johnnie Crutchfield.  He was loved and respected by his students, including Judge David B. Lewis of the Oklahoma Court of Criminal Appeals.
