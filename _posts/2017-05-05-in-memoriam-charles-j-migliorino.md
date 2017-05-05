@@ -5,7 +5,7 @@ published: true
 newsid: '2017-05-05 11:31 -0500'
 layout: news
 publish: '2017-05-05 11:31 -0500'
-expire: '2017-05-05 11:31 -0500'
+expire: '2017-06-05 11:31 -0500'
 system: false
 title: 'In Memoriam: Charles J. Migliorino'
 ---
