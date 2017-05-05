@@ -9,6 +9,7 @@ expire: '2017-06-05 11:31 -0500'
 system: false
 title: 'In Memoriam: Charles J. Migliorino'
 ---
+<img style="width: 110px; float: left; margin: 0 10px 10px 0;" src='http://www.oscn.net/images/judges/CharlesMigliorino.jpg' />
 Judge Charles J. Migliorino passed from this life on May 3, 2017, quietly, as he had lived, at his home in Bromide.  He was 68 years old. 
 
 Charles Joseph Migliorino was born and raised in the Bronx, New York.  Upon graduation from high school he came to Murray State College in Tishomingo to play basketball.  He placed his academics on hold and joined the United States Marine Corps.  After four tours of Vietnam and two purple hearts, he returned to Oklahoma and chose to make Oklahoma his home.
