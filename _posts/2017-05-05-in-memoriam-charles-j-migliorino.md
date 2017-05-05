@@ -31,7 +31,7 @@ Although Judge Migliorino began his life as a “Yankee” to those of us from O
 
 Judge Migliorino’s thoughtfulness, fairness, honesty and integrity was unquestioned.  He and his unique style, genuineness, camaraderie and friendship will be greatly missed.
 
-http://www.craddockfuneralhome.com/memsol.cgi?user_id=1960278
+[http://www.craddockfuneralhome.com/memsol.cgi?user_id=1960278](http://www.craddockfuneralhome.com/memsol.cgi?user_id=1960278)
 
 <div style="position: relative; width:100%; height: 0; padding-bottom: 56.25%">
 <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/pMML3I7xCxw?rel=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
