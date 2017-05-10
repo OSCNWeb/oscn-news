@@ -5,7 +5,7 @@ published: true
 newsid: '2017-05-05 11:31 -0500'
 layout: news
 publish: '2017-05-05 11:31 -0500'
-expire: '2017-06-05 11:31 -0500'
+expire: '2017-05-10 11:31 -0500'
 system: false
 title: 'In Memoriam: Charles J. Migliorino'
 ---
@@ -43,4 +43,3 @@ Judge Migliorino’s thoughtfulness, fairness, honesty and integrity was unquest
 <div style="position: relative; width:100%; height: 0; padding-bottom: 56.25%">
 <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/pMML3I7xCxw?rel=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
-
