@@ -5,7 +5,7 @@ published: true
 newsid: '2017-05-15 14:26 -0500'
 layout: news
 publish: '2017-05-15 14:26 -0500'
-expire: '2017-06-15 14:26 -0500'
+expire: '2017-06-17 14:26 -0500'
 system: false
 title: 'Vacancy: Judge of the Court of Criminal Appeals'
 ---
