@@ -5,7 +5,7 @@ published: true
 newsid: '2017-05-15 18:56 -0500'
 layout: news
 publish: '2017-05-15 18:56 -0500'
-expire: '2017-05-15 18:56 -0500'
+expire: '2017-05-17 18:56 -0500'
 system: false
 title: 2017-05-16-routine-maintenance-to-epayments
 ---
