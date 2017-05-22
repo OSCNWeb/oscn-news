@@ -5,7 +5,7 @@ published: true
 newsid: '2017-05-22 12:52 -0500'
 layout: news
 publish: '2017-05-22 12:52 -0500'
-expire: '2017-05-22 12:52 -0500'
+expire: '2017-06-22 12:52 -0500'
 system: false
 title: OKLAHOMA SUPREME COURT APPOINTS COURT CLERK
 ---
