@@ -5,7 +5,7 @@ published: true
 newsid: '2017-05-08 08:36 -0500'
 layout: news
 publish: '2017-05-08 08:36 -0500'
-expire: '2017-05-23 08:36 -0500'
+expire: '2017-05-22 08:36 -0500'
 system: false
 title: 'In Memoriam: Charley Barton'
 ---
