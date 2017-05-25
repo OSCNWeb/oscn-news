@@ -14,7 +14,7 @@ title: 'Vacancy: Judge of the Court of Criminal Appeals'
 <p class="centerText"><b>NOTICE OF JUDICIAL VACANCY</b></p>
 <p>The Judicial Nominating Commission seeks applicants to fill the following judicial office:</p>
 <p class="centerText"><strong>Judge of the Court of Criminal Appeals</strong><br>
-<strong>District One</strong></p></div>
+<strong>District Four</strong></p></div>
 
 <div class="rup-body">
 <p>This vacancy is created by the retirement of the Honorable Arlene Johnson effective August 1, 2017.</p>
