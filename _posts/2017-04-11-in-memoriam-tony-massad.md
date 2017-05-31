@@ -1,6 +1,5 @@
 ---
 news: true
-carousel: 'false'
 published: true
 newsid: '2017-04-11 15:02 -0500'
 layout: news
