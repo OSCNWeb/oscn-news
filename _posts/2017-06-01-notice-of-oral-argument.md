@@ -25,4 +25,6 @@ BFN OPERATIONS LLC,
 Defendants and Counter-Plaintiffs/  
 Appellees and Counter-Appellants.
 
+**Order**
+
 Appellees and Counter-Appellants BFN Operations LLC's and BFN Properties LLC's Request for Oral Argument is granted. Oral argument before the Oklahoma Supreme Court in the above-styled cause is set for 10:00 a.m. on June 20, 2017, in the Supreme Court Courtroom located on the 2nd floor of the State Capitol.
