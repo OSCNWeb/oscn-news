@@ -5,7 +5,7 @@ published: true
 newsid: '2017-05-10 14:12 -0500'
 layout: news
 publish: '2017-05-10 14:12 -0500'
-expire: '2017-06-10 14:12 -0500'
+expire: '2017-06-04 14:12 -0500'
 system: false
 title: 'In Memoriam: Madeline Hargrave'
 ---
