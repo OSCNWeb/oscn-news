@@ -6,7 +6,6 @@ expire:
 system: 
 feature: 
 category: 
-news: true
 carousel: true
 link: http://www.oscn.net/static/osc-ojs-brochure-online.pdf
 carousel_expire: 
