@@ -4,7 +4,7 @@ published: true
 newsid: '2017-06-14 10:30 -0500'
 layout: news
 publish: '2017-06-14 10:30 -0500'
-expire: '2017-08-25 10:30 -0500'
+expire: '2017-08-24 10:30 -0500'
 system: false
 title: Notice of Judicial Vacancies
 ---
