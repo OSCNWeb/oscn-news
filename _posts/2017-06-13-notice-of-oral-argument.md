@@ -1,10 +1,10 @@
 ---
 news: true
-published: true
+published: false
 newsid: '2017-06-13 11:13 -0500'
 layout: news
 publish: '2017-06-13 11:13 -0500'
-expire: '2017-07-26 11:00 -0500'
+expire: '2017-07-25 11:00 -0500'
 system: false
 title: Notice of Oral Argument
 ---
