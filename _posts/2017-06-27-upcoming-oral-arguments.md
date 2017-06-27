@@ -17,7 +17,7 @@ Oral argument before the Court set for **9:00am, August 8, 2017**, in the Suprem
 
 [116,102](http://www.oscn.net/dockets/GetCaseInformation.aspx?db=appellate&number=116102) - James P. Naifeh, et al. v. State of Okla. ex rel. Okla. Tax Comm'n, et al.  
 
-Oral argument before the Court set for** 10:00am, August 8, 2017**, in the Supreme Court Courtroom, State Capitol.
+Oral argument before the Court set for **10:00am, August 8, 2017**, in the Supreme Court Courtroom, State Capitol.
 
 <u>Oklahoma Court of Civil Appeals</u>
 
