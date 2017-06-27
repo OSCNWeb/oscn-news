@@ -8,4 +8,4 @@ expire: '2017-08-24 10:30 -0500'
 system: false
 title: Notice of Judicial Vacancies
 ---
-The Judicial Nominating Commission is seeking applicants for judicial vacancies, Oklahoma County(2), Cleveland County and Johnston County. Please see the <a href="http://www.oscn.net/jnc/about" target="_blank">Judicial Nominating Commission</a> web page for the application, instructions and additional information.
+The Judicial Nominating Commission is seeking applicants for judicial vacancies in Oklahoma County(2), Cleveland County and Johnston County. Please see the <a href="http://www.oscn.net/jnc/about" target="_blank">Judicial Nominating Commission</a> web page for the application, instructions and additional information.
