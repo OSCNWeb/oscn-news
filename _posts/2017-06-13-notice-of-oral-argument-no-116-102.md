@@ -4,7 +4,7 @@ published: true
 newsid: '2017-06-13 13:22 -0500'
 layout: news
 publish: '2017-06-13 13:22 -0500'
-expire: '2017-06-27 10:02 -0500'
+expire: '2017-07-26 11:13 -0500'
 system: false
 title: 'Notice of Oral Argument - No. 116,102'
 ---
