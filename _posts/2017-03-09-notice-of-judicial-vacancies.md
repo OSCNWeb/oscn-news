@@ -12,4 +12,4 @@ feature: null
 link: null
 carousel_expire: null
 ---
-The Judicial Nominating Commission is seeking applicants for judicial vacancies, Oklahoma County(2), Cleveland County and Johnston County. Please see the <a href="http://www.oscn.net/jnc/about" target="_blank">Judicial Nominating Commission</a> web page for the application, instructions and additional information.
+The Judicial Nominating Commission is seeking applicants for judicial vacancies in Comanche County and Okfuskee County.  Please see the <a href="http://www.oscn.net/jnc/about" target="_blank">Judicial Nominating Commission</a> web page for the application, instructions and additional information.
