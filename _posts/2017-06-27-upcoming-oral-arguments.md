@@ -18,5 +18,6 @@ Oral argument before the COurt set for 9:00am, August 8, 2017, in the Supreme Co
 Oral argument before the Court set for 10:00am, August 8, 2017 in the Supreme Court Courtroom, State Capitol.
 
 <u>Oklahom Court of Civil Appeals</u>
+
 [114,851](http://www.oscn.net/dockets/GetCaseInformation.aspx?db=appellate&number=114851) - Mindy Michelle Smith. v. Tiffany Angel Barker etc.  
 Oral argument before Division IV set for 10:00am, July 26, 2017, Courtroom of the Oklahoma Court of Civil Appeals, Tulsa Divisions, 440 South Houston Ave., Suite 601, Tulsa, Oklahoma.
