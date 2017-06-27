@@ -13,14 +13,14 @@ title: Upcoming Oral Arguments
 [116,143](http://www.oscn.net/dockets/GetCaseInformation.aspx?db=appellate&number=116143)
 Okla. Automobile Dealers Assoc. etc., et al. v. State of Okla. ex. rel. Okla. Tax Comm'n  
 
-Oral argument before the COurt set for 9:00am, August 8, 2017, in the Supreme Court Courtroom, State Capitol
+Oral argument before the Court set for **9:00am, August 8, 2017**, in the Supreme Court Courtroom, State Capitol
 
-[116,102](http://www.oscn.net/dockets/GetCaseInformation.aspx?db=appellate&number=116102) - Jame P. Naifeh, et al. v. State of Okla. ex rel. Okla. Tax Comm'n, et al.  
+[116,102](http://www.oscn.net/dockets/GetCaseInformation.aspx?db=appellate&number=116102) - James P. Naifeh, et al. v. State of Okla. ex rel. Okla. Tax Comm'n, et al.  
 
-Oral argument before the Court set for 10:00am, August 8, 2017 in the Supreme Court Courtroom, State Capitol.
+Oral argument before the Court set for** 10:00am, August 8, 2017**, in the Supreme Court Courtroom, State Capitol.
 
-<u>Oklahom Court of Civil Appeals</u>
+<u>Oklahoma Court of Civil Appeals</u>
 
 [114,851](http://www.oscn.net/dockets/GetCaseInformation.aspx?db=appellate&number=114851) - Mindy Michelle Smith. v. Tiffany Angel Barker etc.  
 
-Oral argument before Division IV set for 10:00am, July 26, 2017, Courtroom of the Oklahoma Court of Civil Appeals, Tulsa Divisions, 440 South Houston Ave., Suite 601, Tulsa, Oklahoma.
+Oral argument before Division IV set for **10:00am, July 26, 2017**, Courtroom of the Oklahoma Court of Civil Appeals, Tulsa Divisions, 440 South Houston Ave., Suite 601, Tulsa, Oklahoma.
