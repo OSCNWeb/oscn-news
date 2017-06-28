@@ -19,7 +19,7 @@ Oral argument before the Court set for **9:00am, August 8, 2017**, in the Suprem
 
 Oral argument before the Court set for **10:00am, August 8, 2017**, in the Supreme Court Courtroom, State Capitol.
 
-[116162](/dockets/GetCaseInformation.aspx?db=appellate&number=116162) - Gary L. Richardson etc. v. State of Okla. ex rel. Okla. Tax Comm'n et al.
+[116,162](/dockets/GetCaseInformation.aspx?db=appellate&number=116162) - Gary L. Richardson etc. v. State of Okla. ex rel. Okla. Tax Comm'n et al.
 
 Oral argument before the Court set for **11:00am, August 8, 2017**, in the Supreme Court Courtroom, State Capitol. 
 
