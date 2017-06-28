@@ -10,8 +10,7 @@ title: Upcoming Oral Arguments
 ---
 <u>Supreme Court of Oklahoma</u>
 
-[116,143](/dockets/GetCaseInformation.aspx?db=appellate&number=116143)
-Okla. Automobile Dealers Assoc. etc., et al. v. State of Okla. ex. rel. Okla. Tax Comm'n  
+[116,143](/dockets/GetCaseInformation.aspx?db=appellate&number=116143) - Okla. Automobile Dealers Assoc. etc., et al. v. State of Okla. ex. rel. Okla. Tax Comm'n  
 
 Oral argument before the Court set for **9:00am, August 8, 2017**, in the Supreme Court Courtroom, State Capitol.
 
