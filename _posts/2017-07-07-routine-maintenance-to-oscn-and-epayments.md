@@ -4,7 +4,7 @@ published: true
 newsid: '2017-07-07 07:55 -0500'
 layout: news
 publish: '2017-07-07 07:55 -0500'
-expire: '2017-07-07 07:55 -0500'
+expire: '2017-07-08 07:55 -0500'
 system: false
 title: Routine Maintenance to OSCN and ePayments
 ---
