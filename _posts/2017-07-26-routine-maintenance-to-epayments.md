@@ -8,4 +8,4 @@ expire: '2017-07-76 10:05 -0500'
 system: false
 title: Routine Maintenance to Epayments
 ---
-On Tuesday, July 26th, at 5:00 p.m., the ePayments system will be down for upgrades.  All services are scheduled to be restored by 7:00 p.m. Tuesday, July 26th.  We apologize for any inconvenience.
+On Wednesday, July 26th, at 5:00 p.m., the ePayments system will be down for upgrades.  All services are scheduled to be restored by 7:00 p.m. Wednesday, July 26th.  We apologize for any inconvenience.
