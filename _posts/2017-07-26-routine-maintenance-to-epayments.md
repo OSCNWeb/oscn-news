@@ -4,7 +4,7 @@ published: true
 newsid: '2017-07-26 10:05 -0500'
 layout: news
 publish: '2017-07-26'
-expire: '2017-07-76'
+expire: '2017-07-26'
 system: false
 title: Routine Maintenance to Epayments
 ---
