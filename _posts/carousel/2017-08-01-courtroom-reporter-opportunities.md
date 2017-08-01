@@ -12,6 +12,6 @@ carousel_content: >-
   <img
   src="http://www.oscn.net/assets/img/carousel/court-reporters-carousel.jpg"
   alt="Courtroom Reporter Opportunites - Map of Oklahoma" />
-link: 'http://www.oscn.net/jobs/'
+link: /jobs/
 ---
 
