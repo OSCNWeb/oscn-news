@@ -4,7 +4,7 @@ published: true
 newsid: '2017-07-18 16:39 -0500'
 layout: news
 publish: '2017-07-18 16:39 -0500'
-expire: '2017-08-18 16:39 -0500'
+expire: '2017-08-03 16:39 -0500'
 system: false
 title: 'In Memoriam: Judge Leamon Freeman'
 ---
