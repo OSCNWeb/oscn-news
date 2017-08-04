@@ -4,7 +4,7 @@ published: true
 newsid: '2017-08-04 14:01 -0500'
 layout: news
 publish: '2017-08-04 14:01 -0500'
-expire: '2017-08-09 14:01 -0500'
+expire: '2017-08-04 14:01 -0500'
 system: false
 title: Oklahoma State Court Network to air Supreme Court Arguments
 ---
