@@ -7,7 +7,7 @@ publish: '2017-08-07 11:34 -0500'
 expire: '2017-08-07 11:34 -0500'
 system: false
 news: true
-carousel_expire: '2017-08-07 11:34 -0500'
+carousel_expire: '2017-08-09 11:34 -0500'
 title: Supreme Court Oral Arguments
 carousel_content: >-
   <img src="/assets/img/carousel/live-oral-arguments.jpg" alt="Oklahoma Supreme
