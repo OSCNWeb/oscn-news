@@ -4,9 +4,9 @@ published: true
 newsid: '2017-08-07 11:34 -0500'
 layout: carousel
 publish: '2017-08-07 11:34 -0500'
-expire: '2017-08-08 11:34 -0500'
+expire: '2017-08-07 11:34 -0500'
 system: false
-news: true
+news: false
 carousel_expire: '2017-08-08 11:34 -0500'
 title: Supreme Court Oral Arguments
 carousel_content: >-
