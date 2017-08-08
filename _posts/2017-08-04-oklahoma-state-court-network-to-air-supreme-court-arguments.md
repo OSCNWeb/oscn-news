@@ -4,7 +4,7 @@ published: true
 newsid: '2017-08-04 14:01 -0500'
 layout: news
 publish: '2017-08-04 14:01 -0500'
-expire: '2017-08-09 14:01 -0500'
+expire: '2017-08-08 07:01 -0500'
 system: false
 title: Oklahoma State Court Network to air Supreme Court Arguments
 ---
@@ -23,4 +23,3 @@ The link to the live-time feed will be found Tuesday on the OSCN website.
 Contact: Jari Askins, Administrative Director  
 Administrative Office of the Courts  
 (405) 556-9818
-
