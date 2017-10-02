@@ -8,7 +8,7 @@ expire: '2017-12-02 16:01 -0500'
 system: false
 category:
   - supreme
-title: Supreme Court Justice Joseph Watt to Retire
+title: Supreme Court Justice Joseph Watt to Retire December 31st
 ---
 OKLAHOMA CITY – Governor Mary Fallin today received and accepted a letter from Oklahoma Supreme Court Justice Joseph Watt stating his intention to retire at the end of this year.  
 
