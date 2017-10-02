@@ -4,7 +4,7 @@ published: true
 newsid: '2017-10-02 16:01 -0500'
 layout: news
 publish: '2017-10-02 16:01 -0500'
-expire: '2017-12-02 16:01 -0500'
+expire: '2018-01-02 16:01 -0500'
 system: false
 category:
   - supreme
