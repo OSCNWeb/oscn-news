@@ -10,6 +10,8 @@ title: Supreme Court Oral Arguments
 category:
   - aoc
 ---
+No.116,131
+
 JOHN HUNSUCKER, on behalf of himself and his clients; BRUCE EDGE,  
 on behalf of himself and his clients;  
 CHARLES SIFERS, on behalf of himself and his clients; STEPHEN  
@@ -26,9 +28,7 @@ DAVID PRATER, in his official capacity as District Attorney for Oklahoma County;
 STEVE KUNZWEILER, in his official capacity as District Attorney for Tulsa County;  
 Respondents.  
 
-No.116,131
-
-ORDER
+**ORDER**
 
 The above-styled and numbered cause is set for oral argument before the Court en
 bane commencing at 10:00 AM. on Tuesday, October 10, 2017, in the Courtroom of the
