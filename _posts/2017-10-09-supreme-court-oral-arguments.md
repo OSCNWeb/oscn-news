@@ -10,33 +10,20 @@ title: Supreme Court Oral Arguments
 category:
   - aoc
 ---
-JOHN HUNSUCKER, on behalf of  
-himself and his clients; BRUCE EDGE,  
+JOHN HUNSUCKER, on behalf of himself and his clients; BRUCE EDGE,  
 on behalf of himself and his clients;  
-CHARLES SIFERS, on behalf of  
-himself and his clients; STEPHEN  
-FABIAN, on behalf of himself and his  
-clients,  
+CHARLES SIFERS, on behalf of himself and his clients; STEPHEN  
+FABIAN, on behalf of himself and his clients,  
 Petitioners,
 
 v.
 
-THE HONORABLE MARY FALLIN,  
-GOVERNOR, in her official capacity;  
-THE HONORABLE SENATOR MIKE  
-SCHULTZ, SENATE PRESIDENT PRO  
-TEMPORE, in his official capacity; THE  
-HONORABLE REPRESENTATIVE  
-CHARLES MCCALL, SPEAKER OF THE  
-HOUSE, in his official capacity;  
-MICHAEL THOMPSON, in his official  
-capacity as Commissioner of  
-Oklahoma Department of Public  
-Safety; DAVID PRATER, in his official  
-capacity as District Attorney for  
-Oklahoma County; STEVE  
-KUNZWEILER, in his official capacity  
-as District Attorney for Tulsa County;  
+THE HONORABLE MARY FALLIN, GOVERNOR, in her official capacity;  
+THE HONORABLE SENATOR MIKE SCHULTZ, SENATE PRESIDENT PRO TEMPORE, in his official capacity;  
+THE HONORABLE REPRESENTATIVE CHARLES MCCALL, SPEAKER OF THE HOUSE, in his official capacity;  
+MICHAEL THOMPSON, in his official capacity as Commissioner of Oklahoma Department of Public Safety;  
+DAVID PRATER, in his official capacity as District Attorney for Oklahoma County;  
+STEVE KUNZWEILER, in his official capacity as District Attorney for Tulsa County;  
 Respondents.  
 
 No.116,131
