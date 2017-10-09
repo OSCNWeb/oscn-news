@@ -14,8 +14,8 @@ No.116,131
 
 JOHN HUNSUCKER, on behalf of himself and his clients; BRUCE EDGE,  
 on behalf of himself and his clients;  
-CHARLES SIFERS, on behalf of himself and his clients; STEPHEN  
-FABIAN, on behalf of himself and his clients,  
+CHARLES SIFERS, on behalf of himself and his clients; 
+STEPHEN FABIAN, on behalf of himself and his clients,  
 Petitioners,
 
 v.
