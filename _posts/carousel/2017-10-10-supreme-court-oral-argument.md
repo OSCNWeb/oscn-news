@@ -33,3 +33,11 @@ MICHAEL THOMPSON, in his official capacity as Commissioner of Oklahoma Departmen
 DAVID PRATER, in his official capacity as District Attorney for Oklahoma County;  
 STEVE KUNZWEILER, in his official capacity as District Attorney for Tulsa County;  
 Respondents.  
+
+**ORDER**
+
+The above-styled and numbered cause is set for oral argument before the Court <i>en
+banc</i> commencing at 10:00 AM. on Tuesday, October 10, 2017, in the Courtroom of the
+Supreme Court of Oklahoma, located on the second floor of the State Capitol.
+
+A link to the live-time feed will be available Tuesday on the OSCN website.
