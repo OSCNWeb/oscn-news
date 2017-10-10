@@ -6,7 +6,7 @@ layout: carousel
 publish: '2017-10-10 08:41 -0500'
 expire: '2017-10-11 08:41 -0500'
 system: false
-news: true
+news: false
 carousel_expire: '2017-10-11 08:41 -0500'
 title: Supreme Court Oral Argument
 carousel_content: >-
