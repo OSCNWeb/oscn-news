@@ -3,8 +3,8 @@ carousel: true
 published: true
 newsid: '2017-10-10 08:41 -0500'
 layout: carousel
-publish: '2017-10-10 08:41 -0500'
-expire: '2017-10-10 08:41 -0500'
+publish: '2017-10-09 08:41 -0500'
+expire: '2017-10-09 08:41 -0500'
 system: false
 news: true
 carousel_expire: '2017-10-11 08:41 -0500'
