@@ -4,7 +4,7 @@ published: true
 newsid: '2017-10-10 08:41 -0500'
 layout: carousel
 publish: '2017-10-09 08:41 -0500'
-expire: '2017-10-09 08:41 -0500'
+expire: '2017-10-11 08:41 -0500'
 system: false
 news: true
 carousel_expire: '2017-10-11 08:41 -0500'
@@ -40,4 +40,4 @@ The above-styled and numbered cause is set for oral argument before the Court <i
 banc</i> commencing at 10:00 AM. on Tuesday, October 10, 2017, in the Courtroom of the
 Supreme Court of Oklahoma, located on the second floor of the State Capitol.
 
-A link to the [live-time feed](http://www.oscn.net/news/1710100841/supreme-court-oral-argument) will be available Tuesday on the OSCN website.
+A link to the live-time feed will be available Tuesday on the OSCN website.
