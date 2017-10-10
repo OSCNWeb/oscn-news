@@ -12,7 +12,7 @@ title: Supreme Court Oral Argument
 carousel_content: >-
   <img src="/assets/img/carousel/live-oral-arguments.jpg" alt="Oklahoma Supreme
   Court Oral Arguments Live" />
-link: /news/1710100841/supreme-court-oral-argument
+link: /news/1710091728/supreme-court-oral-argument
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b47CjAYDZaA" frameborder="0" allowfullscreen></iframe>
 
