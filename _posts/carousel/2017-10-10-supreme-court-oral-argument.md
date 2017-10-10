@@ -15,3 +15,21 @@ carousel_content: >-
 link: /news/1710100841/supreme-court-oral-argument
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b47CjAYDZaA" frameborder="0" allowfullscreen></iframe>
+
+[No.116,131](http://www.oscn.net/dockets/GetCaseInformation.aspx?db=appellate&number=116131)
+
+JOHN HUNSUCKER, on behalf of himself and his clients; BRUCE EDGE,  
+on behalf of himself and his clients;  
+CHARLES SIFERS, on behalf of himself and his clients; 
+STEPHEN FABIAN, on behalf of himself and his clients,  
+Petitioners,
+
+v.
+
+THE HONORABLE MARY FALLIN, GOVERNOR, in her official capacity;  
+THE HONORABLE SENATOR MIKE SCHULTZ, SENATE PRESIDENT PRO TEMPORE, in his official capacity;  
+THE HONORABLE REPRESENTATIVE CHARLES MCCALL, SPEAKER OF THE HOUSE, in his official capacity;  
+MICHAEL THOMPSON, in his official capacity as Commissioner of Oklahoma Department of Public Safety;  
+DAVID PRATER, in his official capacity as District Attorney for Oklahoma County;  
+STEVE KUNZWEILER, in his official capacity as District Attorney for Tulsa County;  
+Respondents.  
