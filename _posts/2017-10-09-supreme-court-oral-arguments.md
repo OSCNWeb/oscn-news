@@ -4,7 +4,7 @@ published: true
 newsid: '2017-10-09 17:28 -0500'
 layout: news
 publish: '2017-10-09 17:28 -0500'
-expire: '2017-10-10 17:28 -0500'
+expire: '2017-10-11 17:28 -0500'
 system: false
 title: Supreme Court Oral Argument
 category:
