@@ -8,8 +8,6 @@ expire: '2017-11-14 10:15 -0500'
 system: false
 title: Early Settlement Volunteer Mediator Conference
 ---
-<img style="width: 225px; float: left; margin: 0 10px 10px 0;" src="http://www.oscn.net/images/news/volunter-mediator-conference-2017.jpg" />
-
 Over 100 community volunteers from around the state attended the 23rd annual Early Settlement Volunteer Mediator Conference on Friday, October 20, 2017, at the CHK Boathouse on the Oklahoma River. The conference theme was **"Rapport Building: The Art of Connecting"**.  Phil Johnson, State Director of the Alternative Dispute Resolution System, served as the Master of Ceremonies for the annual event and opened the conference by showing a newly released video about the Early Settlement mediation program.
 
 The Early Settlement Directors presented four learning sessions at the conference including:
@@ -29,3 +27,5 @@ Ted Roberts, Dispute Resolution Advisory Board Chairman, shared the history of t
 Jari Askins, Administrative Director of the Courts, presented the statewide John R. McCune, V, "Volunteer of the Year" award to Ron George of Lawton.  Ron has served as a volunteer mediator for the past 16 years and volunteers weekly for the Early Settlement – Southwest Program. 
 
 The Early Settlement programs provide free or low-cost mediation services for citizens statewide.  During FY 2017 the Early Settlement program received over 5,800 requests for mediation services, including over 2,600 requests for family and divorce cases. Additional information is available about the program by clicking the following link: [http://www.oscn.net/static/adr/default.aspx](http://www.oscn.net/static/adr/default.aspx)
+<img style="width: 450px; margin: auto 0;" src="http://www.oscn.net/images/news/volunter-mediator-conference-2017.jpg" />
+<span class="caption" style="display: block; font-size: x-small; line-height: 12px;">2017 John R. McCune, V. Volunteer Mediator of the Year award winner Ron George, Lawton (center) with Phil Johnson, State Director, Alternative Dispute Resolution System (left) and Randy Hoerschgen, Director, Early Settlement - Southwest program (right)</span>
