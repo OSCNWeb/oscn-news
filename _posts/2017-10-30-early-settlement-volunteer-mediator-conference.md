@@ -30,5 +30,5 @@ The Early Settlement programs provide free or low-cost mediation services for ci
 
 <div style="text-align: center;">
 <img style="width: 450px;" src="http://www.oscn.net/images/news/volunter-mediator-conference-2017.jpg" />
-<span class="caption" style="display: block; font-size: x-small; line-height: 12px; width: 450px;">2017 John R. McCune, V. Volunteer Mediator of the Year award winner Ron George, Lawton (center) with Phil Johnson, State Director, Alternative Dispute Resolution System (left) and Randy Hoerschgen, Director, Early Settlement - Southwest program (right)</span>
+<span class="caption" style="display: block; font-size: x-small; line-height: 12px; width: 450px; margin: auto;">2017 John R. McCune, V. Volunteer Mediator of the Year award winner Ron George, Lawton (center) with Phil Johnson, State Director, Alternative Dispute Resolution System (left) and Randy Hoerschgen, Director, Early Settlement - Southwest program (right)</span>
 </div>
