@@ -6,7 +6,7 @@ layout: news
 publish: '2017-10-30 09:16 -0500'
 expire: '2017-10-30 09:16 -0500'
 system: false
-title: In Memoriam - Jerry Welch
+title: In Memoriam
 ---
 <img style="width: 110px; float: left; margin: 0 10px 10px 0;" src="http://www.oscn.net/images/news/jerry-welch.jpg" />
 The Honorable Jerry Neil Welch, former Pushmataha County Associate District Judge, passed from this life on Friday, October 20, 2017 at the age of 83.
