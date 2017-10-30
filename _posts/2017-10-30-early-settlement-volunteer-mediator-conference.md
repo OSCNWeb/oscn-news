@@ -8,7 +8,7 @@ expire: '2017-11-14 10:15 -0500'
 system: false
 title: Early Settlement Volunteer Mediator Conference
 ---
-<img style="width: 110px; float: left; margin: 0 10px 10px 0;" src="http://www.oscn.net/images/news/volunter-mediator-conference-2017.jpg" />
+<img style="width: 450px; float: left; margin: 0 10px 10px 0;" src="http://www.oscn.net/images/news/volunter-mediator-conference-2017.jpg" />
 
 Over 100 community volunteers from around the state attended the 23rd annual Early Settlement Volunteer Mediator Conference on Friday, October 20, 2017, at the CHK Boathouse on the Oklahoma River. The conference theme was **"Rapport Building: The Art of Connecting"**.  Phil Johnson, State Director of the Alternative Dispute Resolution System, served as the Master of Ceremonies for the annual event and opened the conference by showing a newly released video about the Early Settlement mediation program.
 
