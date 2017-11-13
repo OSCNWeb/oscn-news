@@ -19,7 +19,7 @@ He had a great affection for the rolling hills of Western Oklahoma, where he cha
 
 He was also a loyal fan of the University of Oklahoma, where he received his juris doctorate in law in 1962.  
 
-Buzz worked to support and advance the justice system, as a practicing lawyer for 24 years and then as District Judge for 24 years, from 1986 to 2010.  He revered the United States Constitution and the men and women of the bar who spend their careers working for the fair and just administration of the law.  As a practicing  judge he earned the affection and acclaim of lawyers across the state.  He was honored with the Oklahoma Bar Association's Award of Judicial Excellence in 2004.  Judge Goodwin particularly enjoyed mentoring – with alternative bouts of kindness and directness – lawyers and judges alike.  
+Buzz worked to support and advance the justice system, as a practicing lawyer for 24 years and then as District Judge for 24 years, from 1986 to 2010.  He revered the United States Constitution and the men and women of the bar who spend their careers working for the fair and just administration of the law.  As a trial judge he earned the affection and acclaim of lawyers across the state.  He was honored with the Oklahoma Bar Association's Award of Judicial Excellence in 2004.  Judge Goodwin particularly enjoyed mentoring – with alternative bouts of kindness and directness – lawyers and judges alike.  
 
 In Clinton and throughout his judicial district – Ellis, Roger Mills, Beckham, Washita, Harmon, Greer, and Custer counties – Buzz happily joined most any group, formal or informal, where people gathered to eat, drink coffee, and tell stories.  
 
