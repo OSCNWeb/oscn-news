@@ -9,7 +9,7 @@ system: false
 title: In Memoriam
 ---
 <img style="width: 110px; float: left; margin: 0 10px 10px 0;" src="http://www.oscn.net/images/news/charles-goodwin.jpg" />
-Judge Charles L. "Buzz" Goodwin, born June 21, 1938, in Clinton, Oklahoma, died Wednesday, November 8, 2017, in Oklahoma City, Oklahoma.  He is survived by his wife, Nancy Goodwin, to whom he was married for 54 years; daughter Suzanne Goodwin and her husband Greg Monaco and daughter Katherine Monaco; son Charles Goodwin and girlfriend Joanna Chenoweth; son Ben Goodwin and his wife Audrey Goodwin and daughters Margaret and Nora; sister Anne Miller; along with niece Kristy Blakeburn and her husband Robert Blakeburn.  Preceding Buzz in death were his parents, Charles N. "Pete" and Frances Goodwin, and his sister Kitty Goodwin.
+Judge Charles L. "Buzz" Goodwin, born June 21, 1938, in Clinton, Oklahoma, died Wednesday, November 8, 2017, in Oklahoma City, Oklahoma.  He is survived by his wife Nancy Goodwin, to whom he was married for 54 years; daughter Suzanne Goodwin, her husband Greg Monaco, grandaughter Katherine Monaco; son Charles Goodwin, his girlfriend Joanna Chenoweth; son Ben Goodwin, his wife Audrey Goodwin, grandaughters Margaret and Nora; sister Anne Miller; niece Kristy Blakeburn and her husband Robert Blakeburn.  Preceding Buzz in death were his parents, Charles N. "Pete" and Frances Goodwin, and his sister Kitty Goodwin.
 
 Buzz loved Nancy and their three children, all of whom were with him when he died.  
 
@@ -19,7 +19,7 @@ He had a great affection for the rolling hills of Western Oklahoma, where he cha
 
 He was also a loyal fan of the University of Oklahoma, where he received his juris doctorate in law in 1962.  
 
-Buzz worked to support and advance the justice system, serving as a practicing lawyer for 24 years and then as District Judge for 24 years, from 1986 to 2010.  He revered the United States Constitution and the men and women of the bar who spend their careers working for the fair and just administration of the law.  As a judge he earned the affection and acclaim of lawyers across the state.  He was honored with the Oklahoma Bar Association's Award of Judicial Excellence in 2004.  Judge Goodwin particularly enjoyed mentoring – with alternative bouts of kindness and directness – lawyers and judges alike.  
+Buzz worked to support and advance the justice system, as a practicing lawyer for 24 years and then as District Judge for 24 years, from 1986 to 2010.  He revered the United States Constitution and the men and women of the bar who spend their careers working for the fair and just administration of the law.  As a practicing  judge he earned the affection and acclaim of lawyers across the state.  He was honored with the Oklahoma Bar Association's Award of Judicial Excellence in 2004.  Judge Goodwin particularly enjoyed mentoring – with alternative bouts of kindness and directness – lawyers and judges alike.  
 
 In Clinton and throughout his judicial district – Ellis, Roger Mills, Beckham, Washita, Harmon, Greer, and Custer counties – Buzz happily joined most any group, formal or informal, where people gathered to eat, drink coffee, and tell stories.  
 
