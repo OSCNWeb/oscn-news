@@ -8,6 +8,7 @@ expire: '2017-11-13 08:42 -0600'
 system: false
 title: In Memoriam
 ---
+<img style="width: 110px; float: left; margin: 0 10px 10px 0;" src="http://www.oscn.net/images/news/charles-goodwin.jpg" />
 Judge Charles L. "Buzz" Goodwin, born June 21, 1938, in Clinton, Oklahoma, died Wednesday, November 8, 2017, in Oklahoma City, Oklahoma.  He is survived by his wife, Nancy Goodwin, to whom he was married for 54 years; daughter Suzanne Goodwin and her husband Greg Monaco and daughter Katherine Monaco; son Charles Goodwin and girlfriend Joanna Chenoweth; son Ben Goodwin and his wife Audrey Goodwin and daughters Margaret and Nora; sister Anne Miller; along with niece Kristy Blakeburn and her husband Robert Blakeburn.  Preceding Buzz in death were his parents, Charles N. "Pete" and Frances Goodwin, and his sister Kitty Goodwin.
 
 Buzz loved Nancy and their three children, all of whom were with him when he died.  
