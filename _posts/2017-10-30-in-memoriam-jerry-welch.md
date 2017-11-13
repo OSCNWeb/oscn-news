@@ -4,7 +4,7 @@ published: true
 newsid: '2017-10-30 09:16 -0500'
 layout: news
 publish: '2017-10-30 09:16 -0500'
-expire: '2017-11-30 09:16 -0500'
+expire: '2017-11-12 09:16 -0500'
 system: false
 title: In Memoriam
 ---
@@ -16,4 +16,3 @@ Jerry was born in Antlers, July 10, 1934 to Fitzhugh Lee & Arlene (Jennings) Wel
 Jerry is preceded in death by his parents, and two brothers: Charles and William.
 
 He leaves behind a loving family that includes daughters: Pamela and husband Raymond Huskins of Valliant, Kimberly Welch, close friend; Troy Splawn of Antlers, a granddaughter Kayla and husband Blake Cantrell, great grandchildren: Tycen, Kameron, and Brancen, sisters: Elizabeth Welch of Scottsdale, Arizona, Margaret Summers of Tulsa, nephews Bill Welch and Joe Welch as well as other family members, colleagues and friends.
-
