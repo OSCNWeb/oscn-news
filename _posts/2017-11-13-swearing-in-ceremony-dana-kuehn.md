@@ -4,7 +4,7 @@ published: true
 newsid: '2017-11-13 13:16 -0600'
 layout: news
 publish: '2017-11-13 13:16 -0600'
-expire: '2017-11-14 13:16 -0600'
+expire: '2017-11-16 13:16 -0600'
 system: false
 category:
   - aoc
