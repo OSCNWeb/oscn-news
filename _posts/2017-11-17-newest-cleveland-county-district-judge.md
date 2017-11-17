@@ -4,7 +4,7 @@ published: true
 newsid: '2017-11-17 16:33 -0600'
 layout: news
 publish: '2017-11-17 16:33 -0600'
-expire: '2017-11-17 16:33 -0600'
+expire: '2017-12-02 16:33 -0600'
 system: false
 title: Newest Cleveland County District Judge
 ---
