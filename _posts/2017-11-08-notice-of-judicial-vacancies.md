@@ -13,8 +13,4 @@ The Judicial Nominating Commission seeks applicants to fill the following judici
 **[Justice of the Supreme Court](http://www.oscn.net/jobs/1711070856/justice-of-the-supreme-court)  
 District Nine**
 
-**[Associate District Judge](http://www.oscn.net/jobs/1711070849/associate-district-judge)  
-Fourth Judicial District  
-Blaine County, Oklahoma**
-
 Please see the [Judicial Nominating Commission](http://www.oscn.net/jnc/about) web page for the application, instructions and additional information.
