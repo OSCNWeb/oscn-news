@@ -4,7 +4,7 @@ published: true
 newsid: '2017-10-02 16:01 -0500'
 layout: news
 publish: '2017-10-02 16:01 -0500'
-expire: '2018-01-02 16:01 -0500'
+expire: '2017-12-11 16:01 -0500'
 system: false
 category:
   - supreme
@@ -31,6 +31,4 @@ The Judicial Nominating Commission will accept applications for nominees to the 
 
 At the time of appointment, applicants must be 30 or older, have been a qualified elector in the 9th Supreme Court Judicial District for at least one year immediately prior to the date of appointment, and have been a licensed practicing attorney or judge of a court of record, or both, in Oklahoma for five years preceding the appointment.   
 
-The 9th Judicial District consists of Harmon, Greer, Kiowa, Caddo, Canadian, Comanche, Jackson, Tillman and Cotton counties.  
-
-
+The 9th Judicial District consists of Harmon, Greer, Kiowa, Caddo, Canadian, Comanche, Jackson, Tillman and Cotton counties.
