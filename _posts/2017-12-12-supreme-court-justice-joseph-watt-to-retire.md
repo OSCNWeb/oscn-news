@@ -6,7 +6,7 @@ layout: news
 publish: '2017-12-12 15:36 -0600'
 expire: '2017-12-12 15:36 -0600'
 system: false
-title: supreme court justice joseph watt to retire
+title: Supreme Court Justice Joseph Watt to Retire December 31st
 category:
   - supreme
 ---
