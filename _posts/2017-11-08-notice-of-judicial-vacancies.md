@@ -7,6 +7,8 @@ publish: '2017-11-08 08:47 -0600'
 expire: '2017-12-15 08:47 -0600'
 system: false
 title: Notice of Judicial Vacancies
+category:
+  - aoc
 ---
 The Judicial Nominating Commission seeks applicants to fill the following judicial offices:
 
