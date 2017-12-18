@@ -12,6 +12,6 @@ title: In Memoriam Mike Evans
 
 An active member of the Oklahoma Bar Association, Mike served the OBA in numerous capacities before fulfilling a dream and serving as OBA president. He loved the law and the lawyers who served it.  This was evident when he appeared in courts throughout southwest Oklahoma. Prepared and polite, he was known as a "kind soul." 
 
-Mike carried that same kindness to the AOC in his treatment of employees and district court personnel.  His of the Alternative Dispute Resolution/Early Settlement Mediation program continued after the AOC with his training and involvement as a mediator for the program. He recently participated in the annual Volunteer Mediator Summit this past October.
+Mike carried that same kindness to the AOC in his treatment of employees and district court personnel.  His support of the Alternative Dispute Resolution/Early Settlement Mediation program continued after the AOC with his training and involvement as a mediator for the program. He recently participated in the annual Volunteer Mediator Summit this past October.
 
 Funeral services are pending with Jackson Funeral Home of Frederick.  Further details will be provided when arrangements have been made.
