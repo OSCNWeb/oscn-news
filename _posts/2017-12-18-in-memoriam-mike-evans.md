@@ -14,4 +14,4 @@ An active member of the Oklahoma Bar Association, Mike served the OBA in numerou
 
 Mike carried that same kindness to the AOC in his treatment of employees and district court personnel.  His support of the Alternative Dispute Resolution/Early Settlement Mediation program continued after the AOC with his training and involvement as a mediator for the program. He recently participated in the annual Volunteer Mediator Summit this past October.
 
-A Celebration of Life will be held at the First Baptist Church, 201 East Grand, Frederick, OK, on Thursday, December 21, at 10:00 a.m. Private family burial will be in the Carney Cemetery under direction of Jackson Funeral Home of Frederick. Memorial contributions may be made to the Oklahoma Medical Research Foundation – Heart Division in memory of Mike Evans.
+A Celebration of Life will be held at the First Baptist Church, 201 East Grand, Frederick, OK, on Thursday, December 21, at 10:00 a.m. Private family burial will be in the Carney Cemetery under direction of Jackson Funeral Home of Frederick. Memorial contributions may be made to the Oklahoma Medical Research Foundation - Heart Division in memory of Mike Evans.
