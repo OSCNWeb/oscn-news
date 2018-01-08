@@ -4,7 +4,7 @@ published: true
 newsid: '2017-12-18 09:55 -0600'
 layout: news
 publish: '2017-12-18 09:55 -0600'
-expire: '2018-01-18 09:55 -0600'
+expire: '2018-01-08 09:55 -0600'
 system: false
 title: In Memoriam Mike Evans
 ---
