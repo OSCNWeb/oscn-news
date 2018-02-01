@@ -12,5 +12,14 @@ title: Upcoming Oral Arguments
 
 [116,554](http://www.oscn.net/dockets/GetCaseInformation.aspx?db=appellate&number=116554) – Perry Odom and Carolyn Odom v. Penske Truck Leasing Co. and Hendrickson USA, LLC.
 
-Oral Argument before the Court set for **10:00am, February 15, 2018**, in the Supreme Court Courtroom, State Capitol. 
+Oral Argument before the Court set for **10:00am, February 15, 2018**, in the Supreme Court Courtroom, State Capitol.
 
+[116,679]() – Oklahoma Independent Petroleum Assoc., et al v. Ray H. Potts, et al.  
+[116,680]() – Mike McDonald, et al v. Michael O. Thompson, et al.
+
+For purposes of oral argument the above matters 116, 679 and 116, 680 are consolidated.
+Oral argument before the Court set for 10:00 am, March 1, 2018 in the Supreme Court Courtroom, State Capitol.
+
+[116,682]() – Oklahoma Oil & Gas Assoc. and David S. Sikes v. Michael O. Thompson, et al.
+
+Oral argument before the Court set fir 11:00 am, March 1, 2018, in the Supreme Court Courtroom, State Capitol.
