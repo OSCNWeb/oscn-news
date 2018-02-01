@@ -10,13 +10,13 @@ title: Upcoming Oral Arguments
 ---
 <u>Supreme Court of Oklahoma</u>
 
-[115,558]() – Robert Hill v. American Medical Response and Indemnity Ins. Co. of North America and Workers’ Compensation Comm.  
-
-Oral Argument before the Court set for **10:00 am, February 22, 2018** in the Supreme Court Courtroom, State Capitol.
-
 [116,554](http://www.oscn.net/dockets/GetCaseInformation.aspx?db=appellate&number=116554) – Perry Odom and Carolyn Odom v. Penske Truck Leasing Co. and Hendrickson USA, LLC.
 
 Oral Argument before the Court set for **10:00am, February 15, 2018**, in the Supreme Court Courtroom, State Capitol.
+
+[115,558]() – Robert Hill v. American Medical Response and Indemnity Ins. Co. of North America and Workers’ Compensation Comm.  
+
+Oral Argument before the Court set for **10:00 am, February 22, 2018** in the Supreme Court Courtroom, State Capitol.
 
 [116,679]() – Oklahoma Independent Petroleum Assoc., et al v. Ray H. Potts, et al.  
 [116,680]() – Mike McDonald, et al v. Michael O. Thompson, et al.
