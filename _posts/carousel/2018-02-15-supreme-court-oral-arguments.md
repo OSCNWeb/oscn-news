@@ -14,7 +14,7 @@ carousel_content: >-
   Court Oral Arguments Live" />
 link: /news/1802150848/supreme-court-oral-arguments
 ---
-<iframe width="560" height="315" src="https://youtu.be/CVfWUlCTgrg" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CVfWUlCTgrg" frameborder="0" allowfullscreen></iframe>
 
 [116,554](http://www.oscn.net/dockets/GetCaseInformation.aspx?db=appellate&number=116554) – Perry Odom and Carolyn Odom v. Penske Truck Leasing Co. and Hendrickson USA, LLC.
 
