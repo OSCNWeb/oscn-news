@@ -12,4 +12,4 @@ category:
 ---
 Due to inclement weather, the Judicial Center will reduce services to essential personnel today, Wednesday, February 21, from 8:00 am to 5:00 pm.
 
-**The Appellate Court Clerk’s Office will remain open.**
+The Appellate Court Clerk’s Office will **close at 3:30 pm**.
