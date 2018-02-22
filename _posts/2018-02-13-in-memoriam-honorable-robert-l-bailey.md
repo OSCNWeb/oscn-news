@@ -4,7 +4,7 @@ published: true
 newsid: '2018-02-13 15:06 -0600'
 layout: news
 publish: '2018-02-13 15:06 -0600'
-expire: '2018-03-01 15:06 -0600'
+expire: '2018-02-20 15:06 -0600'
 system: false
 title: 'In Memoriam: Honorable Robert L. Bailey'
 ---
