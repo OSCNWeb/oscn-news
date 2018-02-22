@@ -4,7 +4,7 @@ published: true
 newsid: '2018-02-21 12:28 -0600'
 layout: news
 publish: '2018-02-21 12:28 -0600'
-expire: '2018-02-23 12:28 -0600'
+expire: '2018-02-20 12:28 -0600'
 system: false
 title: Oral Arguments Update
 category:
