@@ -22,4 +22,4 @@ Oral argument before the Court set for **11:00 am, March 1, 2018**, in the Supre
 
 [115,558]() – Robert Hill v. American Medical Response and Indemnity Ins. Co. of North America and Workers’ Compensation Comm.  
 
-Due to previous inclement weather, oral argument before the Court set for **2:00 pm, March 19, 2018** in the Supreme Court Courtroom, State Capitol.
+Due to previous inclement weather, oral argument before the Court is rescheduled for **2:00 pm, March 19, 2018** in the Supreme Court Courtroom, State Capitol.
