@@ -4,7 +4,7 @@ published: true
 newsid: '2018-03-01 08:37 -0600'
 layout: news
 publish: '2018-03-01 08:37 -0600'
-expire: '2018-03-01 08:37 -0600'
+expire: '2018-03-02 08:37 -0600'
 system: false
 title: SITE MAINENANCE
 category:
