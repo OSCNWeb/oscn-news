@@ -1,6 +1,6 @@
 ---
 carousel: true
-published: false
+published: true
 newsid: '2018-02-15 08:48 -0600'
 layout: carousel
 publish: '2018-03-01 08:48 -0600'
