@@ -12,7 +12,6 @@ title: Supreme Court Oral Arguments
 carousel_content: >-
   <img src="/assets/img/carousel/live-oral-arguments.jpg" alt="Oklahoma Supreme
   Court Oral Arguments Live" />
-link: /news/1803010848/supreme-court-oral-arguments
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CVfWUlCTgrg" frameborder="0" allowfullscreen></iframe>
 
