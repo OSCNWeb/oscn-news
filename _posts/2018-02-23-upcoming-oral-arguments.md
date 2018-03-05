@@ -4,7 +4,7 @@ published: true
 newsid: '2018-02-23 13:21 -0600'
 layout: news
 publish: '2018-02-23 13:21 -0600'
-expire: '2018-03-19 13:21 -0600'
+expire: '2018-03-04 13:21 -0600'
 system: false
 title: Upcoming Oral Arguments
 ---
