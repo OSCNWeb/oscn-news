@@ -14,7 +14,7 @@ carousel_content: >-
   Court Oral Arguments Live" />
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CVfWUlCTgrg" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UyHU3LpzZPU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <u>Supreme Court of Oklahoma</u>
 
