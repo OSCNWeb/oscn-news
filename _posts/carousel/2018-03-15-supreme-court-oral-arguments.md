@@ -6,7 +6,7 @@ layout: carousel
 publish: '2018-03-15 08:47 -0500'
 expire: '2018-03-20 08:47 -0500'
 system: false
-news: false
+news: true
 carousel_expire: '2018-03-20 08:47 -0500'
 title: Supreme Court Oral Arguments
 carousel_content: >-
