@@ -22,5 +22,5 @@ carousel_content: >-
 
 Due to previous inclement weather, oral argument before the Court is rescheduled for **2:00 pm, March 19, 2018** in the Supreme Court Courtroom, State Capitol.
 
-The oral arguments will be live streamed on the OSCN website.
+The live stream can be viewed on [YouTube](https://youtu.be/UyHU3LpzZPU).
 
