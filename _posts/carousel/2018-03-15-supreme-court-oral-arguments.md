@@ -7,7 +7,7 @@ publish: '2018-03-14 06:00 -0500'
 expire: '2018-03-14 06:00 -0500'
 system: false
 news: true
-carousel_expire: '2018-03-20 17:00 -0500'
+carousel_expire: '2018-03-14 17:00 -0500'
 title: Supreme Court Oral Arguments
 carousel_content: >-
   <img src="/assets/img/carousel/live-oral-arguments.jpg" alt="Oklahoma Supreme
@@ -23,4 +23,3 @@ carousel_content: >-
 Due to previous inclement weather, oral argument before the Court is rescheduled for **2:00 pm, March 19, 2018** in the Supreme Court Courtroom, State Capitol.
 
 The live stream can be viewed on [YouTube](https://youtu.be/UyHU3LpzZPU).
-
