@@ -3,11 +3,11 @@ carousel: true
 published: true
 newsid: '2018-03-15 08:47 -0500'
 layout: carousel
-publish: '2018-03-14 06:00 -0500'
+publish: '2018-03-19 06:00 -0500'
 expire: '2018-03-14 06:00 -0500'
 system: false
 news: true
-carousel_expire: '2018-03-14 17:00 -0500'
+carousel_expire: '2018-03-19 17:00 -0500'
 title: Supreme Court Oral Arguments
 carousel_content: >-
   <img src="/assets/img/carousel/live-oral-arguments.jpg" alt="Oklahoma Supreme
