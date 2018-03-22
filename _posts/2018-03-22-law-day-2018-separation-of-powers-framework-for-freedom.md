@@ -6,6 +6,7 @@ layout: news
 publish: '2018-03-22 10:43 -0500'
 system: false
 title: 'Law Day 2018 - "Separation of Powers: Framework for Freedom"'
+expire: '2018-06-01 10:43 -500'
 ---
 **OBSERVANCE OF LAW DAY**  
 **May 1, 2018**  
