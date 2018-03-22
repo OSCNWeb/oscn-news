@@ -10,7 +10,7 @@ title: 'Law Day 2018 - "Separation of Powers: Framework for Freedom"'
 ---
 **OBSERVANCE OF LAW DAY**  
 **May 1, 2018**  
-{style="text-align: center"}
+{: style="text-align: center"}
 
 "Separation of Powers: Framework for Freedom"
 
