@@ -12,7 +12,8 @@ title: 'Law Day 2018 - "Separation of Powers: Framework for Freedom"'
 **May 1, 2018**  
 {: style="text-align: center"}
 
-"Separation of Powers: Framework for Freedom"
+**"Separation of Powers: Framework for Freedom"**
+{: style="text-align: center
 
 All courts in each of the twenty-six judicial districts in Oklahoma are urged to hold Law Day activities. These activities may include courtroom ceremonies, courthouse tours and mock trials. The cooperation of the judges and court clerks is essential for Law Day special events.
 
@@ -22,5 +23,6 @@ DONE THIS 15th DAY OF MARCH, 2018
 
 SUPREME COURT OF OKLAHOMA
 
-/s Douglas L. Combs
+/s Douglas L. Combs  
 Chief Justice
+{: style="text-align: center"}
