@@ -13,7 +13,7 @@ title: 'Law Day 2018 - "Separation of Powers: Framework for Freedom"'
 {: style="text-align: center"}
 
 **"Separation of Powers: Framework for Freedom"**
-{: style="text-align: center
+{: style="text-align: center"}
 
 All courts in each of the twenty-six judicial districts in Oklahoma are urged to hold Law Day activities. These activities may include courtroom ceremonies, courthouse tours and mock trials. The cooperation of the judges and court clerks is essential for Law Day special events.
 
