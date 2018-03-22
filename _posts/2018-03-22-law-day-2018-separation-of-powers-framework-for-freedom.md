@@ -4,7 +4,6 @@ published: true
 newsid: '2018-03-22 10:43 -0500'
 layout: news
 publish: '2018-03-22 10:43 -0500'
-expire: '2018-03-22 10:43 -0500'
 system: false
 title: 'Law Day 2018 - "Separation of Powers: Framework for Freedom"'
 ---
@@ -25,4 +24,3 @@ SUPREME COURT OF OKLAHOMA
 
 /s Douglas L. Combs  
 Chief Justice
-{: style="text-align: center"}
