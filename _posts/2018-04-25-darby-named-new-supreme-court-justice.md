@@ -8,8 +8,8 @@ expire: '2018-10-25 15:34 -0500'
 system: false
 title: Darby Named New Supreme Court Justice
 ---
-<div style="text-align: center;"><img src="http://www.oscn.net/images/news/darby-swearing-in-ceremony-group-photo.jpg" alt="" style="width: 400px; margin: 0 auto;" />
-<span style="display: block; font-size: 9px; line-height: 11px; text-decoration: italics;" class="caption">Left to Right: Chief Justice Douglas Combs, Justice Yvonne Kauger, Justice Joseph Watt, Justice Richard Darby, Vice-Chief Justice Noma Gurich, Retired Justice Steven Taylor, Justice James Winchester, Justice Patrick Wyrick and Administrative Director of the Courts, Jari Askins.</span>
+<div style="text-align: center;"><img src="http://www.oscn.net/images/news/darby-swearing-in-ceremony-group-photo.jpg" alt="" style="width: 450px; margin: 0 auto;" />
+<span style="display: block; width: 450px; margin: auto; font-size: 9px; line-height: 11px; text-decoration: italics;" class="caption">Left to Right: Chief Justice Douglas Combs, Justice Yvonne Kauger, Justice Joseph Watt, Justice Richard Darby, Vice-Chief Justice Noma Gurich, Retired Justice Steven Taylor, Justice James Winchester, Justice Patrick Wyrick and Administrative Director of the Courts, Jari Askins.</span>
 </div>
 
 On Monday, April 16, Chief Justice Douglas Combs administered the Oath of Office to Richard Darby as Justice of the Oklahoma Supreme Court, District No. 9, filling the vacancy created by the retirement of Justice Joseph Watt. 
