@@ -1,19 +1,20 @@
 ---
-title: 'Jari Askins Sworn in as Administrative Director of the Courts'
-newsid: 137
-publish: 2015-10-10 12:00 -0500
-expire: 2015-10-24 12:00 -0500
-system: 
-feature: 
-category: aoc
 news: true
 carousel: false
-link: 
-carousel_expire: 
-carousel_content: ''
+published: true
+newsid: 137
 layout: news
+title: Jari Askins Sworn in as Administrative Director of the Courts
+publish: '2015-10-10 12:00 -0500'
+expire: '2015-10-24 12:00 -0500'
+system: false
+feature: null
+category:
+  - aoc
+link: null
+carousel_expire: null
 ---
-		<style>
+<style>
 	html, body, #presentation-table-row {
 		height: 100%;
 		margin: 0;
