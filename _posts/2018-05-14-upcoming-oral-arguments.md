@@ -1,0 +1,15 @@
+---
+news: true
+published: true
+newsid: '2018-05-14 15:59 -0500'
+layout: news
+publish: '2018-05-14 15:59 -0500'
+expire: '2018-07-11 15:59 -0500'
+system: false
+title: Upcoming Oral Arguments
+---
+<u>Supreme Court of Oklahoma</u>
+
+[117,004](http://www.oscn.net/dockets/GetCaseInformation.aspx?db=appellate&number=117004) - In Re: Referendum Petition No. 25, State Question No. 799  
+
+The above-styled and numbered cause is set for oral argument before the Count <em>en banc</em> commencing at 2:00pm on June 11, 2018, in the Hearing Room of the Oklahoma Judicial Center, 2100 N. Lincoln Blvd.
