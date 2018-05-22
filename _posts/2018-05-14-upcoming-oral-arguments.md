@@ -14,7 +14,7 @@ title: Upcoming Oral Arguments
 
 The above-styled and numbered cause is set for oral argument before the Count <em>en banc</em> commencing at 2:00pm on June 11, 2018, in the Hearing Room of the Oklahoma Judicial Center, 2100 N. Lincoln Blvd.
 
-[117,020](http://www.oscn.net/dockets/GetCaseInformation.aspx?db=appellate&number=117004) - Oklahoma's Children, Our Future, Inc.; The Oklahoma Education Association; The Oklahoma State School Boards Association; The Cooperative Council for Oklahoma School Administration; The Organization of Rural Oklahoma Schools; The Oklahoma Association of Career and Technology Education; The United Suburban Schools Association; Oklahoma PTA;  The Tulsa Classroom Teachers Association; Dr. Keith Ballard; Joely Flegler; and Teranne Williams,  
+[117,020](http://www.oscn.net/dockets/GetCaseInformation.aspx?db=appellate&number=117020) - Oklahoma's Children, Our Future, Inc.; The Oklahoma Education Association; The Oklahoma State School Boards Association; The Cooperative Council for Oklahoma School Administration; The Organization of Rural Oklahoma Schools; The Oklahoma Association of Career and Technology Education; The United Suburban Schools Association; Oklahoma PTA;  The Tulsa Classroom Teachers Association; Dr. Keith Ballard; Joely Flegler; and Teranne Williams,  
 vs  
 Dr. Tom Coburn, Brooke McGowan and Ronda Vuillemont-Smith
 
