@@ -19,3 +19,9 @@ vs
 Dr. Tom Coburn, Brooke McGowan and Ronda Vuillemont-Smith
 
 The above-styled and numbered cause is set for oral argument before the Count <em>en banc</em> commencing at 3:00pm on June 11, 2018, in the Hearing Room of the Oklahoma Judicial Center, 2100 N. Lincoln Blvd.
+
+<u>Oklahoma Court of Civil Appeals</u>
+
+[114,175 Cons. w/ 114,183](http://www.oscn.net/dockets/GetCaseInformation.aspx?db=appellate&number=114175) - Michael D. Galier vs Murco Wall Products, inc., et al.
+
+This case is set for oral argument Friday, June 22, 2018, 10:30 a.m., in the Court of Civil Appeals, 1915 North Stiles, 3rd Floor, Room 354.
