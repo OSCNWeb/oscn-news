@@ -4,7 +4,7 @@ published: true
 newsid: '2018-06-05 16:31 -0500'
 layout: news
 publish: '2018-06-05 16:31 -0500'
-expire: '2018-06-11 16:31 -0500'
+expire: '2018-06-12 16:31 -0500'
 system: false
 title: Tax Referendum Oral Arguments to be Live-Streamed on OSCN
 ---
