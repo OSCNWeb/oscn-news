@@ -14,5 +14,4 @@ The same-day scheduling of two oral arguments on issues of statewide interest wi
 
 No other photographers or video cameras will be allowed in the Hearing Room.
 
-The link to the live-time feed will be found June 11 on the OSCN website.
-
+The live stream can be viewed on [YouTube](https://youtu.be/gmthreGnuMM).
