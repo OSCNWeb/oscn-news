@@ -10,7 +10,7 @@ title: Oklahoma Judicial Center Notice
 category:
   - aoc
 ---
-Due to a power outage early Monday, most offices in the Oklahoma Judicial Center have been closed.  The Appellate Court Clerk's Office is **open for filing** and the **HelpDesk is also available**.
+Due to a power outage early Monday, most offices in the Oklahoma Judicial Center have been closed.  The **Appellate Court Clerk's Office is open for filing** and the **HelpDesk is also available**.
 
 Thank you for your patience and understanding.  
 
