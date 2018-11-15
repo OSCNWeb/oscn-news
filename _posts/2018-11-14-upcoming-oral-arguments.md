@@ -12,4 +12,4 @@ title: Upcoming Oral Arguments
 
 [114,713](http://www.oscn.net/dockets/GetCaseInformation.aspx?db=appellate&number=114713) - VERDA JEAN KEYS SANDERS vs. MICHAEL COLE, D.O., an individual; JACK MOCNIK, JR., MD, an individual; JOHN FITTER, MD, an individual; ST. JOHNS MEDICAL, INC., a company doing business in the State of Oklahoma
 
-The captioned case is set for oral argument on the appellees' petitions for rehearing on the 15th dat of November, 2018, at 1:30 p.m., in the Courtroom of the Tulsa Divisions of the Court of Civil Appeals, 440 South Houston, Suite 601, Tulsa, Oklahoma.
+The captioned case is set for oral argument on the appellees' petitions for rehearing on the 15th date of November, 2018, at 1:30 p.m., in the Courtroom of the Tulsa Divisions of the Court of Civil Appeals, 440 South Houston, Suite 601, Tulsa, Oklahoma.
