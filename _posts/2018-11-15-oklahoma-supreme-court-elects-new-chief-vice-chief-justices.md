@@ -4,7 +4,7 @@ published: true
 newsid: '2018-11-15 15:09 -0600'
 layout: news
 publish: '2018-11-15 15:09 -0600'
-expire: '2019-11-15 15:09 -0600'
+expire: '2019-11-11 15:09 -0600'
 system: false
 title: 'Oklahoma Supreme Court Elects New Chief, Vice Chief Justices'
 ---
@@ -28,4 +28,3 @@ Combs, who is concluding two years as Chief Justice, said, "as judges continue t
 <img style="width: 150px;" src="http://www.oscn.net/images/judges/id/nomagurich.jpg" alt=""/>
 <img style="width: 150px;" src="http://www.oscn.net/images/judges/id/patrickwyrick.jpg" alt=""/>
 </div>
-
