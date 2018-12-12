@@ -4,7 +4,7 @@ published: true
 newsid: '2018-12-12 09:40 -0600'
 layout: news
 publish: '2018-12-12 09:40 -0600'
-expire: '2018-12-12 09:40 -0600'
+expire: '2019-01-16 09:40 -0600'
 system: false
 title: Swearing-In of Chief and Vice-Chief Justices
 category:
