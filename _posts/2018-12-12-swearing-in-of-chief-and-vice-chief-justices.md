@@ -30,4 +30,8 @@ category:
       House of Representatives Chambers, 4th Floor</p>
    <p>Reception Immediately Following<br>
       4th Floor Rotunda</p>
+  
+  <p></p>
+  <p>Judges attending are requested to wear their robes.</p>
+
 </div>
