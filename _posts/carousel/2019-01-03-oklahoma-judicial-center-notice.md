@@ -11,7 +11,7 @@ carousel_expire: '2019-01-04 11:39 -0600'
 title: Oklahoma Judicial Center Notice
 category:
   - aoc
-carousel_content: <img src='/assets/img/carousel/weather-closing-01-03-2018.jpg' alt='' />
+carousel_content: <img src='/assets/img/carousel/weather-closing-01-03-2019.jpg' alt='' />
 ---
 Due to inclement weather, the Judicial Center will reduce services to essential personnel today, Thursday, January 3, from 8:00 am to 5:00 pm.
 
