@@ -4,10 +4,10 @@ published: true
 newsid: '2019-01-03 11:39 -0600'
 layout: carousel
 publish: '2019-01-03 11:39 -0600'
-expire: '2019-01-04 11:39 -0600'
+expire: '2019-01-03 11:39 -0600'
 system: false
 news: true
-carousel_expire: '2019-01-04 11:39 -0600'
+carousel_expire: '2019-01-03 11:39 -0600'
 title: Oklahoma Judicial Center Notice
 category:
   - aoc
