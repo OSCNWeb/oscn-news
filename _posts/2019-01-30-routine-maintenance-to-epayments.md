@@ -3,8 +3,8 @@ news: true
 published: true
 newsid: '2019-01-30 10:54 -0600'
 layout: news
-publish: '2019-01-30 10:54 -0600'
-expire: '2019-01-30 10:54 -0600'
+publish: '2019-01-29 10:54 -0600'
+expire: '2019-01-31 10:54 -0600'
 system: false
 title: Routine Maintenance to Epayments
 ---
