@@ -16,4 +16,4 @@ category:
 
 Pursuant to Rules 1.9 and 1.36(h) of the Oklahoma Supreme Court Rules, 12 O.S. Supp. 2018 ch. 15, app. 1, the above-styled and -numbered cause is set for oral argument before the Court <em>en banc</em> commencing at 10:00 a.m. on Thursday, February 7, 2019, in the Hearing Room of the Oklahoma Supreme Court, located on the second floor of the Oklahoma Judicial Center, 2100 N. Lincoln Boulevard, Oklahoma City, Oklahoma 73105
 
-The Oral Argument will be available via live stream on OSCN.net.
+The Oral Arguments will be available via live stream on OSCN.net.
