@@ -1,14 +1,17 @@
 ---
-news: true
-published: true
+carousel: true
+published: false
 newsid: '2019-02-01 10:30 -0600'
-layout: news
-publish: '2019-02-01 10:30 -0600'
+layout: carousel
+publish: '2019-02-01 10:30 -0600''
 expire: '2019-02-08 10:30 -0600'
 system: false
-title: Supreme Court Oral Argument
-category:
-  - supreme
+news: true
+carousel_expire: '2019-02-08 10:30 -0600'
+title: Supreme Court Oral Arguments
+carousel_content: >-
+  <img src="/assets/img/carousel/live-oral-arguments.jpg" alt="Oklahoma Supreme
+  Court Oral Arguments Live" />
 ---
 <u>Supreme Court of Oklahoma</u>
 
