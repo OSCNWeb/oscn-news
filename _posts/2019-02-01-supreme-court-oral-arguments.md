@@ -6,7 +6,7 @@ layout: news
 publish: '2019-02-07 08:52 -0600'
 expire: '2019-02-07 08:52 -0600'
 system: false
-title: Untitled
+title: Supreme Court Oral Argument
 category:
   - supreme
 ---
