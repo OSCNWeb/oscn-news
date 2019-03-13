@@ -11,7 +11,12 @@ category:
   - aoc
 ---
 Pursuant to <a href="http://www.oscn.net/applications/oscn/DeliverDocument.asp?CiteID=483490">Supreme Court Administrative Docket 2019-16</a>, the Supreme Court has ordered the certificates of the following Certified Shorthand Reporters suspended effective <u>February 15, 2019</u> for failure to satisfy the annual renewal requirements.
-
+<table>
+  <tr>
+    <td><b>Name</b></td>
+    <td><b>CSR #</b></td>
+    <td><b>Reason</b></td>
+  </tr>  
 <tr>
 	<td>Hope Alwardt
 	<td>1883
@@ -72,5 +77,5 @@ Pursuant to <a href="http://www.oscn.net/applications/oscn/DeliverDocument.asp?C
 	<td>1961</td>
 	<td>Continuing Education & Renewal Fee</td>
 </tr>	
-
+</table>
 On or before <u>April 15, 2019</u>, a suspended credential may be reinstated, by submission of all required documents and fees. A suspended credential which has not been reinstated on or before April 15 <u>shall be administratively revoked</u> on that date. See 20 O.S. Chapter 20, App. 1, Rules 20(e) and 23(f).
