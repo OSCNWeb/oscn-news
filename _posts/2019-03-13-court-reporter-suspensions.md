@@ -77,7 +77,7 @@ Pursuant to <a href="http://www.oscn.net/applications/oscn/DeliverDocument.asp?C
 	<td>Jeanna Whitten</td>
 	<td style="padding: 0 2px;">1961</td>
 	<td>Continuing Education & Renewal Fee</td>
-</tr>	
+</tr>
 </table>
 
 <br/>
