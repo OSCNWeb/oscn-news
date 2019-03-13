@@ -79,4 +79,5 @@ Pursuant to <a href="http://www.oscn.net/applications/oscn/DeliverDocument.asp?C
 	<td>Continuing Education & Renewal Fee</td>
 </tr>	
 </table>
+
 On or before <u>April 15, 2019</u>, a suspended credential may be reinstated, by submission of all required documents and fees. A suspended credential which has not been reinstated on or before April 15 <u>shall be administratively revoked</u> on that date. See 20 O.S. Chapter 20, App. 1, Rules 20(e) and 23(f).
