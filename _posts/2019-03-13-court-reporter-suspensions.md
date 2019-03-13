@@ -19,9 +19,9 @@ Pursuant to <a href="http://www.oscn.net/applications/oscn/DeliverDocument.asp?C
 <td><b>Reason</b></td>
 </tr>  
 <tr>
-<td>Hope Alwardt
-<td style="padding: 0 2px;">1883
-<td>Continuing Education & Renewal Fee
+<td>Hope Alwardt</td>
+<td style="padding: 0 2px;">1883</td>
+<td>Continuing Education & Renewal Fee</td>
 </tr>
 <tr>
 <td>Karen Baker</td>
