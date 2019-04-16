@@ -6,7 +6,7 @@ layout: news
 publish: '2019-04-16 09:16 -0500'
 expire: '2019-05-01 09:16 -0500'
 system: false
-title: The Honorable Lisa Tipping Davis
+title: 'In Memoriam: Honorable Lisa Tipping Davis'
 category:
   - aoc
 ---
