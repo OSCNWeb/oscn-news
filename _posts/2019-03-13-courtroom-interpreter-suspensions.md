@@ -26,10 +26,10 @@ Pursuant to <a href="http://www.oscn.net/applications/oscn/DeliverDocument.asp?C
 	<td>Tania Flores</td>
 	<td>Continuing Education & Renewal Fee</td>
 </tr>
-<del><tr>
-	<td>Alejandro Miranda</td>
-	<td>Continuing Education & Renewal Fee</td>
-  </tr></del>
+<tr>
+	<td><del>Alejandro Miranda</del></td>
+	<td><del>Continuing Education & Renewal Fee</del></td>
+  </tr>
 <tr>
 	<td>Emily Salinas</td>
 	<td>Continuing Education & Renewal Fee</td>
