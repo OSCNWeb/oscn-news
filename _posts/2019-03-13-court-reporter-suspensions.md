@@ -34,9 +34,9 @@ Pursuant to <a href="http://www.oscn.net/applications/oscn/DeliverDocument.asp?C
 <td>Continuing Education & Renewal Fee</td>
 </tr>
 <tr>
-<td>Regina Goldsmith</td>
-<td style="padding: 0 2px;">908</td>
-<td>Continuing Education & Renewal Fee</td>
+  <td><del>Regina Goldsmith</del></td>
+<td style="padding: 0 2px;"><del>908</del></td>
+<td><del>Continuing Education & Renewal Fee</del></td>
 </tr>
 <tr>
 <td>David Harjo</td>
@@ -44,9 +44,9 @@ Pursuant to <a href="http://www.oscn.net/applications/oscn/DeliverDocument.asp?C
 <td>Renewal Fee</td>
 </tr>
 <tr>
-<td>Laurie Hoyt</td>
-<td style="padding: 0 2px;">547</td>
-<td>Continuing Education</td>
+<td><del>Laurie Hoyt</del></td>
+<td style="padding: 0 2px;"><del>547</del></td>
+<td><del>Continuing Education</del></td>
 </tr>
 <tr>
 <td>Deborah Parker</td>
@@ -74,9 +74,9 @@ Pursuant to <a href="http://www.oscn.net/applications/oscn/DeliverDocument.asp?C
 <td>Continuing Education & Renewal Fee</td>
 </tr>
 <tr>
-<td>Jeanna Whitten</td>
-<td style="padding: 0 2px;">1961</td>
-<td>Continuing Education & Renewal Fee</td>
+<td><del>Jeanna Whitten</del></td>
+<td style="padding: 0 2px;"><del>1961</del></td>
+  <td><del>Continuing Education & Renewal Fee</del></td>
 </tr>
 </table>
 
