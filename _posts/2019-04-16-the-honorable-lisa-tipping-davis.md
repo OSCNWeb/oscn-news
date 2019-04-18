@@ -18,3 +18,5 @@ Prior to being appointed a district judge, Judge Davis served as General Counsel
 Judge Davis was a member of the Holloway Chapter of the American Inns of Court and she was president 2014-2015 year. Judge Davis served on the Oklahoma County Bar Association Board of Directors. Judge Davis was appointed in 2014 to the Juvenile Justice Oversight and Advisory Committee and the Citizens for Juvenile Justice. She is the recipient of the 2014 Mona Salyer Lambird Spotlight award, the 2015 Journal Record Leadership in Law award, the 2015 Howard K. Berry Sr. award and 2015 OCBA Professional Service Award.
 
 Judge Davis was born and raised in Tulsa, Oklahoma and lived in Oklahoma all her life. She was a Sustainer in Oklahoma County Junior League and was a member of the XXIV Leadership Oklahoma City Class.
+
+A memorial service was held on Thursday, April 18. In lieu of flowers, donations may be made to Citizens for Children & Families, Inc., c/o Sarah Edwards, 2108 NW 59th Cir, OKC, OK 73112. 
