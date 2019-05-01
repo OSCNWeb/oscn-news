@@ -12,7 +12,7 @@ category:
 ---
 The Judicial Nominating Commission seeks applicants to fill the following judicial offices:
 
-**[Justice of the Supreme Court](http://www.oscn.net/jobs/1903221630/justice-of-the-supreme-court) District One**  
+**[Justice of the Supreme Court](http://www.oscn.net/jobs/1905011313/justice-of-the-supreme-court) District Two**  
 **[District Judge](http://www.oscn.net/jobs/1903221632/district-judge) (Muskogee)**
 
 Please see the [Judicial Nominating Commission](http://www.oscn.net/jnc/about) web page for the application, instructions and additional information.
