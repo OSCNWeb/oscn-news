@@ -11,7 +11,7 @@ category:
 title: VICTIMS IMPACT PANEL PROGRAMS
 ---
 <center>
-  <u><em>*** Important information regarding compliance with 22 O.S. §991a(H)(3) ***</em></u>
+  <em>*** Important information regarding compliance with 22 O.S. §991a(H)(3) ***</em>
 </center>
 
 **<u>WHAT TO SUBMIT:</u>**  Pursuant to 22 O.S. §991a(H)(3), victims impact panel program providers must submit the following materials to the Administrative Office of the Courts annually: 
