@@ -18,7 +18,7 @@ title: VICTIMS IMPACT PANEL PROGRAMS
 
 * Proof of registration with the Oklahoma Secretary of State,
 * Proof of general liability insurance (showing coverage in place for the current year)
-* End-of-year financial statements prepared by a certified public accountant, and
+* End-of-year financial statements prepared by a certified public accountant (for the calendar year), and
 * A copy of federal income tax returns filed with the Internal Revenue Service.
 
 **<u>HOW TO SUBMIT:</u>**  The required materials must be submitted electronically, in PDF format, via EMAIL to the following address: [VicImpact@oscn.net](mailto:VicImpact@oscn.net)
