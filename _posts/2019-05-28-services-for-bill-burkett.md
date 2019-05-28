@@ -3,12 +3,14 @@ news: true
 published: true
 newsid: '2019-05-28 07:55 -0500'
 layout: news
-publish: '2019-05-28 07:55 -0500'
+publish: '2019-05-28 05:55 -0500'
 expire: '2019-06-01 07:55 -0500'
 system: false
 title: >-
   Services for former Oklahoma County District Judge Bill Burkett, Wednesday,
   May 29
+category:
+  - aoc
 ---
 Former Oklahoma County District Judge William R. “Bill” Burkett died on May 23, 2019.  Bill was born in Oklahoma City on November 2, 1925, and attended public schools in Oklahoma City and Norman.  Destined for the military, he also attended Allen Military Academy, Bryan, Texas, and Kemper Military School in Boonville, Missouri.  He graduated from Kemper as Cadet Corps Commander in 1944, the 100th anniversary of the school, and, later, from OCS at Fort Benning, Georgia, as a second lieutenant, Infantry, after which he served in the Philippines and Japan.  Upon returning home, he married his wife, Phoebe, and entered the OU law school. After finishing law school, the couple moved to Woodward in 1950 to begin raising a family.  
 
@@ -19,4 +21,3 @@ He was a founding member and Master Emeritus of the William J. Holloway Inn of C
 He was preceded in death by his beloved wife of 69 years, Phoebe and is survived by his four children, Bana Roberts (Wilson), Jerry Burkett (Debbie), Jim Burkett (Brenda), and Julie Taylor (Sherwood); and ten grandchildren; and nineteen great-grandchildren.
 
 A Celebration of Life will be held at 10:00 a.m., Wednesday, May 29, 2019, at Covenant Presbyterian Church, 10100 Ridgeview Drive, The Village, OK, 73120.  In lieu of flowers, please consider a contribution to The Urban Mission, 3737 N. Portland Ave., OKC; or Covenant Presbyterian Endowment Fund, 10100 Ridgeview Dr., The Village, OK 73120.
-
