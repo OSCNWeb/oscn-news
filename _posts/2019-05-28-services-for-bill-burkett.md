@@ -10,7 +10,7 @@ title: >-
   Services for former Oklahoma County District Judge Bill Burkett, Wednesday,
   May 29
 category:
-  - supreme
+  - aoc
 ---
 Former Oklahoma County District Judge William R. “Bill” Burkett died on May 23, 2019.  Bill was born in Oklahoma City on November 2, 1925, and attended public schools in Oklahoma City and Norman.  Destined for the military, he also attended Allen Military Academy, Bryan, Texas, and Kemper Military School in Boonville, Missouri.  He graduated from Kemper as Cadet Corps Commander in 1944, the 100th anniversary of the school, and, later, from OCS at Fort Benning, Georgia, as a second lieutenant, Infantry, after which he served in the Philippines and Japan.  Upon returning home, he married his wife, Phoebe, and entered the OU law school. After finishing law school, the couple moved to Woodward in 1950 to begin raising a family.  
 
