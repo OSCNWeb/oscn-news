@@ -4,7 +4,7 @@ published: true
 newsid: '2019-05-28 07:52 -0500'
 layout: news
 publish: '2019-05-28 07:52 -0500'
-expire: '2019-06-01 07:52 -0500'
+expire: '2019-06-02 07:52 -0500'
 system: false
 title: >-
   Services for former Cleveland County Judge, J. David Rambo, Saturday, June 1,
@@ -17,4 +17,3 @@ David Rambo was a concerned judge and community organizer who collaborated with 
 Judge Rambo is survived by his wife, Dr. Laura Boyd; daughters Kristi Braun (Jeff), Vicki Rambo, Susan Thayer, and Brooke Laws (Jacob); and grandchildren Kate Hyde, Josh Braun, Jed Braun, Josie Thayer, Caroline Liu and Henry Liu.
 
 A Come-and-Go Celebration of Life will be held on Saturday, June 1, 2019, from 2-4 p.m., in the OU Courtside Club on the south end of the Lloyd Noble Center, access off GT Blankenship Blvd., Norman, OK.  In lieu of flowers, donations may be made to Big Brothers and Sisters of Cleveland County, Crossroads Youth & Family Services and/or Center for Children and Families.
-
