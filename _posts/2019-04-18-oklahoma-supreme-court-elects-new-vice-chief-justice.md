@@ -4,7 +4,7 @@ published: true
 newsid: '2019-04-18 13:39 -0500'
 layout: news
 publish: '2019-04-18 13:39 -0500'
-expire: '2019-06-18 13:39 -0500'
+expire: '2019-05-30 13:39 -0500'
 system: false
 title: Oklahoma Supreme Court Elects New Vice Chief Justice
 ---
