@@ -3,7 +3,7 @@ news: true
 published: true
 newsid: '2019-05-28 08:08 -0500'
 layout: news
-publish: '2019-05-26 08:08 -0500'
+publish: '2019-05-28 09:08 -0500'
 expire: '2019-06-02 08:08 -0500'
 system: false
 title: >-
