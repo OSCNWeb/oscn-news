@@ -9,6 +9,8 @@ system: false
 title: >-
   Services for former Cleveland County Judge, J. David Rambo, Saturday, June 1,
   2019
+category:
+  - aoc
 ---
 J. David Rambo, former Associate District Judge in Cleveland County, died May 13, 2019, after a long illness.  Born on June 13, 1936, David Rambo was a lifelong Sooner.  He graduated from Norman High School in 1954; then, completed his BS in Geology at OU in 1958.  After serving as an officer in the Unites States Army from 1958-1960, he returned to Norman and entered law school, earning his law degree from OU in 1962.  That same year, he was admitted to the U. S. District Court, Western District of Oklahoma. During his legal career, he served as both a prosecutor and a judge.  He served as county attorney and municipal judge, as well as serving the district court bench.
 
