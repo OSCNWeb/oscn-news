@@ -4,7 +4,7 @@ published: true
 newsid: '2019-05-28 07:52 -0500'
 layout: news
 publish: '2019-05-28 07:52 -0500'
-expire: '2019-05-28 07:52 -0500'
+expire: '2019-06-01 07:52 -0500'
 system: false
 title: >-
   Services for former Cleveland County Judge, J. David Rambo, Saturday, June 1,
