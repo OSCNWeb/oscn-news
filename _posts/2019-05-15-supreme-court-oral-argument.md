@@ -4,7 +4,7 @@ published: true
 newsid: '2019-05-15 08:10 -0500'
 layout: news
 publish: '2019-05-15 08:10 -0500'
-expire: '2019-06-19 08:10 -0500'
+expire: '2019-06-18 08:10 -0500'
 system: false
 title: Supreme Court Oral Argument
 category:
