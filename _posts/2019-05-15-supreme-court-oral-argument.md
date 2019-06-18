@@ -14,5 +14,6 @@ category:
 
 [117,962](http://www.oscn.net/dockets/GetCaseInformation.aspx?db=appellate&number=117962) - In Re: Initiative Petition No. 419 State Question No. 802
 
-The above-styled and numbered cause is set for oral argument before the Court _en banc_ commencing 
-at 10:00 a.m. on June 18, 2019, in the Hearing Room of the Oklahoma Judicial Center, 2100 N. Lincoln Boulevard, Oklahoma City, Oklahoma 73105
+The above-styled and numbered cause is set for oral argument before the Court _en banc_ commencing at **10:00 a.m. on June 18, 2019**, in the Hearing Room of the Oklahoma Judicial Center, 2100 N. Lincoln Boulevard, Oklahoma City, Oklahoma 73105
+
+The live stream can be viewed on [YouTube](https://www.youtube.com/watch?v=MPEnmo2IjRM)
