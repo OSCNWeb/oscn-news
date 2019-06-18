@@ -1,6 +1,6 @@
 ---
 carousel: true
-published: true
+published: false
 newsid: '2019-06-18 08:52 -0500'
 layout: carousel
 publish: '2019-06-18 08:52 -0500'
@@ -14,4 +14,3 @@ carousel_content: >-
   Court Oral Arguments Live" />
 link: 'https://www.youtube.com/watch?v=MPEnmo2IjRM'
 ---
-
