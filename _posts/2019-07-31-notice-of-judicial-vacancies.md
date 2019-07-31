@@ -12,7 +12,7 @@ The Judicial Nominating Commission seeks applicants to fill the following judici
 
 - [Justice of the Supreme Court - District Two](http://www.oscn.net/jobs/1905011313/justice-of-the-supreme-court)
 - [Court of Civil Appeals - District One](http://www.oscn.net/jobs/1907310902/court-of-civil-appeals)
-- [District Judge - Muskogee County](http://www.oscn.net/jobs/1907310900/district-judge)
+- [District Judge - Oklahoma County](http://www.oscn.net/jobs/1907310900/district-judge)
 - [Associate District Judge - Creek County](http://www.oscn.net/jobs/1905290927/associate-district-judge)
 - [District Judge - Muskogee](http://www.oscn.net/jobs/1903221632/district-judge)
 
