@@ -3,7 +3,7 @@ news: true
 published: true
 newsid: '2019-10-10 15:19 -0500'
 layout: news
-publish: '2019-10-11 15:19 -0500'
+publish: '2019-10-10 15:19 -0500'
 expire: '2019-12-10 15:19 -0500'
 system: false
 title: 'In Memoriam: Judge John Morgan Amick'
