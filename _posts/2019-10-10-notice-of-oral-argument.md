@@ -13,8 +13,10 @@ category:
 No. [118,209](http://www.oscn.net/dockets/GetCaseInformation.aspx?db=appellate&number=118209) 
 
 The Institute For Responsible Alcohol Policy, Southern Glazer's Wine and Spirits of Oklahoma, LLLP, J.B. Jarboe II, Central Liquor Co. L.P. dba RNDC Oklahoma, Justin Naifeh, Revolution Wholesale Co., E. & J. Gallo Winery, Sutter Home Winery, Inc. dba Trinchero Family Estates, Diageo Americas, Inc., Bacardi U.S.A., Inc., Luxco, Inc., Riboli Family of San Antonio Winery, Inc, Jennifer Blackburn dba Cellar Wine and Spirits of Norman and Dale Blackburn dba Grand Cru Wine and Spirits Superstore,  
-Plaintiffs/Appellees,  
-vs.  
+Plaintiffs/Appellees,
+
+vs.
+
 State of Oklahoma, ex rel., Alcoholic Beverage Laws Enforcement Commission and the Honorable Kevin Stitt, Governor, in his official capacity,  
 Defendants/Appellants,  
 and  
