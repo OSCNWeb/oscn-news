@@ -11,7 +11,7 @@ category:
   - supreme
 ---
 <div style="text-align: center; font-weight: bold;">
-Oklahoma Supreme Court to Live-Stream Oral Argument  
+Oklahoma Supreme Court to Live-Stream Oral Argument <br />
 in Challenge to 2019 Alcohol Legislation
 </div>
 
