@@ -10,8 +10,10 @@ title: Oklahoma Supreme Court to Live-Stream Oral Argument
 category:
   - supreme
 ---
-{.center}**Oklahoma Supreme Court to Live-Stream Oral Argument
-in Challenge to 2019 Alcohol Legislation**
+<div style="text-align: center; font-weight: bold;">
+Oklahoma Supreme Court to Live-Stream Oral Argument
+in Challenge to 2019 Alcohol Legislation
+</div>
 
 OKLAHOMA CITY – The Oklahoma State Court Network (OSCN) website will provide a link for the oral argument to be held before the Oklahoma Supreme Court on the recent challenge to legislation reforming state liquor laws enacted during the 2019 regular session.
 
