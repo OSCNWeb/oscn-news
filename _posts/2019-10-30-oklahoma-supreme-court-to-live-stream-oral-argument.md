@@ -19,6 +19,6 @@ OKLAHOMA CITY – The Oklahoma State Court Network (OSCN) website will provide a
 
 Due to the State Capitol restoration construction, oral argument will take place on Tuesday, November 5, 2019, at 10:00 a.m., with the Court en banc in the Hearing Room on the 2nd floor of the Oklahoma Judicial Center, 2100 N. Lincoln Blvd.  
 
-Because of limited seating in the Hearing Room and statewide interest in the issue, any overflow crowd may find seating in the ground floor Auditorium of the Judicial Center, where a live-stream will be provided.  Parking is available in the lot south of the Capitol.
+Because of limited seating in the Hearing Room and statewide interest in this issue, any overflow crowd may find seating in the first floor conference room, E123, of the Judicial Center, where a live-stream will be provided.  Parking is available in the lot south of the Capitol.
 
 No other photographers, video camera, or recording devices will be allowed in the Hearing Room.  The link to the live-time feed will be found November 5 on the OSCN website.
