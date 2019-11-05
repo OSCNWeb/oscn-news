@@ -22,3 +22,5 @@ Due to the State Capitol restoration construction, oral argument will take place
 Because of limited seating in the Hearing Room and statewide interest in this issue, any overflow crowd may find seating in the first floor conference room, E123, of the Judicial Center, where a live-stream will be provided.  Parking is available in the lot south of the Capitol.
 
 No other photographers, video camera, or recording devices will be allowed in the Hearing Room.  The link to the live-time feed will be found November 5 on the OSCN website.
+
+[Live Feed](https://youtu.be/1yaCjZEykPk)
