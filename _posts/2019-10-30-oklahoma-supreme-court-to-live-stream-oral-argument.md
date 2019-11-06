@@ -4,7 +4,7 @@ published: true
 newsid: '2019-10-30 13:40 -0500'
 layout: news
 publish: '2019-10-30 13:40 -0500'
-expire: '2019-11-6 13:40 -0500'
+expire: '2019-11-5 13:40 -0500'
 system: false
 title: Oklahoma Supreme Court to Live-Stream Oral Argument
 category:
