@@ -4,7 +4,7 @@ published: true
 newsid: '2019-10-10 11:15 -0500'
 layout: news
 publish: '2019-10-10 11:15 -0500'
-expire: '2019-11-2 11:15 -0500'
+expire: '2019-11-05 11:15 -0500'
 system: false
 title: Notice of Oral Argument
 category:
