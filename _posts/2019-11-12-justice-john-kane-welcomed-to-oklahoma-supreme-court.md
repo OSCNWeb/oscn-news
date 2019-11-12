@@ -10,7 +10,7 @@ title: Justice John Kane Welcomed to Oklahoma Supreme Court
 category:
   - supreme
 ---
-The Oklahoma Supreme Court recently welcomed former District Judge M. John Kane IV to the Supreme Court, District No. 1, filling a vacancy created by the retirement of Justice John F. Reif.  The selection of Justice Kane was Governor Kevin Stitt’s first appointment to the state’s highest court.
+<img style="width: 110px; float: left; margin: 0 10px 10px 0;" src="http://www.oscn.net/images/news/judge-john-morgan-amick.jpg" />The Oklahoma Supreme Court recently welcomed former District Judge M. John Kane IV to the Supreme Court, District No. 1, filling a vacancy created by the retirement of Justice John F. Reif.  The selection of Justice Kane was Governor Kevin Stitt’s first appointment to the state’s highest court.
 
 Prior to his appointment as justice, Kane served as District Judge for the 10th Judicial District for 14 years.  During his tenure he served as president of the Oklahoma Judicial Conference, 2013-2014; as presiding judge of the Northeastern Judicial Administrative, 2019; and as presiding judge of the Trial Division of the Court on the Judiciary, 2019.
 
