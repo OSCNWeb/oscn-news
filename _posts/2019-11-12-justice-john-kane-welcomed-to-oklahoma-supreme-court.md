@@ -1,6 +1,6 @@
 ---
 news: true
-published: true
+published: false
 newsid: '2019-11-12 14:02 -0600'
 layout: news
 publish: '2019-11-12 14:02 -0600'
@@ -18,5 +18,4 @@ Kane began his practice as an attorney at Kane, Kane & Kane Law Offices, a law f
 
 A graduate of Oklahoma State University in agricultural economics and accounting, he received his law degree from the University of Oklahoma college of Law.  Kane and his wife, Cyndi, have been married for 33 years and have four children.
 
-Although Justice Kane has already begun his official duties, a public celebration and swearing in ceremony will be held Monday, December 9, at 2:00 p.m., in the Supreme Court Courtroom at the State Capitol.  
-
+Although Justice Kane has already begun his official duties, a public celebration and swearing in ceremony will be held Monday, December 9, at 2:00 p.m., in the Supreme Court Courtroom at the State Capitol.
