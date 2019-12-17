@@ -7,8 +7,6 @@ publish: '2019-12-06 09:32 -0600'
 expire: '2019-12-13 09:32 -0600'
 system: false
 title: 'In Memoriam: Marilyn Jean Barnes'
-category:
-  - supreme
 ---
 <img style="width: 110px; float: left; margin: 0 10px 10px 0;" src="http://www.oscn.net/images/news/jean-barnes.jpg" />Marilyn Jean (Merrill) Barnes was born July 6, 1926, in Lincoln, Nebraska, to Frank Calava and Anita Bertolini and passed from this life on December 1, 2019, at the age of 93. She was adopted shortly after her birth by Maurice and Orpha Merrill.  She married former Chief Justice Don Barnes on July 20, 1946.  
 
