@@ -4,7 +4,7 @@ published: true
 newsid: '2020-01-15 09:03 -0600'
 layout: news
 publish: '2020-01-15 09:03 -0600'
-expire: '2020-01-22 09:03 -0600'
+expire: '2020-01-20 09:03 -0600'
 system: false
 title: Oral Argument Scheduled for Redistricting Initiative Petition
 ---
