@@ -12,5 +12,6 @@ Tuesday, January 21, 2020, at 2:00 p.m., the Oklahoma Supreme Court will hear or
 filed to the initiative petition seeking to establish a commission on legislative redistricting. The Oklahoma State Court Network (OSCN) website will provide a link to live-stream the court’s proceeding, which will be held in the recently restored Supreme Court Courtroom on the second floor of the State Capitol, 2300 N. Lincoln Blvd., Oklahoma City.
 
 No other photographers, video camera, or recording devices will be allowed in the Supreme Court Courtroom.  
-The link to the live-time feed will be found January 21 on the OSCN website, approximately sixty minutes before the hearing begins.  
+The link to the live-time feed will be found January 21 on the OSCN website, approximately sixty minutes before the hearing begins.
 
+The live stream can be viewed on [Youtube](https://youtu.be/udcOrX_Co7s)
