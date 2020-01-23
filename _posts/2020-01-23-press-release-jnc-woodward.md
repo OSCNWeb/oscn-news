@@ -6,7 +6,7 @@ layout: news
 publish: '2020-01-16 09:35 -0600'
 expire: '2020-02-01 09:35 -0600'
 system: false
-title: Press Release - JNC Woodward
+title: Press Release
 ---
 The Judicial Nominating Commission (JNC) today announced the following individuals have applied for the position of Associate District Judge for Woodward County:
 
