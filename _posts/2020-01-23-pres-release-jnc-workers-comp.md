@@ -6,7 +6,7 @@ layout: news
 publish: '2020-01-22 09:37 -0600'
 expire: '2020-02-01 09:37 -0600'
 system: false
-title: Pres Release
+title: Press Release
 ---
 The Judicial Nominating Commission (JNC) today announced the following individuals have applied for the position of Judge of the Workers’ Compensation Court of Existing Claims:
 
