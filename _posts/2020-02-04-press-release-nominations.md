@@ -6,7 +6,7 @@ layout: news
 publish: '2020-02-04 11:45 -0600'
 expire: '2020-02-04 11:45 -0600'
 system: false
-title: Press Release - Nominations
+title: Press Release
 ---
 ## A New Post
 
