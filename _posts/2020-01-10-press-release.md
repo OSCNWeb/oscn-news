@@ -4,7 +4,7 @@ published: true
 newsid: '2020-01-23 09:23 -0600'
 layout: news
 publish: '2020-01-10 09:23 -0600'
-expire: '2020-02-23 09:23 -0600'
+expire: '2020-02-03 09:23 -0600'
 system: false
 title: Press Release
 ---
