@@ -16,4 +16,4 @@ A lifelong resident of Tishomingo, Rowe earned his B.A. with honors from East Ce
 
 Rowe made history in 1994, when at 18 years of age he was elected Mayor of Tishomingo during his senior year in high school.  He was reelected to a second term as the state’s youngest mayor.  Rowe also served his local community as chairman of the Johnston County Bar Association.  He and his wife, Nicole, have two adult children, a son attending Oklahoma City University School of Law and a daughter in college at the University of Oklahoma.
 
-A public oath ceremony and reception will be held Monday, February 24th at 2pm.
+A public oath ceremony and reception will be held Monday, February 24 at 2:00 p.m.
