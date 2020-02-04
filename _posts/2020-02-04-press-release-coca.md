@@ -6,7 +6,7 @@ layout: news
 publish: '2020-01-28 11:43 -0600'
 expire: '2020-03-06 11:43 -0600'
 system: false
-title: Press Release - COCA
+title: Press Release
 ---
 The Judicial Nominating Commission (JNC) today announced a vacancy for the position of Judge for the Oklahoma Court of Civil Appeals, District 4, Office 2. This vacancy is created by the retirement of the Honorable Larry Joplin.
 
