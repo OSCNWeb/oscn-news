@@ -11,7 +11,7 @@ carousel_expire: '2020-02-06 22:35 -0600'
 title: Oklahoma Judicial Center Notice - Closed
 carousel_content: >-
   <img
-  src='http://www.oscn.net/assets/img/carousel/weather-closing-2020-02-05.jpg'
+  src='http://www.oscn.net/assets/img/carousel/weather-closings-2020-02-05.jpg'
   alt='' />
 category:
   - aoc
