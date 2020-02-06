@@ -4,10 +4,10 @@ published: true
 newsid: '2020-02-04 22:35 -0600'
 layout: carousel
 publish: '2020-02-04 22:35 -0600'
-expire: '2020-02-06 22:35 -0600'
+expire: '2020-02-05 22:35 -0600'
 system: false
 news: true
-carousel_expire: '2020-02-06 22:35 -0600'
+carousel_expire: '2020-02-05 22:35 -0600'
 title: Oklahoma Judicial Center Notice - Closed
 carousel_content: >-
   <img
