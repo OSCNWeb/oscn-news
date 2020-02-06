@@ -21,4 +21,4 @@ Administrative Office of the Courts
 2100 N. Lincoln Blvd., Suite 3  
 Oklahoma City, OK 73105
 
-[Press Release](http://www.oscn.net/images/news/jnc-press-release-coca-district-4-office-2-vacancy.pdf)
+[Press Release](http://www.oscn.net/images/news/jnc-press-release-osage-county-vacancy.pdf)
