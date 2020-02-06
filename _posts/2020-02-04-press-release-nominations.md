@@ -26,4 +26,6 @@ On January 31, 2020, the JNC also met to determine whether the three applicants 
 
 Margaret Bomhoff, Edmond  
 Alvin Jones, Jr., Edmond  
-David P. Reid, Tulsa.  
+David P. Reid, Tulsa.
+
+[Press Release](http://www.oscn.net/images/news/jnc-press-release-coca-workers-comp-nominations.pdf)
