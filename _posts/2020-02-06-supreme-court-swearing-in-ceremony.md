@@ -17,8 +17,6 @@ category:
    <p><strong>Dustin P. Rowe</strong><br>
       Justice of the Oklahoma Supreme Court</p>
 
-   <p>and</p>
-
    <p>Monday, February 24, 2020 <br> 2:00 o'clock p.m.</p>
    <p>Oklahoma State Capital <br>
 Supreme Court Courtroom, 2nd Floor <br>
