@@ -18,7 +18,7 @@ category:
       Justice of the Oklahoma Supreme Court</p>
 
    <p>Monday, February 24, 2020 <br> 2:00 o'clock p.m.</p>
-   <p>Oklahoma State Capital <br>
+   <p>Oklahoma State Capitol <br>
 Supreme Court Courtroom, 2nd Floor <br>
 2300 North Lincoln Boulevard <br>
 Oklahoma City, Oklahoma
