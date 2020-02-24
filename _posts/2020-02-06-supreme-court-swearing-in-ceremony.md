@@ -26,3 +26,5 @@ Oklahoma City, Oklahoma
    <p>Reception Immediately Following<br>
       Oklahoma Judicial Center Great Room</p>
 </div>
+
+The live stream can be viewed on [YouTube](https://youtu.be/P-sfZJ-6qFM).
