@@ -12,4 +12,4 @@ title: Upcoming Oral Arguments
 
 [116,876](http://www.oscn.net/dockets/GetCaseInformation.aspx?db=appellate&number=116876) - Kenneth L. Franco, M.D. vs. State of Oklahoma, ex rel. Board of Regents of the University of Oklahoma
 
-The captioned case is set for oral argument before this Court of the 3rd dat of March, 2020, at 1:30 p.m., in the Courtroom of the Tulsa Divisions of the Court of Civil Appeals, 440 South Houston, Suite 601, Tulsa, Oklahoma
+The captioned case is set for oral argument before this Court of the 3rd date of March, 2020, at 1:30 p.m., in the Courtroom of the Tulsa Divisions of the Court of Civil Appeals, 440 South Houston, Suite 601, Tulsa, Oklahoma
