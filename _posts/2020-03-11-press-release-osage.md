@@ -6,7 +6,7 @@ layout: news
 publish: '2020-03-11 09:24 -0500'
 expire: '2020-04-11 09:24 -0500'
 system: false
-title: Press Release - Osage
+title: Press Release
 ---
 The Judicial Nominating Commission (JNC) today provided an update on the nomination process for the position of District Judge for Osage County, Tenth Judicial District, Office 1. This vacancy was created due to the appointment of the Honorable M. John Kane to the Supreme Court.
 
