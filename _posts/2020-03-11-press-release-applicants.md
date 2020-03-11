@@ -6,7 +6,7 @@ layout: news
 publish: '2020-03-11 09:27 -0500'
 expire: '2020-05-11 09:27 -0500'
 system: false
-title: Press Release - Applicants
+title: Press Release
 ---
 The Judicial Nominating Commission (JNC) today announced the following individuals have applied for the position of Judge for the Court of Civil Appeals, District 4, Office 2:
 
