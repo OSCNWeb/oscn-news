@@ -31,3 +31,5 @@ Chair, Judicial Nominating Commission
 Chesapeake Energy Corporation  
 P.O. Box 18496  
 Oklahoma City OK 73154-0496.
+
+[Press Release](http://www.oscn.net/images/news/jnc-press-release-applicants-coca.pdf)
