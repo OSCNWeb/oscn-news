@@ -4,7 +4,7 @@ published: true
 newsid: '2019-12-23 10:32 -0600'
 layout: news
 publish: '2019-12-23 10:32 -0600'
-expire: '2020-04-23 10:32 -0600'
+expire: '2020-03-16 10:32 -0600'
 system: false
 title: Dustin P. Rowe appointed to Oklahoma Supreme Court
 category:
