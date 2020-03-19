@@ -6,6 +6,7 @@ layout: news
 publish: '2020-03-16 16:28 -0500'
 expire: '2020-04-16 16:28 -0500'
 system: false
+feature: 2
 title: Oklahoma Judicial Center Appellate Clerks' Office
 ---
 **NOTICE REGARDING CIVIL AND CRIMINAL APPELLATE FILINGS AND WRITS** [PDF](http://www.oscn.net/notices/appellate-court-clerks-office.pdf)
