@@ -10,6 +10,7 @@ title: The Honorable Robert E. Lavender
 category:
   - aoc
 feature: 1
+featured: 1
 ---
 <img style="width: 100%; float: left; margin: 0 0px 10px 0;" src="http://www.oscn.net/images/news/justice-lavender.jpg" /><span style="font-size: 10px;">Photo by Paul Hellstern / The Oklahoman</span>
 
