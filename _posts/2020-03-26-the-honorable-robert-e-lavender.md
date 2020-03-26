@@ -12,7 +12,7 @@ category:
 feature: 1
 featured: 1
 ---
-<img style="width: 100%; float: left; margin: 0 0px 10px 0;" src="http://www.oscn.net/images/news/justice-lavender.jpg" /><span style="font-size: 10px; line-height: 8px;">Oklahoma Supreme Court Chief Justice James Winchester (left) congratulates Supreme Court Jutice Robert Lavender during his retirement ceremony in the Supreme Court chambers at the Oklahoma state Capitol in Oklahoma City, Okla., Tuesday, July 24, 2007. Photo by Paul Hellstern / The Oklahoman</span>
+<img style="width: 100%; float: left; margin: 0 0px 10px 0;" src="http://www.oscn.net/images/news/justice-lavender.jpg" /><span style="font-size: 10px; line-height: 0em;">Oklahoma Supreme Court Chief Justice James Winchester (left) congratulates Supreme Court Jutice Robert Lavender during his retirement ceremony in the Supreme Court chambers at the Oklahoma state Capitol in Oklahoma City, Okla., Tuesday, July 24, 2007. Photo by Paul Hellstern / The Oklahoman</span>
 
 The Honorable Robert E. Lavender (born July 19, 1926) passed away on March 23, 2020.   Justice Lavender retired from the Supreme Court of Oklahoma in 2007, having served from 1965 to 2007.  He served as the Court's Chief Justice from 1979 to 1981.  He was the longest serving justice with over 42 years on the Supreme Court bench.  He was appointed to serve on the Oklahoma Supreme Court by Governor Henry Bellmon in 1965.  He was retained by the voters later that year and subsequently in 1972, 1978, 1984, 1990, 1996, and 2002. 
 
