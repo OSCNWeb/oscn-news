@@ -10,7 +10,7 @@ title: The Honorable Robert E. Lavender
 category:
   - aoc
 ---
-<img style="width: 33%; float: left; margin: 0 10px 10px 0;" src="http://www.oscn.net/images/news/justice-lavendar.jpg" />The Honorable Robert E. Lavender (born July 19, 1926) passed away on March 23, 2020.   Justice Lavender retired from the Supreme Court of Oklahoma in 2007, having served from 1965 to 2007.  He served as the Court's Chief Justice from 1979 to 1981.  He was the longest serving justice with over 42 years on the Supreme Court bench.  He was appointed to serve on the Oklahoma Supreme Court by Governor Henry Bellmon in 1965.  He was retained by the voters later that year and subsequently in 1972, 1978, 1984, 1990, 1996, and 2002. 
+<img style="width: 33%; float: left; margin: 0 10px 10px 0;" src="http://www.oscn.net/images/news/justice-lavender.jpg" />The Honorable Robert E. Lavender (born July 19, 1926) passed away on March 23, 2020.   Justice Lavender retired from the Supreme Court of Oklahoma in 2007, having served from 1965 to 2007.  He served as the Court's Chief Justice from 1979 to 1981.  He was the longest serving justice with over 42 years on the Supreme Court bench.  He was appointed to serve on the Oklahoma Supreme Court by Governor Henry Bellmon in 1965.  He was retained by the voters later that year and subsequently in 1972, 1978, 1984, 1990, 1996, and 2002. 
 
 Justice Lavender was born in Muskogee, Oklahoma, and grew up first in Tulsa and then on a farm in Catoosa, outside of Tulsa, where he graduated from high school in 1944. Immediately enlisting in the United States Navy, he spent the final year of World War II, on reserve duty in the South Pacific. In 1953, he earned an LLB degree from the University of Tulsa College of Law. 
 
