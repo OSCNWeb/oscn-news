@@ -9,8 +9,6 @@ system: false
 title: The Honorable Robert E. Lavender
 category:
   - aoc
-feature: 1
-featured: 1
 ---
 <img style="width: 100%; float: left; margin: 0 0px 10px 0;" src="http://www.oscn.net/images/news/justice-lavender.jpg" /><span style="font-size: 10px; line-height: 1.25em; display: inline-block; font-style: italic;">Oklahoma Supreme Court Chief Justice James Winchester (left) congratulates Supreme Court Jutice Robert Lavender during his retirement ceremony in the Supreme Court chambers at the Oklahoma state Capitol in Oklahoma City, Okla., Tuesday, July 24, 2007. Photo by Paul Hellstern / The Oklahoman</span>
 
