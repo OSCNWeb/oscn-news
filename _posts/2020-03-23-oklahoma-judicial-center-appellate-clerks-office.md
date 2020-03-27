@@ -12,4 +12,5 @@ Effective immediately, all appellate filings, including extraordinary writs, mus
 
 In order to protect the health of essential court personnel, the Oklahoma Judicial Center including the Appellate Court Clerk’s Office is currently closed to the public.
 
+The SCAD Order 2020-29 states that all appellate filing must be mailed.  
 <strong>The Appellate Court Clerk’s Office is  still  accepting 3rd party commercial carriers in addition to US Postal service delivery.</strong>
