@@ -10,11 +10,11 @@ title: Judicial Nominating Commission Press Release
 ---
 The Judicial Nominating Commission (JNC) today announced the following individuals have applied for the position of District Judge for Osage County, Tenth Judicial District, Office 1:
 
-Lewis A. Berkowitz - Edmond
-Michelle L. Bodine-Keely - Pawhuska
-William D. Drake - Bartlesville
-Stuart L. Tate - Fairfax
-Brinton Skalnik - Skiatook
+Lewis A. Berkowitz - Edmond  
+Michelle L. Bodine-Keely - Pawhuska  
+William D. Drake - Bartlesville  
+Stuart L. Tate - Fairfax  
+Brinton Skalnik - Skiatook  
 
 With assistance from the Oklahoma State Bureau of Investigation, the JNC will immediately commence background reviews on these candidates, and interviews will be scheduled as soon as practicable at the conclusion of these background reviews.
 The JNC strongly encourages the public to submit comments on these applicants. Comments may be mailed to:
