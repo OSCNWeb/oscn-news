@@ -6,7 +6,7 @@ layout: news
 publish: '2020-04-16 07:57 -0500'
 expire: '2020-06-16 07:57 -0500'
 system: false
-title: Judicial Nominating Commission Press Release for Tulsa and Pawnee Counties
+title: Judicial Nominating Commission Press Release
 ---
 The Judicial Nominating Commission (JNC) today announced a vacancy for the position of District Judge for Tulsa and Pawnee Counties, Fourteenth Judicial District, Office 5. This vacancy is created by the retirement of the Honorable Jefferson Sellers on May 1, 2020.  
 
