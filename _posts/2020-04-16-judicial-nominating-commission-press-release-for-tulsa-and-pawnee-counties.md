@@ -4,7 +4,7 @@ published: true
 newsid: '2020-04-16 07:57 -0500'
 layout: news
 publish: '2020-04-16 07:57 -0500'
-expire: '2020-04-16 07:57 -0500'
+expire: '2020-06-16 07:57 -0500'
 system: false
 title: Judicial Nominating Commission Press Release for Tulsa and Pawnee Counties
 ---
