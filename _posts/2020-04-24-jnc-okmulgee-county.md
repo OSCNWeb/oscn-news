@@ -6,7 +6,7 @@ layout: news
 publish: '2020-04-24 12:34 -0500'
 expire: '2020-05-24 12:34 -0500'
 system: false
-title: JNC - Okmulgee County
+title: JNC Press Release - Okmulgee County
 ---
 The Judicial Nominating Commission (JNC) today announced the following individuals have applied for the position of District Judge for Okmulgee County, 24th Judicial District, Office 3:
 
