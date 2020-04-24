@@ -22,3 +22,6 @@ The Judicial Nominating Commission (JNC) today announced the following individua
 - Rick D. Wescott, Tulsa
 
 [Press Release](http://www.oscn.net/images/news/jnc-press-release-tulsa-county-vacancy.pdf)
+
+
+
