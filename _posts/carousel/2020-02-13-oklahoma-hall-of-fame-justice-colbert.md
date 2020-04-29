@@ -7,7 +7,7 @@ publish: '2020-02-13 09:36 -0600'
 expire: '2020-06-13 09:36 -0600'
 system: false
 news: false
-carousel_expire: '2020-06-13 09:36 -0600'
+carousel_expire: '2020-04-28 09:36 -0600'
 title: 'Oklahoma Hall of Fame: Justice Colbert'
 carousel_content: >-
   <iframe id="carousel-video"
@@ -16,4 +16,3 @@ carousel_content: >-
 category:
   - supreme
 ---
-
