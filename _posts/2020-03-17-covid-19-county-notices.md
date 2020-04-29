@@ -13,7 +13,7 @@ feature: 1
 <a href="http://www.oscn.net/notices/"><img src="http://www.oscn.net/notices/covid-19.jpg" style="margin: 0 0em 1em 1em; width: 200px; float: right;" /></a>
 
 **SUPREME COURT & COURT OF CRIMINAL APPEALS**  
-- Third Emergency Joint Order Regarding the Covid-19 State of Disaster [SCAD 2020-26](http://www.oscn.net/images/news/SCAD-2020-36.pdf)
+- Third Emergency Joint Order Regarding the Covid-19 State of Disaster [SCAD 2020-36](http://www.oscn.net/images/news/SCAD-2020-36.pdf)
 - Second Emergency Joint Order Regarding the Covid-19 State of Disaster [SCAD 2020-29](http://www.oscn.net/images/news/SCAD-2020-29.pdf)  
 - First Emergency Joint Order Regarding the Covid-19 State of Disaster [SCAD 2020-24](http://www.oscn.net/images/news/SCAD-2020-24.pdf)
 
