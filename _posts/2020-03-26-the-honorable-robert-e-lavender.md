@@ -4,7 +4,7 @@ published: true
 newsid: '2020-03-26 13:56 -0500'
 layout: news
 publish: '2020-03-26 13:56 -0500'
-expire: '2020-06-26 13:56 -0500'
+expire: '2020-04-28 13:56 -0500'
 system: false
 title: The Honorable Robert E. Lavender
 category:
