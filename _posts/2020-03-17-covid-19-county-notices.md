@@ -18,6 +18,7 @@ feature: 1
 - First Emergency Joint Order Regarding the Covid-19 State of Disaster [SCAD 2020-24](http://www.oscn.net/images/news/SCAD-2020-24.pdf)
 
 **SUPREME COURT**  
+- Order Regarding the Coronavirus Aid, Relief, and Economic Security Act (CARES Act, Public Law No. 116-136) [SCAD 2020-38](http://www.oscn.net/images/news/SCAD-2020-38.pdf)
 - Second Emergency Order Regarding the Covid-19 State of Disaster [SCAD 2020-26](http://www.oscn.net/images/news/SCAD-2020-26.pdf)
 
 **APPELLATE COURT CLERKS OFFICE**  
