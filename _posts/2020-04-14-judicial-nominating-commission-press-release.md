@@ -4,7 +4,7 @@ published: true
 newsid: '2020-04-14 09:45 -0500'
 layout: news
 publish: '2020-04-14 09:45 -0500'
-expire: '2020-05-14 09:45 -0500'
+expire: '2020-05-10 09:45 -0500'
 system: false
 title: Judicial Nominating Commission Press Release
 ---
