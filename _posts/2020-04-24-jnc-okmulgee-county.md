@@ -4,7 +4,7 @@ published: true
 newsid: '2020-04-24 12:34 -0500'
 layout: news
 publish: '2020-04-24 12:34 -0500'
-expire: '2020-05-24 12:34 -0500'
+expire: '2020-05-10 12:34 -0500'
 system: false
 title: JNC Press Release - Okmulgee County
 ---
