@@ -18,7 +18,7 @@ Daniel D. Gridley, Jr. – Edmond
 Spencer T. Habluetzel – Oklahoma City  
 Erick W. Harris – Oklahoma City  
 Albert J. Hoch, Jr. – Warr Acres  
-Kendal Huber – Oklahoma City
+Kendal Huber – Oklahoma City  
 Clayton C. Niemeyer – Edmond  
 Kathryn R. Savage – Arcadia  
 Sheila D. Stinson – Edmond  
