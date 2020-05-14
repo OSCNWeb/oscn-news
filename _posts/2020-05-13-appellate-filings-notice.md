@@ -17,8 +17,8 @@ Beginning Monday, May 18, in all civil and criminal matters, appellate filings w
  
 Do not attempt to use the elevator to access the building. The Judicial Center remains closed to the public until further notice. 
 
-The lobby by the Accessible elevator is open from 9am to 5pm, Monday through Friday, except for legal holidays. Documents delivered to the Judicial Center as described in sub-paragraph 3, will be filed the same day if they are delivered between 10am and 2pm, Monday through Friday. Please call the Office of the Chief Justice (556-9100) by 2pm to request an exception. 
+The lobby by the Accessible elevator is open from 8am to 5pm, Monday through Friday, except for legal holidays. Documents delivered to the Judicial Center as described in sub-paragraph 3, will be filed the same day if they are delivered between 10am and 2pm, Monday through Friday. Please call the Office of the Chief Justice (556-9100) by 2pm to request an exception. 
   
 No file stamped copies will be provided unless the filer provides a stamped, self-addressed envelope with the documents. Filing fees and other payments shall be made pursuant to Oklahoma Supreme Court Rule 1.19. 
 
-Please note that all civil and criminal appellate procedural rules will apply to all appellate filings beginning on May 16, 2020. 
+Please note that all civil and criminal appellate procedural rules will apply to all appellate filings beginning on May 16, 2020.
