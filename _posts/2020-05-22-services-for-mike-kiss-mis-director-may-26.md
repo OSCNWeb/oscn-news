@@ -21,5 +21,5 @@ In his current position with the Oklahoma Supreme Court, Mike’s unique qualiti
 
 Mike is survived by his wife, Kim; son, Andrew; daughter and son-in-law, Gloria and Brian Henderson; grandchildren, Christopher and Victoria Henderson, all of Broken Arrow; sister, Veronica Eddy; brothers, Louis Kiss (Joyce) and John (Denise) Kiss, all of Pennsylvania; brother, Robert Kiss, of Ohio; and numerous nieces, nephews, and cousins.  
 
-Funeral Mass will be Tuesday, May 26, at 10:00 a.m. at the Church of St. Benedict, 2200 W. Ithica St., Broken Arrow.  Rosary will be Monday, May 25, at 7:00 p.m., at Hayhurst Funeral Home, 1660 South Elm Place, Broken Arrow.  Visitation will be Monday, May 25, from 4:00 – 7:00 p.m., at Hayhurst Funeral Home.
+Funeral Mass will be Tuesday, May 26, at 10:00 a.m. at the Church of St. Benedict, 2200 W. Ithica St., Broken Arrow.  Rosary will be Monday, May 25, at 7:00 p.m., at Hayhurst Funeral Home, 1660 South Elm Place, Broken Arrow.  Visitation will be Monday, May 25, from 4:00 – 7:00 p.m., at [Hayhurst Funeral Home](https://www.hayhurstfuneralhome.com/obituaries/Michael-Kiss/).
 
