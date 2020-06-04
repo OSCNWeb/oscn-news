@@ -4,7 +4,7 @@ published: true
 newsid: '2020-05-22 15:09 -0500'
 layout: news
 publish: '2020-05-22 15:09 -0500'
-expire: '2020-06-04 15:09 -0500'
+expire: '2020-06-03 15:09 -0500'
 system: false
 title: 'SERVICES FOR MIKE KISS, MIS DIRECTOR, MAY 26'
 category:
