@@ -6,7 +6,7 @@ layout: news
 publish: '2020-06-09 15:35 -0500'
 expire: '2020-08-09 15:35 -0500'
 system: false
-title: Judge Arlene Johnson remembered  for distinguished legal career
+title: Judge Arlene Johnson remembered  for distinguished career
 ---
 <img style="width: 110px; float: left; margin: 0 10px 10px 0;" src="http://okcca.net/wp-content/uploads/2019/08/johnson-arlene-225x300.jpg" />Retired Court of Criminal Appeals Judge Arlene Johnson of Nichols Hills died May 12. She was born Sept. 1, 1940 in Ramsey, Minnesota. She attended the University of Oklahoma, receiving a Bachelor of Arts in 1964.
 
