@@ -13,6 +13,6 @@ title: Upcoming Oral Arguments
 [118,782](http://www.oscn.net/dockets/GetCaseInformation.aspx?db=appellate&number=118782) - 
 Lynne Miller, Robert "Bob" Thompson, William "Bill" Nations, and Dick Reynolds vs Stephen Ellis
 
-Oral presentation in this mater remains set for June 10, 2020 at 10:30 a.m. Counsel for the parties will appear in person. The Oklahoma Judicial Center will remain closed to the public. 
+Oral presentation in this matter remains set for June 10, 2020 at 10:30 a.m. Counsel for the parties will appear in person. The Oklahoma Judicial Center will remain closed to the public. 
 
 [Live Feed](https://youtu.be/oBFIN-q6L7I)
