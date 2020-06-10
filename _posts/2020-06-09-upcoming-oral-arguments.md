@@ -4,7 +4,7 @@ published: true
 newsid: '2020-06-09 14:23 -0500'
 layout: news
 publish: '2020-06-09 14:23 -0500'
-expire: '2020-06-12 14:23 -0500'
+expire: '2020-06-10 14:23 -0500'
 system: false
 title: Upcoming Oral Arguments
 ---
