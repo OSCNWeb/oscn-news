@@ -4,7 +4,7 @@ published: true
 newsid: '2020-06-16 12:06 -0500'
 layout: news
 publish: '2020-06-16 12:06 -0500'
-expire: '2020-06-16 12:06 -0500'
+expire: '2020-08-16 12:06 -0500'
 system: false
 title: Judicial Nominating Commission - Pawnee and Tulsa
 ---
