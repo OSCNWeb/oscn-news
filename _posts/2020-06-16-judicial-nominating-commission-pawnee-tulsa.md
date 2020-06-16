@@ -14,3 +14,5 @@ Lewis A. Berkowitz, Edmond
 Michelle L. Bodine-Keely, Pawhuska  
 Matthew D. Day, Tulsa  
 Glen L. Dresback, Cleveland  
+
+[Press Release](http://www.oscn.net/images/news/jnc-press-release-pawnee-tulsa-counties-20200616.pdf)
