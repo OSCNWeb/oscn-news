@@ -4,7 +4,7 @@ published: true
 newsid: '2020-05-05 13:18 -0500'
 layout: news
 publish: '2020-05-05 13:18 -0500'
-expire: '2020-07-01 13:18 -0500'
+expire: '2020-06-18 13:18 -0500'
 system: false
 title: CSR Board Opening
 category:
