@@ -13,3 +13,5 @@ The Judicial Nominating Commission (JNC) today announced the three nominees for 
 - Gregory A. Barnard, Ardmore
 - Trevor S. Pemberton, Oklahoma City
 - Bevan G. Stockdell, Edmond
+
+[Press Release](http://www.oscn.net/images/news/jnc-press-release-nominees-coca-district-4-ofice-2-20200701.pdf)
