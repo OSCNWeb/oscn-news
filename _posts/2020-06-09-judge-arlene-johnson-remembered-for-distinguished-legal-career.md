@@ -4,7 +4,7 @@ published: true
 newsid: '2020-06-09 15:35 -0500'
 layout: news
 publish: '2020-06-09 15:35 -0500'
-expire: '2020-08-09 15:35 -0500'
+expire: '2020-07-15 15:35 -0500'
 system: false
 title: Judge Arlene Johnson remembered  for distinguished career
 ---
