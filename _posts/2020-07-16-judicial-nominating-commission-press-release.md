@@ -25,3 +25,4 @@ The JNC will also conduct interviews on July 29 for the position of District Jud
 - Brinton Skalnik – Skiatook
 - Stuart L. Tate - Fairfax
 
+[Press Release](http://www.oscn.net/images/news/jnc-press-release-osage-and-okmulgee.pdf)
