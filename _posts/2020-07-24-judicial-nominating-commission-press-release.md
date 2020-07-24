@@ -21,3 +21,4 @@ On Wednesday, August 19, 2020, the Judicial Nominating Commission (JNC) will con
 - Timothy T. Trump, Tulsa
 - Rick D. Wescott, Tulsa
 
+[Press Release](http://www.oscn.net/images/news/jnc-press-release-interviews-tulsa-county.pdf)
