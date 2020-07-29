@@ -11,4 +11,4 @@ feature: 1
 ---
 **No. CJTD-2020-1**, The Supreme Court of the State of Oklahoma v. Kendra Coleman.
 
-[https://youtu.be/lmsEVUZpm2g](https://youtu.be/lmsEVUZpm2g)
+Wednesday, July 29 at 9:30am [https://youtu.be/lmsEVUZpm2g](https://youtu.be/lmsEVUZpm2g)
