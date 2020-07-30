@@ -18,4 +18,4 @@ The Judicial Nominating Commission (JNC) today announced the following individua
 - Allisa D. Hutter, Norman
 - Bethany E. Stanley, Moore
 
-[Press Release](http://www.oscn.net/images/news/jnc-press-release-cleveland-county-20200728.pdf)
+[Press Release](http://www.oscn.net/images/news/jnc-press-release-cleveland-county-20200730.pdf)
