@@ -17,5 +17,6 @@ The Judicial Nominating Commission (JNC) today announced the following individua
 - Michael L. Gardner, Norman
 - Allisa D. Hutter, Norman
 - Bethany E. Stanley, Moore
+- Jon M. Williford, Norman
 
 [Press Release](http://www.oscn.net/images/news/jnc-press-release-cleveland-county-20200730.pdf)
