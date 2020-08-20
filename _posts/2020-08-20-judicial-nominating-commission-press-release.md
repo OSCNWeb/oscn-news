@@ -17,3 +17,5 @@ The Judicial Nominating Commission (JNC) today announced the three nominees for 
  - Timothy T. Trump, Tulsa
 
 Under Article 7B Section 4 of the Oklahoma Constitution, the Governor has sixty days to appoint one of the nominees to this judicial position.  If he fails to do so within sixty days, the Chief Justice of the Supreme Court shall make the appointments.
+
+[Press Release](http://www.oscn.net/images/news/jnc-press-release-tulsa-county-20200820.pdf)
