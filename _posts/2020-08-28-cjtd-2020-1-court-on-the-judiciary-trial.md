@@ -10,8 +10,6 @@ title: 'Court on the Judiciary Trial Scheduled to commence on August 31, 2020'
 category:
   - supreme
 ---
-Court on the Judiciary Trial Scheduled to commence on August 31, 2020.
- 
 Case No. CJTD-2020-1, _The Supreme Court of the State of Oklahoma, Petitioner v. Kendra Coleman, Respondent_.
  
 On Monday, August 31, 2020, at 9:00 a.m., Trial in the above-referenced matter will commence in the Court on the Judiciary, Trial Division.  Thereafter, proceedings are scheduled to commence at 8:30 a.m. each weekday (except Labor Day) until concluded.  
