@@ -4,9 +4,11 @@ published: true
 newsid: '2020-08-28 07:28 -0500'
 layout: news
 publish: '2020-08-28 07:28 -0500'
-expire: '2020-08-28 07:28 -0500'
+expire: '2020-09-28 07:28 -0500'
 system: false
 title: Court on the Judiciary Trial
+category:
+  - supreme
 ---
 Court on the Judiciary Trial Scheduled to commence on August 31, 2020.
  
