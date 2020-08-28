@@ -6,7 +6,7 @@ layout: news
 publish: '2020-08-28 07:28 -0500'
 expire: '2020-08-28 07:28 -0500'
 system: false
-title: CJTD-2020-1 Court on the Judiciary Trial
+title: Court on the Judiciary Trial
 ---
 Court on the Judiciary Trial Scheduled to commence on August 31, 2020.
  
