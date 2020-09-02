@@ -6,7 +6,7 @@ layout: news
 publish: '2020-09-02 07:31 -0500'
 expire: '2020-09-30 07:31 -0500'
 system: false
-title: Judicial Nominating Commission - Press Release
+title: Judicial Nominating Commission Interviews
 category:
   - aoc
 ---
