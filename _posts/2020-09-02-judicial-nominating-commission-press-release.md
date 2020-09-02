@@ -38,8 +38,9 @@ Immediately following the interviews, the JNC will provide the Governor a list o
 Administrative Office of the Courts
 Attn: Tammy Reaves
 2100 North Lincoln, Suite 3
-Oklahoma City OK 73105 and/or
+Oklahoma City OK 73105 
 </blockquote>
+and/or
 <blockquote>
 Jim Webb
 Chair, Judicial Nominating Commission
