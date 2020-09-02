@@ -4,9 +4,11 @@ published: true
 newsid: '2020-09-02 07:31 -0500'
 layout: news
 publish: '2020-09-02 07:31 -0500'
-expire: '2020-09-02 07:31 -0500'
+expire: '2020-09-30 07:31 -0500'
 system: false
 title: Judicial Nominating Commission - Press Release
+category:
+  - aoc
 ---
 On Tuesday, September 29, 2020, the Judicial Nominating Commission (JNC) will conduct interviews for the position of Associate District Judge for Cleveland County, Twenty-First Judicial District. The applicants for this position are:  
 
