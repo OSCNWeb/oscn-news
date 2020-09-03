@@ -24,4 +24,5 @@ Article 7A Section 2 of the Oklahoma Constitution sets forth the requirements fo
 
 The nine members of the Trial Division are:  Presiding Judge Rebecca Nightingale (District Judge,Tulsa) , Vice Presiding Judge Brad Heckenkemper (OBA member), and district judges Newburn (Comanche), Woodward (Garfield) , Kirkley (Wagoner) , Ashwood (Lincoln) , Coppedge (Marshall) , Balkman (Cleveland)  and Pazzo (Rogers).
 
-[Court on the Judiciary Members](https://www.oscn.net/Images/News/202008-COURTONTHEJUDICIARY.pdf)
+[Court on the Judiciary Members](https://www.oscn.net/Images/News/202008-COURTONTHEJUDICIARY.pdf)  
+
