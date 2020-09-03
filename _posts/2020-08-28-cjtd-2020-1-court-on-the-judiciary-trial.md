@@ -24,4 +24,3 @@ The nine members of the Trial Division are:  Presiding Judge Rebecca Nightingale
 
 [Court on the Judiciary Members](https://www.oscn.net/Images/News/202008-COURTONTHEJUDICIARY.pdf)
 
-[The livestream for Wednesday can be viewed on Youtube.](https://youtu.be/TUj6aoEBcno)
