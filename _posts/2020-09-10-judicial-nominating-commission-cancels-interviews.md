@@ -4,9 +4,11 @@ published: true
 newsid: '2020-09-10 12:51 -0500'
 layout: news
 publish: '2020-09-10 12:51 -0500'
-expire: '2020-09-10 12:51 -0500'
+expire: '2020-09-29 12:51 -0500'
 system: false
 title: judicial nominating commission cancels interviews
+category:
+  - aoc
 ---
 One of the four announced candidates for the position of District Judge for Tulsa and Pawnee Counties (Fourteenth Judicial District, Office 5) has voluntarily withdrawn his application, leaving three applicants for this position:
 
