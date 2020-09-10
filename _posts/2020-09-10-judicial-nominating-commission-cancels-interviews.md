@@ -6,7 +6,7 @@ layout: news
 publish: '2020-09-10 12:51 -0500'
 expire: '2020-09-29 12:51 -0500'
 system: false
-title: judicial nominating commission cancels interviews
+title: judicial nominating commission
 category:
   - aoc
 ---
