@@ -18,8 +18,6 @@ Case No. CJTD-2020-1, _The Supreme Court of the State of Oklahoma, Petitioner v.
 
 The above styled trial commenced in the Court on the Judiciary, Trial Division on March 31 and continued weekdays through September 18, 2020, except for Labor Day on September 7th, and on September 14th.  
  
-The Oklahoma State Court Network (OSCN) website will provide a link to livestream the Court’s proceedings.  The Oklahoma Judicial Center remains closed to the public, so  public viewing of the proceedings is only available by watching the livestream feed. The link to the live-time feed will be posted on August 31 on the OSCN website approximately sixty minutes before the hearing begins.
-
 Article 7A Section 2 of the Oklahoma Constitution sets forth the requirements for membership on the Trial and Appellate Divisions of the Court on the Judiciary.  The trial division is made up of 8 district judges appointed by the Oklahoma Secretary of State and one active member appointed by the Oklahoma Bar Association.  The Secretary of State maintains the list of members for both the Trial Division and the Appellate Division.  
 
 The nine members of the Trial Division are:  Presiding Judge Rebecca Nightingale (District Judge,Tulsa) , Vice Presiding Judge Brad Heckenkemper (OBA member), and district judges Newburn (Comanche), Woodward (Garfield) , Kirkley (Wagoner) , Ashwood (Lincoln) , Coppedge (Marshall) , Balkman (Cleveland)  and Pazzo (Rogers).
