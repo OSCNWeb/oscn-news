@@ -16,7 +16,7 @@ Case No. CJTD-2020-1, _The Supreme Court of the State of Oklahoma, Petitioner v.
 
 > [JOURNAL ENTRY OF JUDGMENT](https://www.oscn.net/Images/Opinions/CJTD-2020-1_ORDER.pdf)  
 
-The above styled trial commenced in the Court on the Judiciary, Trial Division on March 31 and continued weekdays through September 18, 2020, .except for Labor Day on September 7th, and on September 14th.  
+The above styled trial commenced in the Court on the Judiciary, Trial Division on March 31 and continued weekdays through September 18, 2020, except for Labor Day on September 7th, and on September 14th.  
  
 The Oklahoma State Court Network (OSCN) website will provide a link to livestream the Court’s proceedings.  The Oklahoma Judicial Center remains closed to the public, so  public viewing of the proceedings is only available by watching the livestream feed. The link to the live-time feed will be posted on August 31 on the OSCN website approximately sixty minutes before the hearing begins.
 
