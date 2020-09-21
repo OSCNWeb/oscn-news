@@ -14,7 +14,7 @@ feature: 1
 ---
 Case No. CJTD-2020-1, _The Supreme Court of the State of Oklahoma, Petitioner v. Kendra Coleman, Respondent_.
 
-> [JOURNAL ENTRY OF JUDGMENT](https://www.oscn.net/Images/Opinions/CJTD-2020-1_ORDER.pdf)  
+> [JOURNAL ENTRY OF JUDGMENT with included DISSENT](https://www.oscn.net/Images/Opinions/CJTD-2020-1_COMBINED.pdf)  
 
 The above styled trial commenced in the Court on the Judiciary, Trial Division on August 31 to September 18, 2020, except for Labor Day on September 7th, and on September 14th.  
  
