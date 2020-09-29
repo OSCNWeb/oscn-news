@@ -1,6 +1,6 @@
 ---
 news: true
-published: true
+published: false
 newsid: '2020-09-28 14:01 -0500'
 layout: news
 publish: '2020-09-28 14:01 -0500'
@@ -18,4 +18,4 @@ After a short time in private practice, Charles was appointed District Judge by 
 
 Charles is survived by his 3 children: Charlotte Keho, Broken Arrow; Scott Woodson, Tulsa; and Gary Woodson and his wife, Julia, Collinsville; and his grandchildren, Andrew Woodson and his wife, Kendra, Peter Woodson and his wife, Besi, Matt Woodson, Sammi Woodson, Aaron Woodson and his wife, Bailey, and Patty Keho; and 1 great-grandchild, Aubree. He is preceded in death by his wife, Betty, parents, Earl and Faye Woodson, and brothers, Dan Woodson and Joe Woodson.  
 
-A Celebration of Life service was held on September 26, 2020, at 10:30 a.m. In lieu of flowers, the family requests donations to the Alzheimer’s Association or the Dean McGee Eye Institute.  
+A Celebration of Life service was held on September 26, 2020, at 10:30 a.m. In lieu of flowers, the family requests donations to the Alzheimer’s Association or the Dean McGee Eye Institute.
