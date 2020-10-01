@@ -1,6 +1,6 @@
 ---
 news: true
-published: false
+published: true
 newsid: '2020-09-28 14:01 -0500'
 layout: news
 publish: '2020-09-28 14:01 -0500'
