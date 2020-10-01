@@ -4,7 +4,7 @@ published: false
 newsid: '2020-09-28 14:01 -0500'
 layout: news
 publish: '2020-09-28 14:01 -0500'
-expire: '2020-10-28 14:01 -0500'
+expire: '2020-10-08 14:01 -0500'
 system: false
 title: Retired Judge Charles Scott Woods
 ---
