@@ -6,7 +6,7 @@ layout: news
 publish: '2020-09-28 14:01 -0500'
 expire: '2020-10-08 14:01 -0500'
 system: false
-title: Retired Judge Charles Scott Woods
+title: Retired Judge Charles Scott Woodson
 ---
 <img style="width: 125px; float: left; margin: 0 10px 10px 0;" src="http://www.oscn.net/images/news/charles-scott-woods.jpg" />Former District Judge Charles Scott Woodson, 91, died September 23, 2020, due to complications from Alzheimer’s disease.  Charles was born August 3, 1929, in Ft. Smith, AR, to Earl and Faye Woodson. 
 
