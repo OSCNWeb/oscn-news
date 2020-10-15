@@ -20,3 +20,5 @@ The Judicial Nominating Commission (JNC) today announced the following individua
 - Bevan G. Stockdell, Edmond
 - Cindy Hong Truong, Oklahoma City
 - Joseph H. Young, Oklahoma City
+
+[Press Release](http://www.oscn.net/images/news/jnc-press-release-coca-applicants-20201015.pdf)
