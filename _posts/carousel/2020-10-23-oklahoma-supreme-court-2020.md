@@ -15,6 +15,4 @@ carousel_content: >-
   <img src='http://www.oscn.net/assets/img/carousel/supreme-court-2020.jpg'
   alt='' />
 ---
-## A New Post
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
