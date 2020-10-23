@@ -14,6 +14,5 @@ category:
 carousel_content: >-
   <img src='http://www.oscn.net/assets/img/carousel/supreme-court-2020.jpg'
   alt='' />
-link: 'http://oscnsearchidx/oscn/schome/generalinfo.htm'
+link: 'http://www.oscn.net/oscn/schome/generalinfo.htm'
 ---
-
