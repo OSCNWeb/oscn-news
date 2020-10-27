@@ -6,8 +6,8 @@ layout: carousel
 publish: '2020-10-26 14:05 -0500'
 expire: '2020-10-27 00:00 -0500'
 system: false
-news: true
-carousel_expire: '2020-10-26 00:05 -0500'
+news: false
+carousel_expire: '2020-10-26 14:05 -0500'
 title: Oklahoma Judicial Center Notice
 category:
   - aoc
