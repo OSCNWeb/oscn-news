@@ -4,10 +4,10 @@ published: true
 newsid: '2020-10-26 14:05 -0500'
 layout: carousel
 publish: '2020-10-26 14:05 -0500'
-expire: '2020-10-29 14:05 -0500'
+expire: '2020-10-28 14:05 -0500'
 system: false
 news: true
-carousel_expire: '2020-10-29 14:05 -0500'
+carousel_expire: '2020-10-28 14:05 -0500'
 title: Oklahoma Judicial Center Notice
 category:
   - aoc
