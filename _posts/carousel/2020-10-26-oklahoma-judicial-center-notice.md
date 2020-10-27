@@ -4,10 +4,10 @@ published: true
 newsid: '2020-10-26 14:05 -0500'
 layout: carousel
 publish: '2020-10-26 14:05 -0500'
-expire: '2020-10-28 14:05 -0500'
+expire: '2020-10-29 14:05 -0500'
 system: false
 news: true
-carousel_expire: '2020-10-28 14:05 -0500'
+carousel_expire: '2020-10-29 14:05 -0500'
 title: Oklahoma Judicial Center Notice
 category:
   - aoc
@@ -19,4 +19,6 @@ Due to inclement weather the Judicial Center will be closing at 3PM on Monday, O
 
 The Judicial Center will be closed Tuesday, October 27, 2020, due to the forecast for additional freezing temperatures and sleet/rain overnight.
 
-Pursuant to Oklahoma Supreme Court Rule 1.3, filing deadlines falling on October 27, 2020, are extended to Wednesday, October 28, 2020.
+The Judicial Center will be closed Wednesday, October 28, 2020, due to the forecast for additional freezing temperatures and sleet/rain overnight.
+
+Pursuant to Oklahoma Supreme Court Rule 1.3, filing deadlines falling on October 28, 2020, are extended to Thursday, October 29, 2020.
