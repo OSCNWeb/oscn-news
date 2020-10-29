@@ -15,6 +15,6 @@ carousel_content: >-
 category:
   - aoc
 ---
-Due to power loss from the weather event, the Judicial Center will be closed Friday, October 30, 2020.
+Due to a continuing power outage from the weather event, the Judicial Center will be closed Friday, October 30, 2020.
 
 Pursuant to Oklahoma Supreme Court Rule 1.3, filing deadlines falling on October 30, 2020, are extended to Monday, November 2, 2020.
