@@ -6,7 +6,7 @@ layout: news
 publish: '2020-11-18 13:37 -0600'
 expire: '2020-11-18 13:37 -0600'
 system: false
-title: ELECTION OF CHIEF JUSTICE AND VICE CHIEF JUSTICE
+title: 'IN RE: ELECTION OF CHIEF JUSTICE AND VICE CHIEF JUSTICE'
 category:
   - supreme
 ---
