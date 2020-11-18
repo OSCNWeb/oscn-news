@@ -9,10 +9,9 @@ system: false
 title: 'IN RE: ELECTION OF CHIEF JUSTICE AND VICE CHIEF JUSTICE'
 category:
   - supreme
+feature: 1
 ---
 IN RE: ELECTION OF CHIEF JUSTICE AND VICE CHIEF JUSTICE  
 [2020 SCAD 97](http://www.oscn.net/Images/news/SCAD-2020-97.pdf)  
 Decided: 11/09/2020  
-Filed in the Office of the Clerk of the Supreme Court November 9, 2020.  
-
-  
+Filed in the Office of the Clerk of the Supreme Court November 9, 2020.
