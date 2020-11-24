@@ -6,7 +6,7 @@ layout: news
 publish: '2020-11-24 15:38 -0600'
 expire: '2020-12-24 15:38 -0600'
 system: false
-title: COVID-19 Notice
+title: Fourth Emergency Joint Order Regarding the Covid-19 State of Disaster
 featured: 1
 feature: 3
 ---
