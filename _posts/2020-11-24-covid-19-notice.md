@@ -8,7 +8,7 @@ expire: '2020-12-24 15:38 -0600'
 system: false
 title: COVID-19 Notice
 featured: 1
-feature: 1
+feature: 3
 ---
 <a href="http://www.oscn.net/notices/"><img src="http://www.oscn.net/notices/covid-19.jpg" style="margin: 0 0em 1em 1em; width: 200px; float: right;" /></a>
 
