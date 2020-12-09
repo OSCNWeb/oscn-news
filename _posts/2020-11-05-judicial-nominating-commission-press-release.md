@@ -4,7 +4,7 @@ published: true
 newsid: '2020-11-05 07:28 -0600'
 layout: news
 publish: '2020-11-05 07:28 -0600'
-expire: '2021-01-05 07:28 -0600'
+expire: '2020-12-09 07:28 -0600'
 system: false
 title: Judicial Nominating Commission - Press Release
 category:
