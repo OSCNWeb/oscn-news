@@ -8,6 +8,8 @@ expire: '2020-02-15 15:28 -0600'
 system: false
 title: COCA - Judicial Divisions Assignments and Election of Presiding Judges
 feature: 3
+category:
+  - supreme
 ---
 For the calendar year 2021, the Honorable Brian Jack Goree has been elected to serve as Presiding Judge for Division One of the Court of Civil Appeals, Oklahoma City Division. Division One will consist of Brian Jack Goree, Presiding Judge; E. Bay Mitchell, III, Judge; and a judge to sit by designation in the absence of retiring Judge Kenneth L. Buettner.
 
