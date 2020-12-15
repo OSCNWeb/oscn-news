@@ -7,7 +7,7 @@ publish: '2020-12-15 15:28 -0600'
 expire: '2020-02-15 15:28 -0600'
 system: false
 title: COCA - Judicial Divisions Assignments and Election of Presiding Judges
-feature: 3
+feature: 1
 category:
   - supreme
 ---
