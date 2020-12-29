@@ -10,8 +10,10 @@ title: Governor Appoints Judge Thomas E. Prince to Court of Civil Appeals
 category:
   - supreme
 ---
-Governor Kevin Stitt Appoints Judge Thomas E. Prince to Court of Civil Appeals
- 
+### Governor Kevin Stitt Appoints Judge Thomas E. Prince to Court of Civil Appeals
+
+
+
 **OKLAHOMA CITY (Dec. 18, 2020)** -- Governor Kevin Stitt announced today the appointment of Judge Thomas E. Prince to the Oklahoma Court of Civil Appeals. This is the governor's third appointment to the Court.  
 
 **"Judge Tom Prince is a proven legal mind who has served the State of Oklahoma for over three decades,"** said Gov. Stitt. **"Years of legal and judicial experience have prepared him for this new role, and I look forward to watching him serve the people of Oklahoma on the Court of Civil Appeals."**  
