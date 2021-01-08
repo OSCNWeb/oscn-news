@@ -21,11 +21,11 @@ title: 'In Memoriam: James W. Bruce Jr.'
 <div class="artwork">
   <span class="title">The Justice</span>
 	<img style="" src="http://www.oscn.net/images/news/the-justice.jpg"/>
-  <span>Photo by Neil Chapman</span>
+  <span class="caption">Photo by Neil Chapman</span>
 </div>
 
 <div class="artwork">
  <span class="title">The Lake</span>  
 	<img style="" src="http://www.oscn.net/images/news/the-lake.jpg" />
-  <span>Photo by Neil Chapman</span>
+  <span class="caption">Photo by Neil Chapman</span>
 </div>
