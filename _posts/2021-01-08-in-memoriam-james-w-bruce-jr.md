@@ -10,12 +10,19 @@ title: 'In Memoriam: James W. Bruce Jr.'
 ---
 <img style="width: 110px; float: left; margin: 0 10px 10px 0;" src="http://www.oscn.net/images/news/james-bruce-oklahoma-city-ok-obituary.jpg" /> James Bruce, former CEO and Chairman of Oklahoma Bank Systems and noted Oklahoma artist died on December 25, 2020.  Bruce, the winner of the Governor’s Arts Award in 2006, created two paintings for the Oklahoma Judicial Center, The Justice, in honor of Justice Marian P. Opala and The Lake.  His full obituary may be read at https://legcy.co/3hwQj9Q
 
-<div>
-<img style="" src="http://www.oscn.net/images/news/the-justice.jpg"/>
-  <span></span>
+<style>
+  .artwork {
+  		clear: both;
+  }
+</style>
+<div class="artwork">
+  <span>The Justice</span>
+	<img style="" src="http://www.oscn.net/images/news/the-justice.jpg"/>
+  <span>Photo by Neil Chapman</span>
 </div>
 
-<div>
-<img style="" src="http://www.oscn.net/images/news/the-lake.jpg" />
-  <span></span>
+<div class="artwork">
+ <span>The Lake</span>  
+	<img style="" src="http://www.oscn.net/images/news/the-lake.jpg" />
+  <span>Photo by Neil Chapman</span>
 </div>
