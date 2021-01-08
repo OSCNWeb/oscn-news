@@ -17,6 +17,7 @@ title: 'In Memoriam: James W. Bruce Jr.'
   }
   .artwork img {
    		margin: auto;
+    	width: 100%;
   }
   .title {
     	display: block;
