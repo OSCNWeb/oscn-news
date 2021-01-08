@@ -36,10 +36,11 @@ title: 'In Memoriam: James W. Bruce Jr.'
 </style>
 <!--[if lte mso 9]>
     <style type="text/css">
-       .artwork img {
-          margin: auto;
-          width: 375px
-  		}
+      .artwork {
+            clear: both;
+            width: 375px;
+            margin: 0px auto 10px auto;
+      }
     </style>
 <![endif]-->
 <div class="artwork">
