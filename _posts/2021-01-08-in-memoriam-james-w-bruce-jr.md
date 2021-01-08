@@ -22,9 +22,10 @@ title: 'In Memoriam: James W. Bruce Jr.'
   }
   .title {
     	display: block;
-    	text-align: center
+    	text-align: center;
     	padding: 5px 0px;
     	font-size: 1.5em;
+    	font-weight: bold;
   }
   .caption {
     	display: block;
