@@ -14,8 +14,8 @@ title: 'In Memoriam: James W. Bruce Jr.'
   .artwork {
   		clear: both;
   }
-  .artwork {
-    	
+  .title {
+    	display: block;
   }
 </style>
 <div class="artwork">
