@@ -34,6 +34,14 @@ title: 'In Memoriam: James W. Bruce Jr.'
     	font-size: 0.75em;
   }
 </style>
+<!--[if lte mso 9]>
+    <style type="text/css">
+       .artwork img {
+          margin: auto;
+          width: 375px
+  		}
+    </style>
+<![endif]-->
 <div class="artwork">
   <span class="title">The Justice</span>
 	<img style="" src="http://www.oscn.net/images/news/the-justice.jpg"/>
