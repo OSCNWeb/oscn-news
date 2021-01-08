@@ -22,10 +22,14 @@ title: 'In Memoriam: James W. Bruce Jr.'
   .title {
     	display: block;
     	text-align: center;
+    	padding: 5px 0px;
+    	font-size: 1.5em;
   }
   .caption {
     	display: block;
-		text-align: center;    
+		text-align: center;
+    	padding: 2px;
+    	font-size: 0.75em;
   }
 </style>
 <div class="artwork">
