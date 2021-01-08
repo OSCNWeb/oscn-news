@@ -13,7 +13,7 @@ title: 'In Memoriam: James W. Bruce Jr.'
 <style>
   .artwork {
   		clear: both;
-    	max-width: 600px
+    	max-width: 375px
   }
   .artwork img {
    		margin: auto;
