@@ -14,15 +14,18 @@ title: 'In Memoriam: James W. Bruce Jr.'
   .artwork {
   		clear: both;
   }
+  .artwork {
+    	
+  }
 </style>
 <div class="artwork">
-  <span>The Justice</span>
+  <span class="title">The Justice</span>
 	<img style="" src="http://www.oscn.net/images/news/the-justice.jpg"/>
   <span>Photo by Neil Chapman</span>
 </div>
 
 <div class="artwork">
- <span>The Lake</span>  
+ <span class="title">The Lake</span>  
 	<img style="" src="http://www.oscn.net/images/news/the-lake.jpg" />
   <span>Photo by Neil Chapman</span>
 </div>
