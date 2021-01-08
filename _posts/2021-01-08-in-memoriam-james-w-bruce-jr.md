@@ -16,9 +16,11 @@ title: 'In Memoriam: James W. Bruce Jr.'
   }
   .title {
     	display: block;
+    	text-align: center;
   }
   .caption {
     	display: block;
+		text-align: center;    
   }
 </style>
 <div class="artwork">
