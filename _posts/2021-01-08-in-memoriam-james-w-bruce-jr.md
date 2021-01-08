@@ -17,6 +17,9 @@ title: 'In Memoriam: James W. Bruce Jr.'
   .title {
     	display: block;
   }
+  .caption {
+    	display: block;
+  }
 </style>
 <div class="artwork">
   <span class="title">The Justice</span>
