@@ -25,15 +25,15 @@ Immediately following the interviews, the JNC will provide the Governor a list o
 
 <u>The JNC strongly encourages the public to submit comments on these applicants prior to February 9, 2021</u>. Comments may be mailed to:  
 
-Administrative Office of the Courts
-Attn: Tammy Reaves
-2100 North Lincoln, Suite 3
+Administrative Office of the Courts  
+Attn: Tammy Reaves  
+2100 North Lincoln, Suite 3  
 Oklahoma City OK 73105  
 
 and/or 
 
-Jim Webb
-Chair, Judicial Nominating Commission
-Chesapeake Energy Corporation
-P.O. Box 18496
+Jim Webb  
+Chair, Judicial Nominating Commission  
+Chesapeake Energy Corporation  
+P.O. Box 18496  
 Oklahoma City OK 73154-0496.
