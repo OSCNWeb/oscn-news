@@ -23,7 +23,7 @@ On Tuesday, February 9, 2021, the Judicial Nominating Commission (JNC) will cond
 
 Immediately following the interviews, the JNC will provide the Governor a list of three nominees, and the Governor will have 60 days to make the appointment from those three nominees. 
 
-The JNC strongly encourages the public to submit comments on these applicants prior to February 9, 2021. Comments may be mailed to:  
+<u>The JNC strongly encourages the public to submit comments on these applicants prior to February 9, 2021</u>. Comments may be mailed to:  
 
 Administrative Office of the Courts
 Attn: Tammy Reaves
