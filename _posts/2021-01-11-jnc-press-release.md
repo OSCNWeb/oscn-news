@@ -33,7 +33,7 @@ Oklahoma City OK 73105
 and/or 
 
 Jim Webb  
-Chair, Judicial Nominating Commission  
+Chair,  Judicial Nominating Commission  
 Chesapeake Energy Corporation  
 P.O. Box 18496  
 Oklahoma City OK 73154-0496.
