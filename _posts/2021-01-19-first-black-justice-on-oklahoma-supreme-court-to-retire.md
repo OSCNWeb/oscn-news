@@ -7,6 +7,7 @@ publish: '2021-01-19 09:36 -0600'
 expire: '2021-03-19 09:36 -0600'
 system: false
 title: First Black justice on Oklahoma Supreme Court to retire
+feature: 1
 ---
 [Barbara Hoberock](https://tulsaworld.com/users/profile/barbara%20hoberock/) - Tulsa World
 
