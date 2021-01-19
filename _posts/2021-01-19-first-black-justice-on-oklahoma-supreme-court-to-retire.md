@@ -31,3 +31,5 @@ He earned a master's in education from Eastern Kentucky University in 1976 and t
 He earned his law degree from the University of Oklahoma in 1982.
 
 Prior to his service on the Oklahoma Supreme Court, he served on the Oklahoma Court of Civil Appeals.
+
+Full article and photos at the [Tulsa World](https://tulsaworld.com/news/state-and-regional/govt-and-politics/first-black-justice-on-oklahoma-supreme-court-to-retire/article_1bffc780-5929-11eb-825f-f378ed631690.html)
