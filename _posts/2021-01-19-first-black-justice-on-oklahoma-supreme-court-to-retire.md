@@ -22,7 +22,7 @@ Former Gov. Brad Henry appointed him to the court in 2004.
 
 Gov. Kevin Stitt will appoint his successor from names forwarded by the Judicial Nominating Commission.
 
-Colbert graduated from Sapulpa High School and earned a bachelor’s from Kentucky State University in 1973. He was an All-American track and field competitor in college.
+Colbert graduated from Sapulpa High School and earned a bachelor's from Kentucky State University in 1973. He was an All-American track and field competitor in college.
 
 He served in the U.S. Army and received an honorable discharge in 1975.
 
