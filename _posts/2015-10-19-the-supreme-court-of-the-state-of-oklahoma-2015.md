@@ -9,7 +9,7 @@ publish: '2015-10-19 12:00 -0500'
 system: false
 feature: null
 link: 'http://www.oscn.net/static/osc-ojs-brochure-online.pdf'
-carousel_expire: null
+carousel_expire: '2021-01-19 13:42 -0500'
 carousel_content: >-
   <img src='/assets/img/carousel/TheThirdBranch.jpg' alt='The Supreme Court of
   the State of Oklahoma - 2015' />
