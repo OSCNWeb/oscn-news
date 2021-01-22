@@ -13,5 +13,5 @@ carousel_expire: null
 carousel_content: >-
   <img src='/assets/img/carousel/TheThirdBranch.jpg' alt='The Supreme Court of
   the State of Oklahoma - 2015' />
-expire: '2021-01-21 13:42 -0500'
+expire: '2021-01-19 13:42 -0500'
 ---
