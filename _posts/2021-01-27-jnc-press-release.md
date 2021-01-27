@@ -3,7 +3,7 @@ news: true
 published: true
 newsid: '2021-01-27 16:05 -0600'
 layout: news
-publish: '2021-01-27 16:05 -0600'
+publish: '2021-01-26 16:05 -0600'
 expire: '2021-02-27 16:05 -0600'
 system: false
 title: JNC Press Release
@@ -21,4 +21,3 @@ c/o Tammy Reaves
 Administrative Office of the Courts  
 2100 N. Lincoln Blvd., Suite 3  
 Oklahoma City, OK 73105
-
