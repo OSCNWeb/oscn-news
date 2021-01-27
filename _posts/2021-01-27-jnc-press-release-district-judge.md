@@ -6,7 +6,7 @@ layout: news
 publish: '2021-01-27 16:09 -0600'
 expire: '2021-02-27 16:09 -0600'
 system: false
-title: JNC Press Release - District Judge
+title: JNC Press Release
 ---
 The Judicial Nominating Commission seeks applicants District Judge, Seventh Judicial District, Office 2, Oklahoma County.  This vacancy is created by the appointment of the Honorable Thomas E. Prince to the Court of Civil Appeals.
 
