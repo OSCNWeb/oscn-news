@@ -6,7 +6,7 @@ layout: news
 publish: '2021-01-27 16:07 -0600'
 expire: '2021-02-27 16:07 -0600'
 system: false
-title: JNC Press Release - SC
+title: JNC Press Release
 ---
 The Judicial Nominating Commission (JNC) today announced a vacancy for the position of Justice for the Oklahoma Supreme Court, Judicial District 6, which is comprised of Congressional District 1 as constituted on January 8, 2019.  This vacancy is created by the retirement of the Honorable Tom Colbert on February 1, 2021.
 
