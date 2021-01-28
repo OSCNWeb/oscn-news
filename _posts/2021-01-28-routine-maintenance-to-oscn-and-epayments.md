@@ -10,6 +10,6 @@ title: Routine Maintenance to OSCN and ePayments
 category:
   - aoc
 ---
-On Saturday, January 30th, at 10:00 a.m., the OSCN.NET website and ePayments system will be down for maintenance. All services are scheduled to be restored by 7:00 p.m. Saturday, January 30th.  
+On Saturday, January 30th, at 10:00 a.m., the OSCN.NET website, eResponse, and ePayments system will be down for maintenance. All services are scheduled to be restored by 7:00 p.m. Saturday, January 30th.  
 
 We apologize for any inconvenience.
