@@ -4,10 +4,10 @@ published: true
 newsid: '2021-02-10 10:38 -0600'
 layout: carousel
 publish: '2021-02-10 10:38 -0600'
-expire: '2021-02-11 10:38 -0600'
+expire: '2021-02-10 10:38 -0600'
 system: false
 news: true
-carousel_expire: '2021-02-11 10:38 -0600'
+carousel_expire: '2021-02-10 10:38 -0600'
 title: Oklahoma Judicial Center Notice
 carousel_content: >-
   <img src='http://www.oscn.net/assets/img/carousel/Weather
