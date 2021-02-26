@@ -4,7 +4,7 @@ published: true
 newsid: '2020-11-18 13:37 -0600'
 layout: news
 publish: '2020-11-18 13:37 -0600'
-expire: '2021-12-14 13:37 -0600'
+expire: '2020-02-25 13:37 -0600'
 system: false
 title: 'IN RE: ELECTION OF CHIEF JUSTICE AND VICE CHIEF JUSTICE'
 category:
