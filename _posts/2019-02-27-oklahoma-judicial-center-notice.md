@@ -4,7 +4,7 @@ published: true
 newsid: '2019-02-27 13:49 -0600'
 layout: news
 publish: '2019-02-27 13:49 -0600'
-expire: '2019-02-28 13:49 -0600'
+expire: '2019-02-27 13:49 -0600'
 system: false
 title: Oklahoma Judicial Center Notice
 category:
