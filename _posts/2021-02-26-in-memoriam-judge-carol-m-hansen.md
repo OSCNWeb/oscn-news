@@ -4,7 +4,7 @@ published: true
 newsid: '2021-02-26 16:53 -0600'
 layout: news
 publish: '2021-02-26 16:53 -0600'
-expire: '2021-03-26 16:53 -0600'
+expire: '2021-03-23 16:53 -0600'
 system: false
 title: 'In Memoriam: Judge Carol M. Hansen'
 ---
