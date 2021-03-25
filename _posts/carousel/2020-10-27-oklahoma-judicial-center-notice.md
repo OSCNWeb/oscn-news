@@ -4,7 +4,7 @@ published: true
 newsid: '2020-10-27 17:31 -0500'
 layout: carousel
 publish: '2020-10-27 17:31 -0500'
-expire: '2020-10-27 17:31 -0500'
+expire: '2020-10-28 23:31 -0500'
 system: false
 news: true
 carousel_expire: '2020-10-27 17:31 -0500'
