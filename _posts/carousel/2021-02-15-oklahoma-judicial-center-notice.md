@@ -18,5 +18,3 @@ category:
 Due to inclement weather the Judicial Center will be closed on Tuesday, February 16, 2021.
 
 Pursuant to Oklahoma Supreme Court Rule 1.3, filing deadlines falling on February 16, 2021, are extended to Wednesday, February 17, 2021.
-
-
