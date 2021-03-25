@@ -19,3 +19,8 @@ Due to inclement weather the Judicial Center will be closed on Wednesday, Februa
 
 Pursuant to Oklahoma Supreme Court Rule 1.3, filing deadlines falling on February 17, 2021, are extended to Thursday, February 18, 2021.
 
+
+
+
+
+   
