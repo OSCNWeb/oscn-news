@@ -7,8 +7,6 @@ publish: '2021-04-05 13:37 -0500'
 expire: '2021-05-05 13:37 -0500'
 system: false
 title: JNC Press Release
-category:
-  - supreme
 ---
 The Judicial Nominating Commission (JNC) today announced a vacancy for the position of District Judge in Oklahoma County, Seventh Judicial District, Office 6, an at-large position.
 
