@@ -4,7 +4,7 @@ published: true
 newsid: '2021-03-25 09:01 -0500'
 layout: news
 publish: '2021-03-25 09:01 -0500'
-expire: '2021-05-25 09:01 -0500'
+expire: '2021-04-21 09:01 -0500'
 system: false
 title: Art of the Oklahoma Judicial Center
 ---
