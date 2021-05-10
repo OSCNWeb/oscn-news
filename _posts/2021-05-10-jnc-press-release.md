@@ -4,7 +4,7 @@ published: true
 newsid: '2021-05-10 14:04 -0500'
 layout: news
 publish: '2021-05-10 14:04 -0500'
-expire: '2021-05-10 14:04 -0500'
+expire: '2021-06-10 14:04 -0500'
 system: false
 title: JNC Press Release
 ---
