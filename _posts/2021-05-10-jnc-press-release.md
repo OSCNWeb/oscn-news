@@ -34,15 +34,15 @@ On Thursday, June 3, 2021, the JNC will conduct interviews for the position of J
 
 The JNC strongly encourages the public to submit comments on these applicants. Immediately following the respective interviews, the JNC will provide the Governor a list of three nominees, and the Governor will have 60 days to make the respective appointment from those three nominees. To be considered, comments must be received by the date of the respective interview and may be mailed to:
 
-Administrative Office of the Courts 
-Attn: Tammy Reaves
-2100 North Lincoln, Suite 3 
-Oklahoma City OK 73105
+Administrative Office of the Courts   
+Attn: Tammy Reaves  
+2100 North Lincoln, Suite 3   
+Oklahoma City OK 73105  
 
 and/or 
 
-Jim Webb
-Chair, Judicial Nominating Commission
-Chesapeake Energy Corporation
-P.O. Box 18496
-Oklahoma City OK 73154-0496.
+Jim Webb  
+Chair, Judicial Nominating Commission  
+Chesapeake Energy Corporation  
+P.O. Box 18496  
+Oklahoma City OK 73154-0496.  
