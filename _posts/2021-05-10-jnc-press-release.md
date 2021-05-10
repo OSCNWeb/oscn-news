@@ -7,6 +7,8 @@ publish: '2021-05-10 14:04 -0500'
 expire: '2021-06-10 14:04 -0500'
 system: false
 title: JNC Press Release
+category:
+  - supreme
 ---
 On Wednesday, May 26, 2021, the Judicial Nominating Commission (JNC) will conduct interviews for the position of Judge for the Oklahoma Court of Civil Appeals, District 3, Office 1. The following individuals have applied for this position:
 
