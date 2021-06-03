@@ -3,7 +3,7 @@ news: true
 published: true
 newsid: '2021-04-07 09:59 -0500'
 layout: news
-publish: '2021-04-07 09:59 -0500'
+publish: '2021-06-03 09:59 -0500'
 expire: '2021-07-30 09:59 -0500'
 system: false
 title: Upcoming Oral Arguments
