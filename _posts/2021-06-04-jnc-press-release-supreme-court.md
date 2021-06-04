@@ -6,7 +6,7 @@ layout: news
 publish: '2021-06-04 15:45 -0500'
 expire: '2021-07-04 15:45 -0500'
 system: false
-title: JNC - Press Release - Supreme Court
+title: JNC - Press Release
 ---
 The Judicial Nominating Commission (JNC) today announced the three nominees for the position of Justice for the Oklahoma Supreme Court, Judicial District 6, a vacancy is created by the retirement of the Honorable Tom Colbert on February 1, 2021. After concluding the review process and conducting interviews today, the JNC submitted the following nominees for this position to the Governor:
 
