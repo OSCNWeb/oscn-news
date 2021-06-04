@@ -10,6 +10,8 @@ title: Upcoming Oral Arguments
 ---
 <u>Court of Civil Appeals</u>
 
-[119,462](http://www.oscn.net/dockets/GetCaseInformation.aspx?db=appellate&number=119462) - Dustin Hellard, vs. Compsource Mutual Insurance Company
+[118,658](http://www.oscn.net/dockets/GetCaseInformation.aspx?db=appellate&number=118658)  - Amanda R. Tapp, vs Southwest Airlines Co., Indemnity Insurance Co. of North America, and The Workers' Compensation Commission
 
-This case is set for oral argument on Thursday, July 29, 2021, at 10:00 a.m., in the Court Room of the Court of Civil Appeals, 1915 N. Stiles, Suite 357, Oklahoma City, Oklahoma.
+The above styled and numbered cause is currently pending on appeal before this Court and oral argument is currently scheduled for May 20, 2021.
+
+Appellate proceedings in this matter are hereby stayed for thirty (30) days from the date of this order and the scheduled oral argument is stricken from the docket.
