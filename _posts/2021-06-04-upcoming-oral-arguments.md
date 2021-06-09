@@ -16,4 +16,4 @@ This case is set for oral argument on Thursday, July 29, 2021, at 10:00 a.m., in
 
 [117,532](http://www.oscn.net/dockets/GetCaseInformation.aspx?db=appellate&number=117532) - Lacclaudia Samuels, vs. Raphael T. Glapion and Raphael T. Glapion, P.C., vs. West Ylla Gosney, Robert Ylla, Sabre Weathers
 
-This case is set for oral argument before Division III of the Court of Civil Appeals, consisting of Presiding Judge Trvor S. Pemberton, Chief Judge Barbara G. Swinton, and Judge Robert D. Bell. The argument will be held Thursday, July 8, 2021, at 10:00 a.m., in the Court Room of the Court of Civil Appeals, 1915 N. Stiles, Suite 357, Oklahoma City, Oklahoma.
+This case is set for oral argument before Division III of the Court of Civil Appeals, consisting of Presiding Judge Trevor S. Pemberton, Chief Judge Barbara G. Swinton, and Judge Robert D. Bell. The argument will be held Thursday, July 8, 2021, at 10:00 a.m., in the Court Room of the Court of Civil Appeals, 1915 N. Stiles, Suite 357, Oklahoma City, Oklahoma.
