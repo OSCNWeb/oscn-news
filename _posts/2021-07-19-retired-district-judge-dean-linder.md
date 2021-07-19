@@ -4,9 +4,11 @@ published: true
 newsid: '2021-07-19 11:42 -0500'
 layout: news
 publish: '2021-07-19 11:42 -0500'
-expire: '2021-07-19 11:42 -0500'
+expire: '2021-07-24 11:42 -0500'
 system: false
 title: Retired District Judge Dean Linder
+category:
+  - aoc
 ---
 A Celebration of Life for retired District Judge Dean Linder will be held Monday, July 19, 2021, at 1:30 p.m., at the Alva First Christian Church.  Judge Linder died last week surrounded by his family.  
 
