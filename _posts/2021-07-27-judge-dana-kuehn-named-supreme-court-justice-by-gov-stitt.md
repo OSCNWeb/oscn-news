@@ -4,7 +4,7 @@ published: true
 newsid: '2021-07-27 15:34 -0500'
 layout: news
 publish: '2021-07-27 15:34 -0500'
-expire: '2021-09-27 15:34 -0500'
+expire: '2021-08-25 15:34 -0500'
 system: false
 title: Judge Dana Kuehn Named Supreme Court Justice by Gov. Stitt
 ---
