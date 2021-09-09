@@ -16,5 +16,6 @@ The Oklahoma State Court Network (OSCN) will provide a live-stream of the procee
 
 No other photographers, video cameras or recording devices will be allowed in the Hearing Room.
 <br />
+<br /><br />
 <br />
 
