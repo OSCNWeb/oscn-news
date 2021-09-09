@@ -15,4 +15,6 @@ Case No. [119,839](http://www.oscn.net/dockets/GetCaseInformation.aspx?db=appell
 The Oklahoma State Court Network (OSCN) will provide a live-stream of the proceedings.  The link to the live-time feed will be found September 10 on the OSCN website approximately sixty minutes before the hearing begins.
 
 No other photographers, video cameras or recording devices will be allowed in the Hearing Room.
+<br />
+<br />
 
