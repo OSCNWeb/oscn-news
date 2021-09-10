@@ -4,7 +4,7 @@ published: true
 newsid: '2021-09-09 16:19 -0500'
 layout: news
 publish: '2021-09-09 16:19 -0500'
-expire: '2021-09-11 16:19 -0500'
+expire: '2021-09-10 16:19 -0500'
 system: false
 title: Referee Hearing involving Two Parole Board Members to be Live-Streamed
 ---
@@ -18,4 +18,3 @@ No other photographers, video cameras or recording devices will be allowed in th
 <br />
 <br /><br />
 <br />
-
