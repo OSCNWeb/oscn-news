@@ -12,7 +12,7 @@ Chief Justice Richard Darby announced today that the challenge filed by District
 
 Case No. [119,839](http://www.oscn.net/dockets/GetCaseInformation.aspx?db=appellate&number=119839), <u>The State of Oklahoma, By and through David Prater, District Attorney for the Seventh Judicial District v. Adam Luck, Individually as a Member of the Pardon and Parole Board, & Kelly Doyle, Individually as a Member of the Pardon and Parole Board</u>, is set for 1:30 p.m., and will be presented to the referee in the Hearing Room at the Oklahoma Judicial Center. No in-person visitors will be admitted due to COVID protocols for the Judicial Center.
 
-The Oklahoma State Court Network (OSCN) will provide a live-stream of the proceedings.  The link to the live-time feed will be found September 10 on the OSCN website approximately sixty minutes before the hearing begins.
+[Live-stream](https://vimeo.com/601315634) of the proceedings.
 
 No other photographers, video cameras or recording devices will be allowed in the Hearing Room.
 <br />
