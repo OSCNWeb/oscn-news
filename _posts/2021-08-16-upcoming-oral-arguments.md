@@ -13,4 +13,4 @@ title: Upcoming Oral Arguments
 
 [119,462](http://www.oscn.net/dockets/GetCaseInformation.aspx?db=appellate&number=119462) - Dustin Hellard, vs. Compsource Mutual Insurance Company
 
-This case is set for oral argument on Thursday, October 14, 2021, at 10:00 am, at the Oklahoma City University School of Law, in the J. William Conger Courtroom, 800 N. Harvey Ave, Oklahoma City, Oklahoma.
+The oral argument set on Thursday, October 14, 2021, at 10:00 a.m. is STRICKEN.
