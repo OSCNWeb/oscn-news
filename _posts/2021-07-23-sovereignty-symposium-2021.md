@@ -10,4 +10,8 @@ title: Sovereignty Symposium
 category:
   - aoc
 ---
-The [Sovereignty Symposium](http://www.thesovereigntysymposium.com/) has been scheduled for October 11-12, 2021 at the Skirvin Hotel.  The [agenda is available](http://www.thesovereigntysymposium.com/agenda/).
+The [Sovereignty Symposium](http://www.thesovereigntysymposium.com/) has been scheduled for October 11-12, 2021 is virtual only.*  The [agenda is available](http://www.thesovereigntysymposium.com/agenda/).
+
+*Virtual is defined by Dictionary.com as, “existing, seen, or happening online or on a computer screen, rather than in person or in the physical world.” There will be no audience. 
+
+
