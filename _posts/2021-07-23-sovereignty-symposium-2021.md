@@ -4,7 +4,7 @@ published: true
 newsid: '2021-07-23 13:53 -0500'
 layout: news
 publish: '2021-07-23 13:53 -0500'
-expire: '2021-11-10 13:53 -0500'
+expire: '2021-10-10 13:53 -0500'
 system: false
 title: Sovereignty Symposium
 category:
