@@ -3,7 +3,7 @@ news: true
 published: true
 newsid: '2021-11-30 11:51 -0600'
 layout: news
-publish: '2021-11-30 11:51 -0600'
+publish: '2021-11-29 11:51 -0600'
 expire: '2021-12-11 11:51 -0600'
 system: false
 title: JNC - Press Release
@@ -19,4 +19,4 @@ Oklahoma Judicial Nominating Commission
 c/o Tammy Reaves  
 Administrative Office of the Courts  
 2100 N. Lincoln Blvd., Suite 3  
-Oklahoma City, OK 73105  
+Oklahoma City, OK 73105
