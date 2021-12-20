@@ -22,7 +22,7 @@ created by the resignation of the Honorable Trevor Pemberton on October 18, 2021
 With the assistance of the Oklahoma State Bureau of Investigation, the JNC will immediately
 commence background reviews on these candidates,and interviews will be scheduled as soon
 as is practicable upon conclusion of these background reviews.
-The JNC strongly encourages the public to submit comments on these applicants. Comments
+**The JNC strongly encourages the public to submit comments on these applicants**. Comments
 may be mailed to:
 
 Administrative Office to the Courts  
