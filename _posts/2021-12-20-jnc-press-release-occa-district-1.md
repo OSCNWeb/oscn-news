@@ -6,7 +6,7 @@ layout: news
 publish: '2021-12-20 15:26 -0600'
 expire: '2022-01-05 15:26 -0600'
 system: false
-title: JNC - Press Release - OCCA District 1
+title: JNC - Press Release
 ---
 On Tuesday, January 18, 2022, the Judicial Nominating Commission (JNC) will conduct
 interviews for the position of Court of Criminal Appeals, District 1. The following individuals
