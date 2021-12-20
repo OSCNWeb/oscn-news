@@ -22,11 +22,11 @@ and the Governor will have sixty days to make the appointment from those nominee
 The JNC strongly encourages the public to continue comments for these applicants. Comments
 must be received prior to January 18, 2022, and should be mailed to:
 
-Administrative Office of the Courts
-Attn: Tammy Reaves
-2100 North Lincoln, Suite 3
+Administrative Office of the Courts  
+Attn: Tammy Reaves  
+2100 North Lincoln, Suite 3  
 Oklahoma City OK 73105 and/or
 
-James Bland
-17 East Carl Albert Parkway
+James Bland  
+17 East Carl Albert Parkway  
 McAlester, OK 74501
