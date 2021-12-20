@@ -25,12 +25,12 @@ as is practicable upon conclusion of these background reviews.
 The JNC strongly encourages the public to submit comments on these applicants. Comments
 may be mailed to:
 
-Administrative Office to the Courts
-Attn: Tammy Reaves
-2100 North Lincoln, Suite 3
+Administrative Office to the Courts  
+Attn: Tammy Reaves  
+2100 North Lincoln, Suite 3  
 Oklahoma City, Oklahoma 73105 and/or
 
-James Bland
-Chair, Judicial Nominating Commission
-17 East Carl Albert Parkway
+James Bland  
+Chair, Judicial Nominating Commission  
+17 East Carl Albert Parkway  
 McAlester, OK 74501
