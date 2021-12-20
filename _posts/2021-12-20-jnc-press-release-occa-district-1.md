@@ -19,7 +19,7 @@ have applied for this position:
 
 Immediately following the interviews, the JNC will provide the Governor a list of three nominees,
 and the Governor will have sixty days to make the appointment from those nominees.
-The JNC strongly encourages the public to continue comments for these applicants. Comments
+**The JNC strongly encourages the public to continue comments for these applicants**. Comments
 must be received prior to January 18, 2022, and should be mailed to:
 
 Administrative Office of the Courts  
