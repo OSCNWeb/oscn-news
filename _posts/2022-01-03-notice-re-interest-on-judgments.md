@@ -6,7 +6,7 @@ layout: news
 publish: '2022-01-03 14:13 -0600'
 expire: '2022-01-30 14:13 -0600'
 system: false
-title: 'Notice Re: Interest on Judgments'
+title: Notice Re Interest on Judgments
 category:
   - aoc
 ---
