@@ -4,7 +4,7 @@ published: true
 newsid: '2022-01-20 13:46 -0600'
 layout: news
 publish: '2022-01-20 13:46 -0600'
-expire: '2022-01-20 13:46 -0600'
+expire: '2022-01-31 13:46 -0600'
 system: false
 title: 'In Memoriam: Donald Worthington'
 ---
