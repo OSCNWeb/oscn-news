@@ -4,7 +4,7 @@ published: true
 newsid: '2022-01-11 14:10 -0600'
 layout: news
 publish: '2022-01-11 14:10 -0600'
-expire: '2022-03-11 14:10 -0600'
+expire: '2022-01-19 14:10 -0600'
 system: false
 title: OHP Swearing-in Ceremony
 ---
