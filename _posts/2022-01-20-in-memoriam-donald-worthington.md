@@ -25,4 +25,4 @@ He is preceded in death by his parents, one brother, and two sisters.
 
 Survivors include his wife June; his daughter Judge Susan Worthington of Stillwater; his son David Worthington and wife Diane, and his grandson Ian Worthington, all of Oklahoma City.  Also surviving him are nephews Jerry Hemple of Blackwell, Oklahoma, Martin Smith of Houston, Texas, and niece Melinda Marble of Austin, Texas.
 
-An online obituary may be viewed by visiting [www.strodefh.com](https://www.strodefh.com).
+An online obituary may be viewed by visiting [www.strodefh.com](http://www.strodefh.com).
