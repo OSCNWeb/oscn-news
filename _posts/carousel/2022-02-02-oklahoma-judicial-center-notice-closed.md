@@ -6,7 +6,7 @@ layout: carousel
 publish: '2022-02-02 12:08 -0600'
 expire: '2022-02-05 12:08 -0600'
 system: false
-news: false
+news: true
 carousel_expire: '2022-02-05 12:08 -0600'
 title: Oklahoma Judicial Center Notice - Closed
 carousel_content: >-
