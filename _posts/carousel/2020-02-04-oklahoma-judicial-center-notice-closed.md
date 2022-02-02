@@ -18,4 +18,4 @@ category:
 ---
 Due to inclement weather the Judicial Center will be closed **February 5, 2020**.
 
-Pursuant to Oklahoma Supreme Court Rule 1.3, filing deadlines falling on February 5, 2020, are extended to Thursday, February 6, 2019.
+Pursuant to Oklahoma Supreme Court Rule 1.3, filing deadlines falling on February 5, 2020, are extended to Thursday, February 6, 2020.
