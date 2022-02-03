@@ -15,3 +15,5 @@ title: Upcoming Referee Hearing
 The Oklahoma Supreme Court will live-stream the Referee Hearing set for Wednesday, January 26, 2022, at 10:30 a.m. in the Application of the Oklahoma Development Finance Authority for Approval of not to Exceed $800,000,000 Ratepayer-Backed Bonds (Oklahoma Gas and Electric Company), Series 2022 (Federally Taxable) as the Oklahoma Judicial Center remains closed to visitors. Only those parties who have filed a written protest with the Court by January 24, 2022, will be admitted into the Oklahoma Judicial Center.
 
 [Live Feed](https://vimeo.com/668798997)
+
+
