@@ -4,10 +4,10 @@ published: true
 newsid: '2022-02-23 07:18 -0600'
 layout: carousel
 publish: '2022-02-23 07:18 -0600'
-expire: '2022-02-24 07:18 -0600'
+expire: '2022-02-22 07:18 -0600'
 system: false
 news: true
-carousel_expire: '2022-02-24 07:18 -0600'
+carousel_expire: '2022-02-22 07:18 -0600'
 title: Oklahoma Judicial Center Notice - Closed
 category:
   - aoc
