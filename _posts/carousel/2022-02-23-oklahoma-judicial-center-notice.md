@@ -8,7 +8,7 @@ expire: '2022-02-25 22:23 -0600'
 system: false
 news: true
 carousel_expire: '2022-02-25 22:23 -0600'
-title: Oklahoma Judicial Center Notice
+title: Oklahoma Judicial Center Notice - Closed
 carousel_content: >-
   <img
   src='https://www.oscn.net/assets/img/carousel/building-closure-weather.jpg'
