@@ -15,7 +15,7 @@ On Monday, March 28, 2022, the Judicial Nominating Commission (JNC) will conduct
 - Donald B. Lynn, Oklahoma City  
 - Stacy R. Morey, Norman  
 - Laura M. Palk, Norman  
-- Bevan G. Stockdell, Purcell
+- Bevan G. Stockdell, Edmond
 
 Immediately following the interviews, the JNC will provide the Governor a list of three nominees, and the Governor will have 60 days to make the appointment from those nominees.
 
