@@ -13,4 +13,4 @@ Chief Justice Richard Darby announced that the challenge filed in No. 120,253, s
 The Oklahoma State Court Network (OSCN) website will provide a link for the oral argument.  The link to the live feed will be available March 23 on the OSCN website.
 
 Live feed - [https://vimeo.com/690538427](https://vimeo.com/690538427)  
-** **Due to technical issue, this stream does not have audio** **
+** **Due to technical issue, this stream does not have audio. Closed captioning is available** **
