@@ -3,7 +3,7 @@ news: true
 published: true
 newsid: '2022-04-15 16:21 -0500'
 layout: news
-publish: '2022-04-15 16:21 -0500'
+publish: '2022-03-29 16:21 -0500'
 expire: '2022-04-30 16:21 -0500'
 system: false
 title: JNC - Press Release
