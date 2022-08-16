@@ -17,7 +17,7 @@ Prior to law school, as an aerospace engineer specializing in guidance and navig
 
 After law school, Rapp worked as a public defender in Tulsa, city prosecutor in Broken Arrow, municipal judge in Bixby, and alternate municipal judge for the City of Tulsa.  He served the 14th Judicial District as District Judge until Governor George Nigh appointed him to the Court of Civil Appeals, District 2, Office 2, in 1984.  He was the longest-serving judge on the Oklahoma Court of Civil Appeals and won his 2020 retention election with a 64% favorable vote.  
 
-Rapp is a member of the Tulsa County and Oklahoma Bar Associations, as well as holding membership in the bar associations of the U.S. Court of Appeals and the U.S. Supreme Court.  He also served his community as a member of the Tulsa Arts Council Advisory Board.  He is survived by his wife, Mary Lynn; ; son, Joe Rapp and his wife, Laura; daughter, Liz Harris; daughter, Kathy Carlsen and her husband, Bill; nine grandchildren; and his beloved dog, Lilly.
+Rapp is a member of the Tulsa County and Oklahoma Bar Associations, as well as holding membership in the bar associations of the U.S. Court of Appeals and the U.S. Supreme Court.  He also served his community as a member of the Tulsa Arts Council Advisory Board.  He is survived by his wife, Mary Lynn; son, Joe Rapp and his wife, Laura; daughter, Liz Harris; daughter, Kathy Carlsen and her husband, Bill; nine grandchildren; and his beloved dog, Lilly.
 
 "Judge Rapp was truly a scholar and a gentleman.  His years of judicial experience and his kindness to everyone will be remembered and missed by his colleagues at the Court of Civil Appeals and all members of the Oklahoma judiciary," reflected Chief Justice Richard Darby.
 
