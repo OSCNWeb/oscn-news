@@ -21,4 +21,4 @@ Rapp is a member of the Tulsa County and Oklahoma Bar Associations, as well as h
 
 "Judge Rapp was truly a scholar and a gentleman.  His years of judicial experience and his kindness to everyone will be remembered and missed by his colleagues at the Court of Civil Appeals and all members of the Oklahoma judiciary," reflected Chief Justice Richard Darby.
 
-Details on services will be provided when arranged.
+On Thursday, August 25 at 11:00 a.m., a graveside service will be held at the Fort Gibson National Cemetery, 1423 Cemetery Rd., Fort Gibson, OK 74434, and will be open to everyone.  A reception and lunch will follow at the Fort Gibson Community Center.  
