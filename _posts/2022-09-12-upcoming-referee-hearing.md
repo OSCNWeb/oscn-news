@@ -14,4 +14,4 @@ title: Upcoming Referee Hearing
 
 The Oklahoma Supreme Court will live-stream the Referee Hearing set for Tuesday, September 13, 2022, at 10:30 a.m.
 
-[Live Feed](https://vimeo.com/2421206)
+[Live Feed](https://vimeo.com/event/2421206)
