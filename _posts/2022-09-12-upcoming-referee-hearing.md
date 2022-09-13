@@ -4,7 +4,7 @@ published: true
 newsid: '2022-09-12 14:49 -0500'
 layout: news
 publish: '2022-09-12 14:49 -0500'
-expire: '2022-09-13 14:49 -0500'
+expire: '2022-09-14 14:49 -0500'
 system: false
 title: Upcoming Referee Hearing
 ---
