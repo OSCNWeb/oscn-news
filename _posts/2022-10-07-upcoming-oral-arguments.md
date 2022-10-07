@@ -17,7 +17,7 @@ Petitioner, vs. 918 Construction, Compsource Mutual Insurance Co. and the Worker
 
 This case is set for oral argument on Thursday, November 17, 2022, at 3:00 p.m., in the Dick Bell Courtroom at the University of Oklahoma College of Law, 300 W. Timberdell Road, Norman, Oklahoma, before the Oklahoma Court of Civil Appeals.
 
-[120,246](http://www.oscn.net/dockets/GetCaseInformation.aspx?db=appellate&number=120246) - Spencer Mathis and Jaden Fenstermaker,Plaintiffs/Appellants, vs. James Kerr, 5280 Solutions LLC, Dash Logistics LLC and Accelerate LLC, Defendants/Appellees.  
+[120,246](http://www.oscn.net/dockets/GetCaseInformation.aspx?db=appellate&number=120246) - Spencer Mathis and Jaden Fenstermaker, Plaintiffs/Appellants, vs. James Kerr, 5280 Solutions LLC, Dash Logistics LLC and Accelerate LLC, Defendants/Appellees.  
 
 This case is set for oral argument on Thursday, November 17, 2022, at 4:00 p.m., in the Dick Bell Courtroom at the University of Oklahoma College of Law, 300 W. Timberdell Road, Norman, Oklahoma, before the Oklahoma Court of Civil Appeals.
 
