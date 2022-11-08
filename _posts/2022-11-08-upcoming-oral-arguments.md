@@ -10,7 +10,7 @@ title: Upcoming Oral Arguments
 category:
   - supreme
 ---
-<u>Court of Civil Appeals</u>
+<u>Oklahoma Supreme Court</u>
 
 [120,619](https://www.oscn.net/dockets/GetCaseInformation.aspx?db=appellate&number=120619) - In the matter of the APPLICATION OF THE OKLAHOMA TURNPIKE AUTHORITY FOR THE APPROVAL OF NOT TO EXCEED $500,000,000 OKLAHOMA TURNPIKE SYSTEM SECOND SENIOR LIEN REVENUE BONDS, SERIES 2022:
 
