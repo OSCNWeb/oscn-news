@@ -4,7 +4,7 @@ published: true
 newsid: '2022-11-15 16:46 -0600'
 layout: news
 publish: '2022-11-15 16:46 -0600'
-expire: '2023-01-15 16:46 -0600'
+expire: '2022-11-20 16:46 -0600'
 system: false
 title: 'IN RE: ELECTION OF CHIEF JUSTICE AND VICE CHIEF JUSTICE'
 ---
