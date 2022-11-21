@@ -6,10 +6,12 @@ layout: news
 publish: '2022-11-08 14:29 -0600'
 expire: '2022-11-29 14:29 -0600'
 system: false
-title: Oral Argument Set for Challenge to Oklahoma Turnpike Authority Revenue Bonds
+title: Upcoming Oral Arguments
 category:
   - supreme
 ---
+<h3>Oral Argument Set for Challenge to Oklahoma Turnpike Authority Revenue Bonds</h3>
+
 The Oklahoma Supreme Court will hear oral argument next week on the recent challenge to the application of the Oklahoma Turnpike Authority for approval to issue revenue bonds.  The case will be heard before the Court en banc beginning at 10:00 a.m. on Monday, November 28, 2022, in the Courtroom of the Supreme Court of Oklahoma, located on the 2nd floor of the State Capitol.
 
 Because of statewide interest in the turnpike issue and limited seating in the Courtroom, the Oklahoma State Court Network (OSCN) will provide a live-stream of the proceedings. The link to the live-time feed will be found November 28 on the OSCN website approximately sixty minutes before the hearing begins.
