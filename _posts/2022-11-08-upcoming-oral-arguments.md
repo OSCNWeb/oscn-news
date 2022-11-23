@@ -20,4 +20,6 @@ The link to the case is [120,619](https://www.oscn.net/dockets/GetCaseInformatio
 
 <u>No other photographers, video cameras or recording devices will be allowed in the Courtroom of the Supreme Court.</u>
 
-Media inquiries should be directed to Jari Askins, Administrative Director of the Courts, at (405) 556-9300. 
+Media inquiries should be directed to Jari Askins, Administrative Director of the Courts, at (405) 556-9300.
+
+Livestream link: [https://youtu.be/tgyfZN0BaS8](https://youtu.be/tgyfZN0BaS8)
