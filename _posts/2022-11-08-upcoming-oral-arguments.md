@@ -22,4 +22,4 @@ The link to the case is [120,619](https://www.oscn.net/dockets/GetCaseInformatio
 
 Media inquiries should be directed to Jari Askins, Administrative Director of the Courts, at (405) 556-9300.
 
-Livestream link: [https://youtu.be/tgyfZN0BaS8](https://youtu.be/tgyfZN0BaS8)
+Livestream link: [https://youtu.be/gIJ4a3tXpYc](https://youtu.be/gIJ4a3tXpYc)
