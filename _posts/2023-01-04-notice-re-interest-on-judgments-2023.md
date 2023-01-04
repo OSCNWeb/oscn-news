@@ -6,7 +6,7 @@ layout: news
 publish: '2023-01-04 14:26 -0600'
 expire: '2023-02-15 14:26 -0600'
 system: false
-title: Notice Re Interest on Judgments 2023
+title: Notice Re Interest on Judgments
 category:
   - aoc
 ---
