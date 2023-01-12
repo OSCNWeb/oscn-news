@@ -8,7 +8,7 @@ expire: '2023-01-25 14:01 -0600'
 system: false
 title: Swearing-in of Chief Justice M. John Kane IV
 ---
-<div style="text-align: center;"><img style="width: 250px; margin: 0 0;" src="https://www.oscn.net/images/news/chief-justice-m-john-kane-invitation.jpg" /></div>
+<div style="text-align: center;"><img style="width: 250px; margin: 0 0; border: solid 1px silver; " src="https://www.oscn.net/images/news/chief-justice-m-john-kane-invitation.jpg" /></div>
 
 You are cordially invited to the Swearing-In Ceremony of **The Honorable M. John Kane IV** as Chief Justice of the Oklahoma Supreme Court.
 
