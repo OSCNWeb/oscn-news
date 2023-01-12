@@ -8,7 +8,7 @@ expire: '2022-01-31 13:46 -0600'
 system: false
 title: 'In Memoriam: Donald Worthington'
 ---
-<a href="https://www.oscn.net/images/news/donald-worthington-fullsize.jpg"><img style="width: 125px; float: left; margin: 0 10px 10px 0;" src="https://www.oscn.net/images/news/donald-worthington.jpg" /></a>
+<a href="https://www.oscn.net/images/news/donald-worthington-fullsize.jpg"><img style="border: solid 1px silver; width: 125px; float: left; margin: 0 10px 10px 0;" src="https://www.oscn.net/images/news/donald-worthington.jpg" /></a>
 Donald L. Worthington, age 95, retired district judge of Payne and Logan counties, died Tuesday, January 18, 2022 at the Stillwater Medical Center. Strode Funeral Home and Cremation in Stillwater is in charge of the arrangements. 
 
 Judge Worthington was born in Dewey County near Canton, Oklahoma on August 3, 1926 to Maurice H. Worthington, a farmer and pioneer school teacher, and Ruth Williams Worthington.  As a teenager, he moved with his family to a farm near Braman, Oklahoma and graduated from high school there.
