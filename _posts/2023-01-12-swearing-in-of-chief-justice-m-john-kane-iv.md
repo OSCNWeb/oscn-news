@@ -20,3 +20,5 @@ Oklahoma Capitol Building-Second Floor
 Oklahoma City, Oklahoma
 
 Reception to follow
+
+[Live Stream Available](https://youtu.be/lb_5W74y9gM)
