@@ -12,7 +12,7 @@ title: Swearing-in of Chief Justice M. John Kane IV
 
 You are cordially invited to the Swearing-In Ceremony of **The Honorable M. John Kane IV** as Chief Justice of the Oklahoma Supreme Court.
 
-Tuesday, the seventeenth day of January two thousand twent-three two o'clock pm
+Tuesday, the seventeenth day of January two thousand twenty-three two o'clock pm
 
 Oklahoma Supreme Court Courtoom  
 Oklahoma Capitol Building-Second Floor  
