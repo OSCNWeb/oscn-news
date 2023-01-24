@@ -4,7 +4,7 @@ published: true
 newsid: '2023-01-12 14:01 -0600'
 layout: news
 publish: '2023-01-12 14:01 -0600'
-expire: '2023-01-6 14:01 -0600'
+expire: '2023-01-23 14:01 -0600'
 system: false
 title: Swearing-in of Chief Justice M. John Kane IV
 ---
