@@ -10,7 +10,7 @@ title: 'FREE MOVIE NIGHT: Goodbye, My Fancy'
 ---
 <img src='https://oklahoma-public.s3.us-east-1.amazonaws.com/courses/85981/gkjtmcptbj.jpg' alt=''/>
 
-**Goodbye, My Fancy**
+**<span style="font-size: 1.25rem">Goodbye, My Fancy - February 21, 2023 (3.00 CLE)</span>**
 
 **Co-sponsored by the Oklahoma Supreme Court**
 
