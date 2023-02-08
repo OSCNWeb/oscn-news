@@ -6,11 +6,11 @@ layout: news
 publish: '2023-02-08 15:09 -0600'
 expire: '2023-02-28 15:09 -0600'
 system: false
-title: 'FREE MOVIE NIGHT: Goodbye, My Fancy'
+title: 'FREE MOVIE NIGHT: Goodbye, My Fancy - February 21, 2023 (3.00 CLE)'
 ---
 <img src='https://oklahoma-public.s3.us-east-1.amazonaws.com/courses/85981/gkjtmcptbj.jpg' alt=''/>
 
-**<span style="font-size: 1.25rem">Goodbye, My Fancy - February 21, 2023 (3.00 CLE)</span>**
+**<span style="font-size: 1.25rem">Goodbye, My Fancy</span>**
 
 **Co-sponsored by the Oklahoma Supreme Court**
 
