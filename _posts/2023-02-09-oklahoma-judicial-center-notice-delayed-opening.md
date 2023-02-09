@@ -4,7 +4,7 @@ published: true
 newsid: '2023-02-09 07:58 -0600'
 layout: news
 publish: '2023-02-09 07:58 -0600'
-expire: '2023-02-010 07:58 -0600'
+expire: '2023-02-10 07:58 -0600'
 system: false
 title: Oklahoma Judicial Center Notice - Delayed Opening
 category:
