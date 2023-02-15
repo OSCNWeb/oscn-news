@@ -27,3 +27,5 @@ title: 'FREE MOVIE NIGHT: Goodbye, My Fancy - Feb. 21, 2023 (3.00 CLE)'
 **Movie:  Goodbye, My Fancy**
 
 Congresswoman Agatha Reed returns to her alma mater for commencement, although she’s more interested in renewing her romance with an old flame who’s now the college president. Their attempts at rekindling any sparks are thwarted by the arrival of another rival for her affections and the showing of her controversial film which could put her former beau’s job in jeopardy.
+
+<a href='https://ok.webcredenza.com/program?id=85981'>More Information</a>
