@@ -4,7 +4,7 @@ published: true
 newsid: '2023-02-08 15:09 -0600'
 layout: news
 publish: '2023-02-08 15:09 -0600'
-expire: '2023-02-28 15:09 -0600'
+expire: '2023-02-23 15:09 -0600'
 system: false
 title: 'FREE MOVIE NIGHT: Goodbye, My Fancy - Feb. 21, 2023 (3.00 CLE)'
 ---
