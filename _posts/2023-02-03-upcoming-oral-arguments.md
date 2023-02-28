@@ -16,8 +16,3 @@ Equity Group Advancing Access and Services, LLC v Kevin Corbett, in his capacity
 
 The above-styled and numbered case is set for oral argument before the Court <i>en banc</i> commencing at 9:30 A.M. on March 23, 2023, in the Courtroom of the Supreme Court of Oklahoma, located on the Second Floor of the State Capitol Building. 
 
-<u>Court of Civil Appeals</u>
-
-[120,451](http://www.oscn.net/dockets/GetCaseInformation.aspx?db=appellate&number=120451) - In the Matter of the Estate of Dwight Jones, Deceased, Rand Brown vs. Lisa Renea Chapman
-
-This case is set for oral argument on Thursday, February 23, 2023, at 1:30 p.m., in the Court Room of the Court of Civil Appeals, 1915 N. Stiles, Suite 357, Oklahoma City, Oklahoma.
