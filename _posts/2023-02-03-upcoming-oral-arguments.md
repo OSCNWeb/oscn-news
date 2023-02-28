@@ -14,5 +14,6 @@ title: Upcoming Oral Arguments
 [120,982](http://www.oscn.net/dockets/GetCaseInformation.aspx?db=appellate&number=120982)
 Equity Group Advancing Access and Services, LLC v Kevin Corbett, in his capacity As Chief Executive Office of the Oklahoma Healthcare Authority and The State of Oklahoma ex rel. Oklahoma Health Care Authority
 
-The above-styled and numbered case is set for oral argument before the Court <i>en banc</i> commencing at 9:30 A.M. on March 23, 2023, in the Courtroom of the Supreme Court of Oklahoma, located on the Second Floor of the State Capitol Building. 
+The above-styled and numbered case is set for oral argument before the Court <i>en banc</i> commencing at 9:30 A.M. on March 23, 2023, in the Courtroom of the Supreme Court of Oklahoma, located on the Second Floor of the State Capitol Building.
 
+Livestream Available: [https://www.youtube.com/live/Ql0FwfpU6Cg?feature=share](https://www.youtube.com/live/Ql0FwfpU6Cg?feature=share)
