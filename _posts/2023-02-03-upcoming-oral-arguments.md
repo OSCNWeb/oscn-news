@@ -23,4 +23,5 @@ Livestream Available: [https://www.youtube.com/live/Ql0FwfpU6Cg?feature=share](h
 [119,184](http://www.oscn.net/dockets/GetCaseInformation.aspx?db=appellate&number=119184)
 Matthew Ramirez vs. Wal-Mart Stores East, LP, a Foreign Limited Partnership, d/b/a Wal-Mart Supercenter No. 389, and/or Wal-Mart Real Estate Business Trust, a Foreign Real Estate Trust
 
-Pursuant to Rule 1.176 of the Oklahoma Supreme Court Rules, this case is set for oral argument on Tuesday, March 28, 2023, at 2:00 p.m. in the Courtroom of the Tulsa Divisions of the Court of Civil Appeals, 201 West 5th Street, Suite 600, Tulsa, Oklahoma.
+Appellant's motion for additional time to brief and to reschedule oral argument is granted. The parties are given till April 3, 2023, to submit additional briefing on the question the Court raised. Oral argument is rescheduled for Monday, April 10, 2023 at 2 p.m. at the Court of Civil Appeals, Tulsa.  
+
