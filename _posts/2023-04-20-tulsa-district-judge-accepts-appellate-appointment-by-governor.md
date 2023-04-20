@@ -4,7 +4,7 @@ published: true
 newsid: '2023-04-20 11:56 -0500'
 layout: news
 publish: '2023-04-20 11:00 -0500'
-expire: '2023-04-20 11:00 -0500'
+expire: '2023-05-20 11:00 -0500'
 system: false
 title: Tulsa District Judge Accepts Appellate Appointment by Governor
 ---
