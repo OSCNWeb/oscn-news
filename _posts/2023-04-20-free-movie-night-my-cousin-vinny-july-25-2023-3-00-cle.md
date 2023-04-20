@@ -8,7 +8,7 @@ expire: '2023-07-26 16:41 -0500'
 system: false
 title: 'FREE MOVIE NIGHT: My Cousin Vinny - July 25, 2023 (3.00 CLE)'
 ---
-<img src='https://oklahoma-public.s3.us-east-1.amazonaws.com/courses/86015/hnvffyntfo.jpg' alt=''/>
+<a href='https://ok.webcredenza.com/program?id=86015'><img src='https://oklahoma-public.s3.us-east-1.amazonaws.com/courses/86015/hnvffyntfo.jpg' alt=''/></a>
 
 **<span style="font-size: 1.25rem">My Cousin Vinny</span>**
 
