@@ -14,6 +14,6 @@ Judge Huber began his service as a District Judge in 2020 and currently is the C
 
 A native of Tulsa, Judge Huber graduated from the University of Oklahoma and received his law degree from the University of Tulsa.  He entered private practice as an associate with Malloy & Associates and after a few years opened his own law firm.  He later served as the managing partner of Collier and Huber where he represented businesses and individuals in employment and commercial litigation issues.  In 2019, he was selected by the District Judges in Tulsa County to serve as a Special Judge.  
 
-“I congratulate Judge Huber on his selection by Governor Stitt and look forward to working with him during his service on the Court of Civil Appeals,” said Chief Justice M. John Kane IV.
+"I congratulate Judge Huber on his selection by Governor Stitt and look forward to working with him during his service on the Court of Civil Appeals," said Chief Justice M. John Kane IV.
 
 Married for thirty years, Judge Huber and his wife, Julie, are the parents of five children, Hailey, Allie, Katie, Jake, and Joe.
