@@ -6,7 +6,7 @@ layout: news
 publish: '2023-06-20 11:01 -0500'
 expire: '2023-06-30 11:01 -0500'
 system: false
-title: JNC Press Release - District 14
+title: JNC Press Release
 ---
 The Judicial Nominating Commission (JNC) today announced the following individuals have applied for the position of District Judge, District 14, Office 9:
 
