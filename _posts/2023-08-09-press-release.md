@@ -4,7 +4,7 @@ published: true
 newsid: '2023-08-09 16:04 -0500'
 layout: news
 publish: '2023-08-09 16:04 -0500'
-expire: '2023-08-09 16:04 -0500'
+expire: '2023-08-28 16:04 -0500'
 system: false
 title: Press Release
 ---
