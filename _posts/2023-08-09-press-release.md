@@ -16,4 +16,4 @@ On Wednesday, September 6, 2023, the Judicial Nominating Commission (JNC) will c
 - Richard L. Hathcoat, Tulsa
 - April L. Seibert, Tulsa
 
-(https://okjnc.com/620/press-release-9/)[https://okjnc.com/620/press-release-9/]
+[https://okjnc.com/620/press-release-9/](https://okjnc.com/620/press-release-9/)
