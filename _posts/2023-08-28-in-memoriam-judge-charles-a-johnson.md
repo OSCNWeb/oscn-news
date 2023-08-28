@@ -10,7 +10,7 @@ title: 'IN MEMORIAM: JUDGE CHARLES A. JOHNSON'
 category:
   - supreme
 ---
-<a href="http://okcca.net/wp-content/uploads/2023/08/Judge-C-Johnson-200x300.jpg"><img style="border: solid 1px silver; width: 125px; float: left; margin: 0 10px 10px 0;" src="http://okcca.net/wp-content/uploads/2023/08/Judge-C-Johnson-200x300.jpg" /></a>
+<a href="http://www.okcca.net/wp-content/uploads/2023/08/Judge-C-Johnson-200x300.jpg"><img style="border: solid 1px silver; width: 125px; float: left; margin: 0 10px 10px 0;" src="http://www.okcca.net/wp-content/uploads/2023/08/Judge-C-Johnson-200x300.jpg" /></a>
 Charles A. Johnson, retired judge of the Oklahoma Court of Criminal Appeals, died over the weekend, Presiding Judge Scott Rowland announced on Monday.  Born in Kansas City, Missouri, Judge Johnson graduated from Ponca City High School.  He received a B.A. degree from the University of Oklahoma and his L.L.B. from the University of Oklahoma College of Law.
 
 After release from active duty with the United States Air Force, Judge Johnson began his practice of law in Pawhuska, later moving to Ponca City where he started a solo law practice.  He was a senior partner with the firm of Phipps, Johnson, Holmes & Hermanson, which became Johnson & Hermanson before he returned to solo practice with the Johnson Law Firm.
@@ -23,5 +23,5 @@ He was active in the United States Air Force and the Reserve component of the Ai
 
 Judge Johnson is survived by his wife, Jan Grant-Johnson; daughter, Jill Brennan; and step-son, Edward Grant and his wife, Jacquelyn Grant. He is also survived by many grandchildren, dear friends, and colleagues. He was preceded in death by his son, Michael Downing Johnson, and step-sons, Monte Lee Grant and Ray Dean (Bubba) Grant
 
-<a href="http://okcca.net/wp-content/uploads/2023/08/occa-standard-charles.johnson-standing.jpg"><img style="border: solid 1px silver; margin: auto;" src="http://okcca.net/wp-content/uploads/2023/08/occa-standard-charles.johnson-standing-1024x759.jpg" /></a>
+<a href="http://www.okcca.net/wp-content/uploads/2023/08/occa-standard-charles.johnson-standing.jpg"><img style="border: solid 1px silver; margin: auto;" src="http://www.okcca.net/wp-content/uploads/2023/08/occa-standard-charles.johnson-standing-1024x759.jpg" /></a>
 
