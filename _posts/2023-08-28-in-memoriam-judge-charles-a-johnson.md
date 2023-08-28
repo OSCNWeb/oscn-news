@@ -4,7 +4,7 @@ published: true
 newsid: '2023-08-28 14:31 -0500'
 layout: news
 publish: '2023-08-28 14:31 -0500'
-expire: '2023-08-27 14:31 -0500'
+expire: '2023-09-27 14:31 -0500'
 system: false
 title: 'IN MEMORIAM: JUDGE CHARLES A. JOHNSON'
 category:
