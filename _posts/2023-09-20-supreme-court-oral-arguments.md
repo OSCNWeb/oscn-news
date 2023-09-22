@@ -16,4 +16,4 @@ and
 
 The above-styled and numbered cases are consolidated solely for the purposes of oral argument. These cases are set for oral argument before the Court <i>en banc</i> commencing at 10:00 a.m. on **October 5, 2023**, in the Courtroom of the Oklahoma Supreme Court, located on the second floor of the State Capitol.
 
-Livestream will be available for the oral arguments.
+[Livestream](https://youtube.com/live/Q0FiJXbI1a8?feature=shareCaptioning) will be available for the oral arguments.
