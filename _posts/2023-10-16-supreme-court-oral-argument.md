@@ -12,4 +12,4 @@ title: Supreme Court Oral Argument
 
 Appellant's <em>Motion for Oral Argument</em> and <em>Joint Motion of Amici Curiae Muscogee (Creek) Nation and the Seminole Nation of Oklahoma for Oral Argument</em> are hereby GRANTED.
 
-The case is set for oral argument before the COurt <em>en banc</em> commencing at 10:00 a.m. on January 17, 2024, in the Courtroom of the Oklahoma Supreme Court, located on the second floor of the State Capitol.
+The case is set for oral argument before the Court <em>en banc</em> commencing at 10:00 a.m. on January 17, 2024, in the Courtroom of the Oklahoma Supreme Court, located on the second floor of the State Capitol.
