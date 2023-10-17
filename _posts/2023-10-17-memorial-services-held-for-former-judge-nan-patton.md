@@ -3,7 +3,7 @@ news: true
 published: true
 newsid: '2023-10-17 10:33 -0500'
 layout: news
-publish: '2023-10-17 10:33 -0500'
+publish: '2023-10-15 10:33 -0500'
 expire: '2023-09-07 10:33 -0500'
 system: false
 title: 'Memorial Services Held for Former Judge Nan Patton '
