@@ -18,8 +18,9 @@ The Judicial Nominating Commission (JNC) today announced the following individua
 **[Associate District Judge, District 20, Murray County](https://okjnc.com/650/press-release-12/)**  
 The Judicial Nominating Commission (JNC) today announced the following individuals have applied for the position of Associate District Judge, District 20, Murray County:
 
-- Tyler L. Akers Ardmore
-- Don Herring Kingston
-- Rebecca B. Johnson Sulphur
+- Tyler L. Akers, Ardmore
+- Don Herring, Kingston
+- Rebecca B. Johnson, Sulphur
+- Mark D. Melton, Davis
 
 With assistance from the Oklahoma State Bureau of Investigations, the JNC will immediately commence background reviews on these candidates, and interviews will be scheduled as soon as practicable at the conclusion of these background reviews.
