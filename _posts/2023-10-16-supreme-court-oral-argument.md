@@ -18,4 +18,6 @@ Appellant's <em>Motion for Oral Argument</em> and <em>Joint Motion of Amici Curi
 
 The case is set for oral argument before the Court <em>en banc</em> commencing at 10:00 a.m. on January 17, 2024, in the Courtroom of the Oklahoma Supreme Court, located on the second floor of the State Capitol.
 
+[120,617](https://www.oscn.net/dockets/GetCaseInformation.aspx?db=appellate&number=120617) - Kelly Patrick Donaldson, Plaintiff/Appellee, vs City of El Reno, a Political Subdivision of the State of Oklahoma, Defendant/Appellant and State of Oklahoma, Intervenor.  
 
+Appellant's motion for oral argument is granted. The above-styled and numbered cause is set for oral argument before the Court _en banc_ commencing at 10:00 a.m. on **November 30, 2023**, in the Courtroom of the Supreme Court of Oklahoma, located in the State Capitol.
