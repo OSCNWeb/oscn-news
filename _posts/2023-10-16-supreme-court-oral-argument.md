@@ -22,8 +22,8 @@ The case is set for oral argument before the Court <em>en banc</em> commencing a
 
 Appellant's motion for oral argument is granted. The above-styled and numbered cause is set for oral argument before the Court _en banc_ commencing at 10:00 a.m. on **November 30, 2023**, in the Courtroom of the Supreme Court of Oklahoma, located in the State Capitol.
 
+[Livestream](https://youtube.com/live/Sj01oPW326s?feature=share) will be available for the oral arguments.
+
 [121,246](https://www.oscn.net/dockets/GetCaseInformation.aspx?db=appellate&number=121246) - Kim Carleson, Stephen Carleson, Kylee Carleson, and Sandra Massanelli, Plaintiffs/Appellees, vs Land Rover Tulsa, LLC, d/b/a Jaguar Land Rover Tulsa, Defendant/Appellant.
 
 This case is scheduled for oral argumen before Division I of the Oklahoma Court of Civil Appeals at 10:00 a.m., on Tuesday, December 12, 2023, in the courtroom of the Oklahoma Court of Civil Appeals, 1915 N. Stiles, Suite 357, Oklahoma City, OK, 73105.
-
-
