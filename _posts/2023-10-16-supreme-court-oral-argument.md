@@ -4,7 +4,7 @@ published: true
 newsid: '2023-10-16 13:26 -0500'
 layout: news
 publish: '2023-10-16 13:26 -0500'
-expire: '2024-01-18 13:26 -0500'
+expire: '2023-12-19 13:26 -0500'
 system: false
 title: Supreme Court Oral Argument
 ---
