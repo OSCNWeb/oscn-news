@@ -4,7 +4,7 @@ published: true
 newsid: '2024-01-16 21:53 -0600'
 layout: news
 publish: '2024-01-16 21:53 -0600'
-expire: '2024-01-18 21:53 -0600'
+expire: '2024-01-17 21:53 -0600'
 system: false
 title: Oklahoma Judicial Center Notice - Closed
 ---
