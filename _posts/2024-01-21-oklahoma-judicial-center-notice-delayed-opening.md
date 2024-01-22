@@ -10,4 +10,4 @@ title: Oklahoma Judicial Center Notice - Delayed Opening
 category:
   - supreme
 ---
-Due to inclement weather the Oklahoma Judicial Center, including the Office of the Clerk of the Supreme Court will open at 10:00 a.m., Monday, January 22, 2024.
+Due to inclement weather the Oklahoma Judicial Center, including the Office of the Clerk of the Supreme Court will open at 12:00 p.m., Monday, January 22, 2024.
