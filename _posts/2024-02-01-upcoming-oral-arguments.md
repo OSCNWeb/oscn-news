@@ -14,6 +14,6 @@ title: Upcoming Oral Arguments
 
 This case is set for oral argument on Thursday, February 8, 2024, at 10:00 a.m., in the Court Room of the Court of Civil Appeals, 1915 N. Stiles, Suite 357, Oklahoma City, Oklahoma.
 
-<u>Oral Argument Videos</u>
+<u>Supreme Court Oral Argument Videos</u>
 
 [Oral Argument Videos Page](https://www.oscn.net/static/pastoralarguments.asp)
