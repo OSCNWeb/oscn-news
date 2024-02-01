@@ -16,4 +16,4 @@ This case is set for oral argument on Thursday, February 8, 2024, at 10:00 a.m.,
 
 <u>Oral Argument Videos</u>
 
-[Oral Arguments Videos Page](https://www.oscn.net/static/pastoralarguments.asp)
+[Oral Argument Videos Page](https://www.oscn.net/static/pastoralarguments.asp)
