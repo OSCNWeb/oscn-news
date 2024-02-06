@@ -10,10 +10,6 @@ title: Upcoming Oral Arguments
 ---
 **Court of Civil Appeals**
 
-[121,192](https://www.oscn.net/dockets/GetCaseInformation.aspx?db=appellate&number=121192) - St. Anthony South Behavioral Health (employer) and SSM Health Care Corp. (Own Risk Insurer) vs Monica Moreno Goodwin and The Workers' Compensation Commission.
-
-This case is set for oral argument on Thursday, February 8, 2024, at 10:00 a.m., in the Court Room of the Court of Civil Appeals, 1915 N. Stiles, Suite 357, Oklahoma City, Oklahoma.
-
 [121,604](https://www.oscn.net/dockets/GetCaseInformation.aspx?db=appellate&number=121604) - Nicholles Brooke vs. Keith Reed, RN, MPH, CPH, in his Official Capacity as Oklahoma State Department of Health Commissioner.
 
 The appellant's motion for oral argument is granted. The matter is set for
