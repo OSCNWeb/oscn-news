@@ -23,9 +23,12 @@ Capitol.
 
 [121,604](https://www.oscn.net/dockets/GetCaseInformation.aspx?db=appellate&number=121604) - Nicholles Brooke vs. Keith Reed, RN, MPH, CPH, in his Official Capacity as Oklahoma State Department of Health Commissioner.
 
-The appellant's motion for oral argument is granted. The matter is set for
-oral argument before this Court on Thursday, March 7, 2024, at 10:00 a.m., in the courtroom of the Tulsa Divisions of the Court of Civil Appeals, 201 West 5th Street, Suite 600, Tulsa, Oklahoma.
+The appellant's motion for oral argument is granted. The matter is set for oral argument before this Court on Thursday, March 7, 2024, at 10:00 a.m., in the courtroom of the Tulsa Divisions of the Court of Civil Appeals, 201 West 5th Street, Suite 600, Tulsa, Oklahoma.
 
+
+[121,192](https://www.oscn.net/dockets/GetCaseInformation.aspx?db=appellate&number=121192) - ST. ANTHONY SOUTH BEHAVIORAL HEALTH and SSM HEALTH CARE CORP. (OWN RISK) vs. MONICA MORENO GOODWIN and THE WORKERS' COMPENSATION COMMISSION.
+
+This case is set for oral argument on Tuesday, March 26, 2024, at 10:00 a.m., in the Court Room of the Court of Civil Appeals, 1915 N. Stiles, Suite 357, Oklahoma City, Oklahoma.
 
 **Supreme Court Oral Argument Videos**
 
