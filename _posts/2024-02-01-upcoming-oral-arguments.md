@@ -25,6 +25,12 @@ Capitol.
 
 The appellant's motion for oral argument is granted. The matter is set for oral argument before this Court on Thursday, March 7, 2024, at 10:00 a.m., in the courtroom of the Tulsa Divisions of the Court of Civil Appeals, 201 West 5th Street, Suite 600, Tulsa, Oklahoma.
 
+[121,192](https://www.oscn.net/dockets/GetCaseInformation.aspx?db=appellate&number=121192) - St. Anthony South Behavioral Health and SSM Health Care Corp. (OWN RISK)
+v.
+Monica Moreno Goodwin and The Workers' Compensation Commission
+
+This case is set for oral argument on Wednesday, May 15, 2024, at 10:00 a.m., in the Court Room of the Court of Civil Appeals, 1915 N. Stiles, Suite 357, Oklahoma City, Oklahoma.
+
 **Supreme Court Oral Argument Videos**
 
 [Oral Argument Videos Page](https://www.oscn.net/static/pastoralarguments.asp)
