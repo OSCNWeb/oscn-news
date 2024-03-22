@@ -14,10 +14,15 @@ title: Upcoming Oral Arguments
 
 The case is set for oral argument before the Court en banc commencing at 10:00 a.m. on April 2, 2024, in the Courtroom of the Supreme Court of Oklahoma, located on the second floor of the State Capitol.
 
+[Livestream](https://youtube.com/live/dWrIgT7dTsg?feature=share) will be available for the oral arguments.
+
 [121,502](https://www.oscn.net/dockets/GetCaseInformation.aspx?db=appellate&number=121502) - Lessi Benningfield Randle, Tulsa Race Massacre Survivor, Viola Fletcher, Tulsa Race Massacre Survivor and Hughes Van Ellis, Sr., Tulsa Race Massacre Survivor v. City of Tulsa, a Municipal Corporation, Tulsa Regional Chamber, a Domestic Not For Profit Corporation, Board of County Commissioners for Tulsa County, Oklahoma, Vic Regalado, in his official capacity as Sheriff of Tulsa County and Oklahoma Military Department.
 
 Plaintiffs/Appellants' Motion for Oral Argument is granted. The case is set for oral argument before the Court en banc commencing at 1:30 p.m. on April 2, 2024, in the Courtroom of the Supreme Court of Oklahoma, located on the second floor of the State
 Capitol.
+
+Livestream will be available for the oral arguments.
+
 
 **Court of Civil Appeals**
 
