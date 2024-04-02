@@ -21,7 +21,7 @@ The case is set for oral argument before the Court en banc commencing at 10:00 a
 Plaintiffs/Appellants' Motion for Oral Argument is granted. The case is set for oral argument before the Court en banc commencing at 1:30 p.m. on April 2, 2024, in the Courtroom of the Supreme Court of Oklahoma, located on the second floor of the State
 Capitol.
 
-Livestream will be available for the oral arguments.
+[Livestream](https://youtube.com/live/rOUENzolZZc?feature=share) will be available for the oral arguments.
 
 
 **Court of Civil Appeals**
