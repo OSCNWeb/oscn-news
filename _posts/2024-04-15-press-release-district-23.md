@@ -4,7 +4,7 @@ published: true
 newsid: '2024-04-15 11:06 -0500'
 layout: news
 publish: '2024-04-15 11:06 -0500'
-expire: '2024-06-15 11:06 -0500'
+expire: '2024-05-09 11:06 -0500'
 system: false
 title: Press Release - District 23
 ---
@@ -32,4 +32,4 @@ Oklahoma City OK 73105 and/or
 James Bland  
 Chair, Judicial Nominating Commission  
 100 East Carl Albert Parkway  
-McAlester, Oklahoma 74501  
+McAlester, Oklahoma 74501
