@@ -8,7 +8,7 @@ expire: '2024-06-10 10:19 -0500'
 system: false
 title: Press Release - District 23 Interviews
 ---
-position of District Judge of Lincoln County. The following individuals have applied for this position:
+On Tuesday, June 4, 2024, the Judicial Nominating Commission (JNC) will conduct interviews for the position of District Judge of Lincoln County. The following individuals have applied for this position:
 
 - Sarah Lynne Bridge, Chandler
 - Joseph Alan Dobry, Chandler
