@@ -6,7 +6,7 @@ layout: news
 publish: '2024-05-15 10:17 -0500'
 expire: '2024-05-25 10:17 -0500'
 system: false
-title: Administrative Director
+title: 'Position: Administrative Director of the Courts'
 category:
   - aoc
 ---
@@ -23,5 +23,4 @@ Judicial Center
 Oklahoma City, OK 73105  
 Questions:   (405) 556-9100  
 
-All applications are treated as confidential  
-
+All applications are treated as confidential
