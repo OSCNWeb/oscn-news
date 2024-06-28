@@ -6,7 +6,7 @@ layout: news
 publish: '2024-06-28 16:29 -0500'
 expire: '2024-08-02 16:29 -0500'
 system: false
-title: Press Release - JNC
+title: Press Release
 ---
 The Judicial Nominating Commission seeks applicants to fille a vacancy for the position of District Judge for the 9th Judicial District, encompassing Payne and Logan Counties, Office 1. This vacancy is created by the retirement of the Honorable Phillip Corley, effective September 1, 2024.
 
