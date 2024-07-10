@@ -8,7 +8,7 @@ expire: '2024-08-02 16:29 -0500'
 system: false
 title: Press Release
 ---
-The Judicial Nominating Commission seeks applicants to file a vacancy for the position of District Judge for the Second Judicial District, encompassing Beckham, Custer, Ellis, Roger Mills, and Washita Counties, Office 1. This vacancy is created by the retirement of the Honorable Jill C. Weedon, effective November 1, 2024.
+The Judicial Nominating Commission seeks applicants to fill a vacancy for the position of District Judge for the Second Judicial District, encompassing Beckham, Custer, Ellis, Roger Mills, and Washita Counties, Office 1. This vacancy is created by the retirement of the Honorable Jill C. Weedon, effective November 1, 2024.
 
 To be appointed to Office 1, Second Judicial District, one must be a legal resident of Beckham, Custer, Ellis, Roger Mills, or Washita County at the time (s)he takes the oath of office and assumes the duties of office. Additionally, prior to appointment, such appointee shall have had a minimum of four years’ experience in Oklahoma as a licensed practicing attorney, a judge of a court of record, or both.
 
