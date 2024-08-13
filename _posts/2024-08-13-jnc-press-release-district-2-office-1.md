@@ -6,7 +6,7 @@ layout: news
 publish: '2024-08-13 10:05 -0500'
 expire: '2024-09-13 10:05 -0500'
 system: false
-title: 'JNC Press Release - District 2, Office 1'
+title: JNC Press Release
 ---
 The Judicial Nominating Commission (JNC) today announced the following individuals have applied for
 the position of District Judge, Beckham, Custer, Ellis, Roger Mills, and Washita Counties - District 2,
