@@ -4,7 +4,7 @@ published: true
 newsid: '2024-08-23 09:43 -0500'
 layout: news
 publish: '2024-08-23 09:43 -0500'
-expire: '2024-08-23 09:43 -0500'
+expire: '2024-08-27 09:43 -0500'
 system: false
 title: Site Maintenance - Canceled
 ---
