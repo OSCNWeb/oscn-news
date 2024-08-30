@@ -4,7 +4,7 @@ published: true
 newsid: '2024-05-15 10:17 -0500'
 layout: news
 publish: '2024-05-15 10:17 -0500'
-expire: '2030-06-25 10:17 -0500'
+expire: '2024-08-25 10:17 -0500'
 system: false
 title: 'Position: Administrative Director of the Courts'
 category:
