@@ -1,7 +1,7 @@
 ---
 news: true
 published: true
-newsid: '2024-09-04 10:18 -0500'
+newsid: '2024-09-02 10:18 -0500'
 layout: news
 publish: '2024-09-02 10:18 -0500'
 expire: '2024-10-02 10:18 -0500'
