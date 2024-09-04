@@ -30,7 +30,7 @@ Attn: Gina Rae Antipov
 Oklahoma City OK 73105   
 and/or
 
-James Bland  
+James Bland   
 Chair, Judicial Nominating Commission  
 100 East Carl Albert Parkway  
-McAlester, Oklahoma 74501  
+McAlester, Oklahoma 74501
