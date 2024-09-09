@@ -18,7 +18,7 @@ the position of District Judge, Seminole and Hughes Counties - District 22, Offi
 5. Trisha Deanne Smth, Holdenville
 
 The JNC strongly encourages the public to continue submitting comments on these applicants. Comments
-must be received prior to October 18, 2024, and may be mailed to:
+must be received prior to September 23, 2024, and may be mailed to:
 
 <hr />
 
