@@ -20,7 +20,7 @@ the position of District Judge, Seminole and Hughes Counties - District 22, Offi
 The JNC strongly encourages the public to continue submitting comments on these applicants. Comments
 must be received prior to October 18, 2024, and may be mailed to:
 
-<hr />
+---
 
 On Friday, October 18, 2024, the Judicial Nominating Commission (JNC) will conduct interviews for the
 position of District Judge, Payne and Logan Counties - District 9, Office 1:
