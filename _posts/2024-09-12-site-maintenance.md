@@ -4,7 +4,7 @@ published: true
 newsid: '2024-09-12 13:07 -0500'
 layout: news
 publish: '2024-09-12 13:07 -0500'
-expire: '2024-09-14 13:07 -0500'
+expire: '2024-09-13 13:07 -0500'
 system: false
 title: Site Maintenance
 ---
