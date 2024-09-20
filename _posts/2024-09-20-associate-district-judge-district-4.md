@@ -6,7 +6,7 @@ layout: news
 publish: '2024-09-20 12:28 -0500'
 expire: '2024-10-10 12:28 -0500'
 system: false
-title: 'Associate District Judge, District 4'
+title: NOTICE OF JUDICIAL VACANCY
 ---
 The Judicial Nominating Commission seeks applicants to fill the following judicial office of Associate District Judge, Fourth Judicial District, encompassing Alfalfa, Blaine, Dewey, Garfield, Grant, Kingfisher, Major, Woods, and Woodward Counties. This vacancy is created due to the resignation of the Honorable Brian Lovell, effective September 9, 2024.
 
