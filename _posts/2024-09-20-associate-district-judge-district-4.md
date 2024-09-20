@@ -20,4 +20,4 @@ Oklahoma Judicial Nominating Commission
 c/o Gina Antipov  
 Administrative Office of the Courts  
 2100 N. Lincoln Blvd., Suite 3  
-Oklahoma City, OK 73105  
+Oklahoma City, OK 73105
