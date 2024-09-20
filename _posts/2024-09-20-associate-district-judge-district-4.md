@@ -4,7 +4,7 @@ published: true
 newsid: '2024-09-20 12:28 -0500'
 layout: news
 publish: '2024-09-20 12:28 -0500'
-expire: '2024-10-10 12:28 -0500'
+expire: '2024-10-11 12:28 -0500'
 system: false
 title: NOTICE OF JUDICIAL VACANCY
 ---
