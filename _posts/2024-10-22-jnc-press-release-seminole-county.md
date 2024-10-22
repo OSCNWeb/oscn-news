@@ -6,7 +6,7 @@ layout: news
 publish: '2024-10-22 15:52 -0500'
 expire: '2024-11-22 15:52 -0500'
 system: false
-title: JNC Press Release - Seminole County
+title: JNC Press Release
 ---
 The Judicial Nominating Commission seeks applicants to fill the following judicial office of Associate District Judge, Seminole County. This vacancy is created due to the appointment of the Honorable Brett William Butner to District Judge on October 4, 2024.
 
