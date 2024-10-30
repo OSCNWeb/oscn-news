@@ -4,7 +4,7 @@ published: true
 newsid: '2024-10-25 11:09 -0500'
 layout: news
 publish: '2024-10-25 11:09 -0500'
-expire: '2024-11-25 11:09 -0500'
+expire: '2024-11-08 11:09 -0500'
 system: false
 title: JNC Press Release
 ---
