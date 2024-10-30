@@ -4,7 +4,7 @@ published: true
 newsid: '2024-10-22 15:52 -0500'
 layout: news
 publish: '2024-10-22 15:52 -0500'
-expire: '2024-11-22 15:52 -0500'
+expire: '2024-11-08 14:39 -0500'
 system: false
 title: JNC Press Release
 ---
@@ -19,4 +19,4 @@ Oklahoma Judicial Nominating Commission
 c/o Gina Antipov  
 Administrative Office of the Courts  
 2100 N. Lincoln Blvd., Suite 3  
-Oklahoma City, OK 73105  
+Oklahoma City, OK 73105
