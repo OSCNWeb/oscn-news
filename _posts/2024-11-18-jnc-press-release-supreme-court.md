@@ -6,7 +6,7 @@ layout: news
 publish: '2024-11-18 16:13 -0600'
 expire: '2024-12-20 16:13 -0600'
 system: false
-title: JNC Press Release - Supreme Court
+title: JNC Press Release
 ---
 The Judicial Nominating Commission seeks applicants to fill a vacancy for the position of Justice of the Supreme Court, Judicial District 4, which is comprised of Congressional District 3 as constituted on January 8, 2019. This vacancy is created by the retirement of the Honorable Yvonne Kauger, effective December 1, 2024.
 
