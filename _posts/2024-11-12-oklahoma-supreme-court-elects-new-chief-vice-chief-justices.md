@@ -4,7 +4,7 @@ published: true
 newsid: '2024-11-12 15:07 -0600'
 layout: news
 publish: '2024-11-12 15:07 -0600'
-expire: '2024-12-12 15:07 -0600'
+expire: '2025-01-12 15:07 -0600'
 system: false
 title: 'Oklahoma Supreme Court Elects New Chief, Vice Chief Justices'
 category:
