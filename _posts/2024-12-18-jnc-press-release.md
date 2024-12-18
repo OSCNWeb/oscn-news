@@ -3,7 +3,7 @@ news: true
 published: true
 newsid: '2024-12-18 09:09 -0600'
 layout: news
-publish: '2024-12-18 09:09 -0600'
+publish: '2024-12-16 09:09 -0600'
 expire: '2024-12-25 09:09 -0600'
 system: false
 title: JNC - Press Release
