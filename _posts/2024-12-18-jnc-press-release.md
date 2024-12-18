@@ -8,7 +8,7 @@ expire: '2024-12-25 09:09 -0600'
 system: false
 title: JNC - Press Release
 ---
-he Judicial Nominating Commission (JNC) announces the three nominees for the position of Associate District Judge, District 4, Garfield County. After concluding the review process and conducting in-person interviews, the JNC submitted to the Governor the following nominees for this position:
+The Judicial Nominating Commission (JNC) announces the three nominees for the position of Associate District Judge, District 4, Garfield County. After concluding the review process and conducting in-person interviews, the JNC submitted to the Governor the following nominees for this position:
 
 - Hope Leslie Bryant Enid
 - Blake Allen Gibson Enid
