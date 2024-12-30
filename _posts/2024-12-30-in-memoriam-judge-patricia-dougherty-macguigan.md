@@ -4,7 +4,7 @@ published: true
 newsid: '2024-12-30 14:34 -0600'
 layout: news
 publish: '2024-12-30 14:34 -0600'
-expire: '2024-12-30 14:34 -0600'
+expire: '2025-01-05 14:34 -0600'
 system: false
 title: 'IN MEMORIAM: JUDGE PATRICIA DOUGHERTY-MACGUIGAN'
 ---
