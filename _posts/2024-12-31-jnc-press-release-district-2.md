@@ -6,7 +6,7 @@ layout: news
 publish: '2024-12-31 12:30 -0600'
 expire: '2025-01-08 12:30 -0600'
 system: false
-title: JNC Press Release -  District 2
+title: JNC Press Release
 ---
 The Judicial Nominating Commission (JNC) today announced the following individuals have applied for
 the position of Associate District Judge, Custer County - District 2:
@@ -27,4 +27,4 @@ Oklahoma City OK 73105 and/or
 James Bland 
 Chair, Judicial Nominating Commission  
 100 East Carl Albert Parkway  
-McAlester, Oklahoma 74501 
+McAlester, Oklahoma 74501
