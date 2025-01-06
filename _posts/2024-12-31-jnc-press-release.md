@@ -8,7 +8,7 @@ expire: '2025-01-08 13:09 -0600'
 system: false
 title: JNC Press Release
 ---
-The Judicial Nominating Commission seeks applicants to fill a vacancy for the position of District Judge, Office 1, for the Twenty-fourth Judicial District, Creek County. This vacancy is created by the resignation of the Honorable Douglas W. Golden, effective February 1, 2025.
+The Judicial Nominating Commission seeks applicants to fill a vacancy for the position of District Judge, Office 1, for the Twenty-fourth Judicial District, Creek County. This vacancy is created by the retirement of the Honorable Douglas W. Golden, effective February 1, 2025.
 
 To be appointed to Office 1, for the Twenty-fourth Judicial District, one must be a legal resident of Creek County at the time (s)he takes the oath of office and assumes the duties of office. Additionally, prior to appointment, such appointee shall have had a minimum of four years’ experience in Oklahoma as a licensed practicing attorney, a judge of a court of record, or both.
 
