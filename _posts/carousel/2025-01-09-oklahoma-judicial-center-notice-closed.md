@@ -16,4 +16,4 @@ carousel_content: >-
   src='https://www.oscn.net/assets/img/carousel/building-closure-weather.jpg'
   alt='' />
 ---
-Due to inclement weather, the Oklahoma Judicial Center, including the Office of the Clerk of the Supreme Court is closed Thursday, Janauary 9, 2025. Pursuant to OK.S.Ct.R. 1.3 any filing deadline which may occur on Thursday, January 9, 2025, is extended to include the next full business day.
+Due to inclement weather, the Oklahoma Judicial Center, including the Office of the Clerk of the Supreme Court is closed Thursday, Janauary 9, 2025 at 1:00 PM. Pursuant to OK.S.Ct.R. 1.3 any filing deadline which may occur on Thursday, January 9, 2025, is extended to include the next full business day.
