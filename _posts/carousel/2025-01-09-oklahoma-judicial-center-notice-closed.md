@@ -4,13 +4,13 @@ published: true
 newsid: '2025-01-09 12:04 -0600'
 layout: carousel
 publish: '2025-01-09 12:04 -0600'
-expire: '2025-01-10 12:04 -0600'
+expire: '2025-01-09 12:04 -0600'
 system: false
-news: true
+news: false
 title: Oklahoma Judicial Center Notice - Closed
 category:
   - aoc
-carousel_expire: '2025-01-10 01:47 -0600'
+carousel_expire: '2025-01-09 01:47 -0600'
 carousel_content: >-
   <img
   src='https://www.oscn.net/image/news/judicial-building-closure-20250109.jpg'
