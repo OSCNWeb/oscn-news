@@ -2,7 +2,7 @@
 carousel: true
 published: true
 newsid: '2025-01-09 12:04 -0600'
-layout: news
+layout: carousel
 publish: '2025-01-09 12:04 -0600'
 expire: '2025-01-10 12:04 -0600'
 system: false
