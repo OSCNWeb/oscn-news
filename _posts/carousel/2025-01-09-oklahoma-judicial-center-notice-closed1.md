@@ -8,7 +8,7 @@ expire: '2025-01-10 12:56 -0600'
 system: false
 news: true
 carousel_expire: '2025-01-10 12:56 -0600'
-title: Oklahoma Judicial Center Notice - Closed1
+title: Oklahoma Judicial Center Notice - Closed
 category:
   - aoc
 carousel_content: >-
