@@ -13,7 +13,7 @@ category:
   - aoc
 carousel_content: >-
   <img
-  src='https://www.oscn.net/image/news/judicial-building-closure-20250109.jpg'
+  src='https://www.oscn.net/images/news/judicial-building-closure-20250109.jpg'
   alt='' />
 link: 'https://www.oscn.net/'
 ---
