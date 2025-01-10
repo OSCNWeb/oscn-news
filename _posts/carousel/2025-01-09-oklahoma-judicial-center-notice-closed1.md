@@ -4,10 +4,10 @@ published: true
 newsid: '2025-01-09 12:56 -0600'
 layout: carousel
 publish: '2025-01-09 12:56 -0600'
-expire: '2025-01-10 12:56 -0600'
+expire: '2025-01-09 12:56 -0600'
 system: false
 news: true
-carousel_expire: '2025-01-10 12:56 -0600'
+carousel_expire: '2025-01-09 12:56 -0600'
 title: Oklahoma Judicial Center Notice - Closed
 category:
   - aoc
